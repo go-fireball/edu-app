@@ -108,6 +108,14 @@
         <v-card title="Comprehension">
           <v-card-item>
             <router-link to="/comprehension/5/a-tale-of-community-and-achievement">A Tale of Community and Achievement</router-link>
+            <br/>
+            <router-link to="/comprehension/5/the-great-telescope-of-bellevue">The Great Telescope of Bellevue</router-link>
+            <br/>
+            <router-link to="/comprehension/5/the-forgotten-library">The Forgotten Library</router-link>
+            <br/>
+            <router-link to="/comprehension/5/the-solar-system-adventure">The Solar System Adventure</router-link>
+            <br/>
+
           </v-card-item>
         </v-card>
       </v-col>
