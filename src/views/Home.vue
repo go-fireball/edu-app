@@ -115,6 +115,8 @@
             <br/>
             <router-link to="/comprehension/5/the-solar-system-adventure">The Solar System Adventure</router-link>
             <br/>
+            <router-link to="/comprehension/5/the-solar-system-adventure">The Mystery of the Forgotten Castle</router-link>
+            <br/>
 
           </v-card-item>
         </v-card>

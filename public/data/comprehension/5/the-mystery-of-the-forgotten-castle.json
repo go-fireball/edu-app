@@ -1,0 +1,159 @@
+{
+  "title": "The Mystery of the Forgotten Castle",
+  "passage": [
+    "In the rolling hills of the small town of Eldridge, stood the Forgotten Castle. A once magnificent fortress, now overtaken by ivy and moss, it held secrets and tales that intrigued the town's children.",
+    "Among those intrigued was a young girl named Emily. She was an adventurous soul who loved reading about history and legends. The Forgotten Castle was a mystery that she longed to unravel.",
+    "According to the town's folklore, the castle was once home to a brilliant inventor, Sir Cedric Thorn. He was known for his extraordinary inventions, but one day he vanished without a trace. Some say his most ambitious invention went awry; others believe he discovered a hidden treasure and left town.",
+    "One summer's day, Emily decided to explore the castle. With a backpack filled with supplies, a map of the castle, and her trusty flashlight, she ventured into the unknown.",
+    "The castle was filled with winding hallways, secret passages, and grand chambers filled with forgotten artifacts. Emily found Sir Cedric's study, filled with blueprints and notes. As she delved deeper, she stumbled upon a hidden room with a mysterious machine.",
+    "With a mixture of excitement and trepidation, Emily examined the machine. It was adorned with gears, levers, and dials, like something straight out of her history books. After hours of studying the machine and Sir Cedric's notes, Emily realized that it was a time-travel device!",
+    "Though tempted to use it, Emily decided it was best to leave the machine untouched. She documented her findings and left the castle, a smile on her face. The mystery of the Forgotten Castle was partly unraveled, but Emily knew that some secrets were best left untold.",
+    "The Forgotten Castle continued to stand, a symbol of history and mystery. Emily's adventure inspired other young explorers, and the legend of Sir Cedric Thorn and his incredible inventions lived on."
+  ],
+  "questions": [
+    {
+      "q": "Where is the Forgotten Castle located?",
+      "choices": [
+        {
+          "t": "In the city of Eldridge"
+        },
+        {
+          "t": "In the small town of Eldridge",
+          "correct": true
+        },
+        {
+          "t": "On a remote island"
+        },
+        {
+          "t": "In the mountains"
+        }
+      ]
+    },
+    {
+      "q": "What did Emily find in the hidden room?",
+      "choices": [
+        {
+          "t": "A treasure chest"
+        },
+        {
+          "t": "A mysterious machine",
+          "correct": true
+        },
+        {
+          "t": "Sir Cedric's diary"
+        },
+        {
+          "t": "A ghost"
+        }
+      ]
+    },
+    {
+      "q": "Who was Sir Cedric Thorn?",
+      "choices": [
+        {
+          "t": "A famous explorer"
+        },
+        {
+          "t": "A brilliant inventor",
+          "correct": true
+        },
+        {
+          "t": "A king"
+        },
+        {
+          "t": "A famous artist"
+        }
+      ]
+    },
+    {
+      "q": "What did Emily love to read about?",
+      "choices": [
+        {
+          "t": "Fairytales and fantasies"
+        },
+        {
+          "t": "History and legends",
+          "correct": true
+        },
+        {
+          "t": "Science fiction"
+        },
+        {
+          "t": "Mystery novels"
+        }
+      ]
+    },
+    {
+      "q": "Why did Sir Cedric Thorn vanish?",
+      "choices": [
+        {
+          "t": "He was kidnapped"
+        },
+        {
+          "t": "No one knows for sure",
+          "correct": true
+        },
+        {
+          "t": "He moved to another country"
+        },
+        {
+          "t": "He went on a long vacation"
+        }
+      ]
+    },
+    {
+      "q": "What did Emily decide to do with the time-travel device?",
+      "choices": [
+        {
+          "t": "She used it to travel back in time"
+        },
+        {
+          "t": "She took it home with her"
+        },
+        {
+          "t": "She left it untouched",
+          "correct": true
+        },
+        {
+          "t": "She sold it"
+        }
+      ]
+    },
+    {
+      "q": "What was Emily's feeling after exploring the castle?",
+      "choices": [
+        {
+          "t": "Disappointment"
+        },
+        {
+          "t": "Fear"
+        },
+        {
+          "t": "Excitement",
+          "correct": true
+        },
+        {
+          "t": "Boredom"
+        }
+      ]
+    },
+    {
+      "q": "What did Emily's adventure inspire others to do?",
+      "choices": [
+        {
+          "t": "Write books about the castle"
+        },
+        {
+          "t": "Restore the castle"
+        },
+        {
+          "t": "Become young explorers",
+          "correct": true
+        },
+        {
+          "t": "Build a museum"
+        }
+      ]
+    }
+  ]
+}
