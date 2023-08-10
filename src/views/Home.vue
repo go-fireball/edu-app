@@ -145,7 +145,9 @@
             <br/>
             <router-link to="/comprehension/5/democracy-the-rule-of-the-people">The Rule of the People</router-link>
             <br/>
-            <router-link to="/comprehension/5/justice-a-pillar-of-societal-harmony">Pillar of Societal Harmony</router-link>
+            <router-link to="/comprehension/7/justice-a-pillar-of-societal-harmony">Pillar of Societal Harmony</router-link>
+            <br/>
+            <router-link to="/comprehension/7/freedom-the-essence-of-human-dignity">The Essence of Human Dignity</router-link>
             <br/>
           </v-card-item>
         </v-card>
