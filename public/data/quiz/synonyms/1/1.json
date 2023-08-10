@@ -1,1 +1,185 @@
-{"questions":[{"q":"Choose the best synonym for the word \"happy\"","choices":[{"t":"Sad"},{"t":"Angry"},{"t":"Pleased","correct":true},{"t":"Dark","correct":false}]},{"q":"Choose the best synonym for the word \"run\"","choices":[{"t":"Walk"},{"t":"Stand"},{"t":"Jog","correct":true},{"t":"Sleep"}]},{"q":"Choose the best synonym for the word \"big\"","choices":[{"t":"Large","correct":true},{"t":"Tiny"},{"t":"Short"},{"t":"Light"}]},{"q":"Choose the best synonym for the word \"cold\"","choices":[{"t":"Hot"},{"t":"Chilly","correct":true},{"t":"Warm"},{"t":"Soft"}]},{"q":"Choose the best synonym for the word \"fast\"","choices":[{"t":"Slow"},{"t":"Quick","correct":true},{"t":"Heavy"},{"t":"Late"}]},{"q":"Choose the best synonym for the word \"small\"","choices":[{"t":"Tiny","correct":true},{"t":"Huge"},{"t":"Heavy"},{"t":"Bright"}]},{"q":"Choose the best synonym for the word \"mad\"","choices":[{"t":"Calm"},{"t":"Angry","correct":true},{"t":"Happy"},{"t":"Shiny"}]},{"q":"Choose the best synonym for the word \"funny\"","choices":[{"t":"Sad"},{"t":"Amusing","correct":true},{"t":"Serious"},{"t":"Boring"}]},{"q":"Choose the best synonym for the word \"tired\"","choices":[{"t":"Awake"},{"t":"Sleepy","correct":true},{"t":"Fast"},{"t":"Strong"}]},{"q":"Choose the best synonym for the word \"smart\"","choices":[{"t":"Foolish"},{"t":"Bright","correct":true},{"t":"Dull"},{"t":"Lazy"}]}]}
+{
+  "questions": [
+    {
+      "q": "Choose the best synonym for the word \"happy\"",
+      "choices": [
+        {
+          "t": "Sad"
+        },
+        {
+          "t": "Angry"
+        },
+        {
+          "t": "Pleased",
+          "correct": true
+        },
+        {
+          "t": "Dark",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "q": "Choose the best synonym for the word \"run\"",
+      "choices": [
+        {
+          "t": "Walk"
+        },
+        {
+          "t": "Stand"
+        },
+        {
+          "t": "Jog",
+          "correct": true
+        },
+        {
+          "t": "Sleep"
+        }
+      ]
+    },
+    {
+      "q": "Choose the best synonym for the word \"big\"",
+      "choices": [
+        {
+          "t": "Large",
+          "correct": true
+        },
+        {
+          "t": "Tiny"
+        },
+        {
+          "t": "Short"
+        },
+        {
+          "t": "Light"
+        }
+      ]
+    },
+    {
+      "q": "Choose the best synonym for the word \"cold\"",
+      "choices": [
+        {
+          "t": "Hot"
+        },
+        {
+          "t": "Chilly",
+          "correct": true
+        },
+        {
+          "t": "Warm"
+        },
+        {
+          "t": "Soft"
+        }
+      ]
+    },
+    {
+      "q": "Choose the best synonym for the word \"fast\"",
+      "choices": [
+        {
+          "t": "Slow"
+        },
+        {
+          "t": "Quick",
+          "correct": true
+        },
+        {
+          "t": "Heavy"
+        },
+        {
+          "t": "Late"
+        }
+      ]
+    },
+    {
+      "q": "Choose the best synonym for the word \"small\"",
+      "choices": [
+        {
+          "t": "Tiny",
+          "correct": true
+        },
+        {
+          "t": "Huge"
+        },
+        {
+          "t": "Heavy"
+        },
+        {
+          "t": "Bright"
+        }
+      ]
+    },
+    {
+      "q": "Choose the best synonym for the word \"mad\"",
+      "choices": [
+        {
+          "t": "Calm"
+        },
+        {
+          "t": "Angry",
+          "correct": true
+        },
+        {
+          "t": "Happy"
+        },
+        {
+          "t": "Shiny"
+        }
+      ]
+    },
+    {
+      "q": "Choose the best synonym for the word \"funny\"",
+      "choices": [
+        {
+          "t": "Sad"
+        },
+        {
+          "t": "Amusing",
+          "correct": true
+        },
+        {
+          "t": "Serious"
+        },
+        {
+          "t": "Boring"
+        }
+      ]
+    },
+    {
+      "q": "Choose the best synonym for the word \"tired\"",
+      "choices": [
+        {
+          "t": "Awake"
+        },
+        {
+          "t": "Sleepy",
+          "correct": true
+        },
+        {
+          "t": "Fast"
+        },
+        {
+          "t": "Strong"
+        }
+      ]
+    },
+    {
+      "q": "Choose the best synonym for the word \"smart\"",
+      "choices": [
+        {
+          "t": "Foolish"
+        },
+        {
+          "t": "Bright",
+          "correct": true
+        },
+        {
+          "t": "Dull"
+        },
+        {
+          "t": "Lazy"
+        }
+      ]
+    }
+  ]
+}
