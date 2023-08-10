@@ -1,0 +1,159 @@
+{
+  "title": "The Meteor Shower: A Night of Wonders",
+  "passage": [
+    "On a crisp, clear night in the small town of Starfield, something extraordinary was about to happen. The anticipated meteor shower was making its annual appearance, and this year it was expected to be especially vibrant and beautiful.",
+    "Local astronomer, Dr. Clara Bennett, was preparing a public viewing at the town's observatory. She set up telescopes and invited the community to join her in witnessing this celestial event. Her passion for astronomy was well-known, and she loved sharing it with others.",
+    "Families, students, and curious individuals gathered at the observatory, their faces lit with excitement. Dr. Bennett provided a short lecture on meteor showers, explaining their origins and significance in the universe.",
+    "As the night wore on, the first streaks of light began to appear in the sky. Gasps of amazement filled the air as meteors darted across the horizon. Some were bright and fast, while others trailed slowly, leaving a glowing path behind them.",
+    "Among the crowd was a young boy named Tim, who was experiencing his first meteor shower. He was enchanted by the beauty of the night sky and inspired by Dr. Bennett's words. Tim decided right then that he wanted to become an astronomer when he grew up.",
+    "The meteor shower lasted for hours, allowing everyone to take turns looking through the telescopes. Dr. Bennett answered questions and encouraged people to make wishes on the falling stars, embracing the magic of the moment.",
+    "As the night came to a close, the community felt a sense of connection and wonder. The meteor shower had brought them together, sparking curiosity and dreams. They left with memories that would last a lifetime, and for some, like Tim, it was the beginning of a lifelong passion.",
+    "The meteor shower was a reminder that the universe is vast and full of surprises. It challenged people to look beyond their daily lives and contemplate the mysteries of space. In Starfield, it was a night that would be remembered and cherished for years to come."
+  ],
+  "questions": [
+    {
+      "q": "What was special about the meteor shower in Starfield?",
+      "choices": [
+        {
+          "t": "It happened during the day"
+        },
+        {
+          "t": "It was expected to be especially vibrant and beautiful",
+          "correct": true
+        },
+        {
+          "t": "It was visible only through telescopes"
+        },
+        {
+          "t": "It lasted for only a few minutes"
+        }
+      ]
+    },
+    {
+      "q": "Who organized the public viewing of the meteor shower?",
+      "choices": [
+        {
+          "t": "The Mayor of Starfield"
+        },
+        {
+          "t": "Tim's parents"
+        },
+        {
+          "t": "Dr. Clara Bennett",
+          "correct": true
+        },
+        {
+          "t": "A group of students"
+        }
+      ]
+    },
+    {
+      "q": "What did the young boy Tim decide during the meteor shower?",
+      "choices": [
+        {
+          "t": "To become an astronaut"
+        },
+        {
+          "t": "To become an astronomer",
+          "correct": true
+        },
+        {
+          "t": "To write a book about meteors"
+        },
+        {
+          "t": "To leave the town of Starfield"
+        }
+      ]
+    },
+    {
+      "q": "What did Dr. Bennett do during the meteor shower?",
+      "choices": [
+        {
+          "t": "She gave a lecture, answered questions, and encouraged people to make wishes",
+          "correct": true
+        },
+        {
+          "t": "She sold meteorite samples"
+        },
+        {
+          "t": "She predicted the future"
+        },
+        {
+          "t": "She performed a musical concert"
+        }
+      ]
+    },
+    {
+      "q": "How did the community feel after witnessing the meteor shower?",
+      "choices": [
+        {
+          "t": "Scared and confused"
+        },
+        {
+          "t": "Bored and uninterested"
+        },
+        {
+          "t": "Connected and full of wonder",
+          "correct": true
+        },
+        {
+          "t": "Angry and disappointed"
+        }
+      ]
+    },
+    {
+      "q": "Why was the meteor shower significant in the town of Starfield?",
+      "choices": [
+        {
+          "t": "It caused damage to the town"
+        },
+        {
+          "t": "It brought the community together and sparked curiosity",
+          "correct": true
+        },
+        {
+          "t": "It marked the town's anniversary"
+        },
+        {
+          "t": "It was broadcasted on national television"
+        }
+      ]
+    },
+    {
+      "q": "What did Dr. Bennett encourage people to do with the falling stars?",
+      "choices": [
+        {
+          "t": "Collect them"
+        },
+        {
+          "t": "Study them"
+        },
+        {
+          "t": "Make wishes on them",
+          "correct": true
+        },
+        {
+          "t": "Ignore them"
+        }
+      ]
+    },
+    {
+      "q": "What effect did the meteor shower have on the universe's perception?",
+      "choices": [
+        {
+          "t": "It proved a scientific theory"
+        },
+        {
+          "t": "It challenged people to contemplate the mysteries of space",
+          "correct": true
+        },
+        {
+          "t": "It changed the alignment of the planets"
+        },
+        {
+          "t": "It created a new constellation"
+        }
+      ]
+    }
+  ]
+}

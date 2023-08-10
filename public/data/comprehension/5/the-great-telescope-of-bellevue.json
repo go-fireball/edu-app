@@ -1,0 +1,156 @@
+{
+  "title": "The Great Telescope of Bellevue: A Story of Discovery and Innovation.",
+  "passage": [
+    "In the mountainous region of Bellevue, there was an observatory that housed one of the largest telescopes in the country. The Great Telescope was a marvel of engineering, and many astronomers and scientists came to Bellevue to study the stars and galaxies.",
+    "Dr. Sarah Mitchell, a renowned astronomer, was the observatory's director. She had dedicated her life to exploring the cosmos and had made several significant discoveries, including identifying a new comet. Her leadership inspired her team of researchers, who worked tirelessly to unlock the secrets of the universe.",
+    "One summer, a group of students from the local university joined the observatory for an internship. They were eager to learn from Dr. Mitchell and contribute to ongoing research projects. Among them was a young man named Ethan, who had a keen interest in black holes.",
+    "Ethan's curiosity and determination caught Dr. Mitchell's attention. Together, they embarked on a new project to study a distant black hole. Ethan's innovative ideas and use of cutting-edge technology helped them make groundbreaking observations.",
+    "Months of hard work culminated in a scientific paper that was published in a prestigious journal. The entire community of Bellevue celebrated the achievement. The Great Telescope had once again proven its importance in the field of astronomy, and Ethan's career was off to a promising start."
+  ],
+  "questions": [
+    {
+      "q": "Where is the Great Telescope located?",
+      "choices": [
+        {
+          "t": "In a city"
+        },
+        {
+          "t": "In the mountainous region of Bellevue",
+          "correct": true
+        },
+        {
+          "t": "By the sea"
+        },
+        {
+          "t": "In a desert"
+        }
+      ]
+    },
+    {
+      "q": "Who is the director of the observatory?",
+      "choices": [
+        {
+          "t": "Ethan"
+        },
+        {
+          "t": "A group of students"
+        },
+        {
+          "t": "Dr. Sarah Mitchell",
+          "correct": true
+        },
+        {
+          "t": "The Mayor of Bellevue"
+        }
+      ]
+    },
+    {
+      "q": "What significant discovery did Dr. Mitchell make?",
+      "choices": [
+        {
+          "t": "A new galaxy"
+        },
+        {
+          "t": "A new planet"
+        },
+        {
+          "t": "A new comet",
+          "correct": true
+        },
+        {
+          "t": "A new moon"
+        }
+      ]
+    },
+    {
+      "q": "What was Ethan's area of interest?",
+      "choices": [
+        {
+          "t": "Comets"
+        },
+        {
+          "t": "Planets"
+        },
+        {
+          "t": "Black holes",
+          "correct": true
+        },
+        {
+          "t": "Galaxies"
+        }
+      ]
+    },
+    {
+      "q": "Why did the students join the observatory?",
+      "choices": [
+        {
+          "t": "For a holiday"
+        },
+        {
+          "t": "To repair the telescope"
+        },
+        {
+          "t": "For an internship",
+          "correct": true
+        },
+        {
+          "t": "To write a book"
+        }
+      ]
+    },
+    {
+      "q": "What was the result of Ethan and Dr. Mitchell's hard work?",
+      "choices": [
+        {
+          "t": "A movie"
+        },
+        {
+          "t": "A scientific paper published in a prestigious journal",
+          "correct": true
+        },
+        {
+          "t": "A new telescope"
+        },
+        {
+          "t": "A novel"
+        }
+      ]
+    },
+    {
+      "q": "How did the community of Bellevue react to the achievement?",
+      "choices": [
+        {
+          "t": "They were indifferent"
+        },
+        {
+          "t": "They celebrated",
+          "correct": true
+        },
+        {
+          "t": "They protested"
+        },
+        {
+          "t": "They were confused"
+        }
+      ]
+    },
+    {
+      "q": "What did Ethan use to make groundbreaking observations?",
+      "choices": [
+        {
+          "t": "Old textbooks"
+        },
+        {
+          "t": "Cutting-edge technology",
+          "correct": true
+        },
+        {
+          "t": "A small telescope"
+        },
+        {
+          "t": "His intuition alone"
+        }
+      ]
+    }
+  ]
+}

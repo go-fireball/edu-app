@@ -1,0 +1,159 @@
+{
+  "title": "The Meteorite Incident: A Scientific Exploration",
+  "passage": [
+    "In the remote town of Redwood, a mysterious event occurred that captured the attention of the scientific community. A meteorite had crashed into a nearby field, creating a crater and leaving behind unusual materials.",
+    "Dr. Emily Harrison, a renowned astrophysicist, was called upon to lead the investigation. She quickly assembled a team of experts, including geologists, chemists, and meteorologists, to analyze the meteorite's composition and potential impact on the environment.",
+    "Upon arrival, the team was awestruck by the sheer size of the meteorite. It was unlike anything they had seen before. The outer layer was a fusion of metals and minerals, while the inner core contained rare elements that were not commonly found on Earth.",
+    "The town's residents were both fascinated and concerned. Rumors began to circulate about potential dangers and unknown substances. Dr. Harrison reassured the community and held public meetings to explain the scientific process and dispel any misconceptions.",
+    "Laboratory analysis revealed that the meteorite contained traces of an unknown element. This element exhibited unique properties, such as the ability to absorb and emit light in unusual ways. The discovery had far-reaching implications and opened new avenues for scientific research.",
+    "Further studies were conducted to assess the meteorite's impact on the local ecosystem. Thankfully, the team found no harmful effects on the soil, water, or wildlife. However, they did observe changes in plant growth near the crash site, possibly influenced by the meteorite's composition.",
+    "The Meteorite Incident, as it came to be known, led to numerous publications and academic discussions. It sparked interest in space exploration and encouraged young students to pursue careers in science and technology.",
+    "Dr. Harrison's leadership and the team's meticulous work were widely recognized. The meteorite itself was preserved and placed in a national museum, serving as a reminder of the endless possibilities of scientific exploration and the interconnectedness of the universe."
+  ],
+  "questions": [
+    {
+      "q": "What was Dr. Emily Harrison's profession?",
+      "choices": [
+        {
+          "t": "Geologist"
+        },
+        {
+          "t": "Astrophysicist",
+          "correct": true
+        },
+        {
+          "t": "Meteorologist"
+        },
+        {
+          "t": "Chemist"
+        }
+      ]
+    },
+    {
+      "q": "What unique feature was found in the meteorite's inner core?",
+      "choices": [
+        {
+          "t": "Rare elements not commonly found on Earth",
+          "correct": true
+        },
+        {
+          "t": "Water and ice"
+        },
+        {
+          "t": "Diamonds and gems"
+        },
+        {
+          "t": "Living organisms"
+        }
+      ]
+    },
+    {
+      "q": "What concerns did the town's residents have about the meteorite?",
+      "choices": [
+        {
+          "t": "Potential dangers and unknown substances",
+          "correct": true
+        },
+        {
+          "t": "Its market value"
+        },
+        {
+          "t": "Its ownership"
+        },
+        {
+          "t": "Its aesthetic appeal"
+        }
+      ]
+    },
+    {
+      "q": "What unique properties did the unknown element in the meteorite exhibit?",
+      "choices": [
+        {
+          "t": "Ability to absorb and emit light in unusual ways",
+          "correct": true
+        },
+        {
+          "t": "Ability to change colors"
+        },
+        {
+          "t": "Ability to speak"
+        },
+        {
+          "t": "Ability to float"
+        }
+      ]
+    },
+    {
+      "q": "How did the meteorite affect the local ecosystem?",
+      "choices": [
+        {
+          "t": "It caused harmful effects on the soil and water"
+        },
+        {
+          "t": "It changed plant growth near the crash site",
+          "correct": true
+        },
+        {
+          "t": "It attracted new wildlife"
+        },
+        {
+          "t": "It created a new lake"
+        }
+      ]
+    },
+    {
+      "q": "What was the long-term impact of the Meteorite Incident?",
+      "choices": [
+        {
+          "t": "It led to numerous publications and interest in space exploration",
+          "correct": true
+        },
+        {
+          "t": "It caused a decline in scientific research"
+        },
+        {
+          "t": "It led to new laws and regulations"
+        },
+        {
+          "t": "It resulted in the town's evacuation"
+        }
+      ]
+    },
+    {
+      "q": "Where was the meteorite eventually placed?",
+      "choices": [
+        {
+          "t": "In a private collection"
+        },
+        {
+          "t": "In a national museum",
+          "correct": true
+        },
+        {
+          "t": "Back in space"
+        },
+        {
+          "t": "In the town's center"
+        }
+      ]
+    },
+    {
+      "q": "Why was Dr. Harrison's team assembled?",
+      "choices": [
+        {
+          "t": "To sell the meteorite"
+        },
+        {
+          "t": "To analyze the meteorite's composition and environmental impact",
+          "correct": true
+        },
+        {
+          "t": "To build a monument"
+        },
+        {
+          "t": "To conduct a tour"
+        }
+      ]
+    }
+  ]
+}
