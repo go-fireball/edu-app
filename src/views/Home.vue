@@ -3,7 +3,7 @@
   <br/>
   <v-container>
     <v-row>
-      <v-col cols="12" sm="3">
+      <v-col cols="12" sm="4">
         <v-card title="Science">
 
           <v-card-item>
@@ -50,18 +50,8 @@
         </v-card>
       </v-col>
 
-      <v-col cols="12" sm="3">
-        <v-card title="Math">
-          <v-card-item>
-            <router-link to="/quiz/math/1/additions-1">Additions Set 1</router-link>
-            <br/>
-            <router-link to="/quiz/math/1/additions-2">Additions Set 2</router-link>
-            <br/>
-          </v-card-item>
-        </v-card>
-      </v-col>
 
-      <v-col cols="12" sm="3">
+      <v-col cols="12" sm="4">
         <v-card title="Reading">
           <v-card-item>
             <router-link to="/quiz/synonyms/1/1">Synonyms Set 1</router-link>
@@ -104,7 +94,7 @@
           </v-card-item>
         </v-card>
       </v-col>
-      <v-col cols="12" sm="3">
+      <v-col cols="12" sm="4">
         <v-card title="Comprehension">
           <v-card-item>
             <router-link to="/comprehension/5/a-tale-of-community-and-achievement">A Tale of Community and Achievement</router-link>
@@ -152,6 +142,18 @@
           </v-card-item>
         </v-card>
       </v-col>
+
+      <v-col cols="12" sm="4">
+        <v-card title="Math">
+          <v-card-item>
+            <router-link to="/quiz/math/1/additions-1">Additions Set 1</router-link>
+            <br/>
+            <router-link to="/quiz/math/1/additions-2">Additions Set 2</router-link>
+            <br/>
+          </v-card-item>
+        </v-card>
+      </v-col>
+
     </v-row>
   </v-container>
 </template>
