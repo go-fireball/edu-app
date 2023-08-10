@@ -1,1 +1,148 @@
-{"questions":[{"q":"Kinetic energy is the energy of an object due to its:","choices":[{"t":"Color"},{"t":"Shape"},{"t":"Movement","correct":true},{"t":"Size"}]},{"q":"A car has more kinetic energy when it's moving faster. (True or False)","choices":[{"t":"True","correct":true},{"t":"False"}]},{"q":"Choose the odd one among these energy types:","choices":[{"t":"Potential Energy"},{"t":"Kinetic Energy"},{"t":"Thermal Energy"},{"t":"Blue Energy","correct":true}]},{"q":"If an object is at rest, it has no kinetic energy. (True or False)","choices":[{"t":"True","correct":true},{"t":"False"}]},{"q":"Which of the following factors affects an object's kinetic energy?","choices":[{"t":"Mass","correct":true},{"t":"Color"},{"t":"Taste"},{"t":"Sound"}]},{"q":"The kinetic energy of an object increases with its temperature. (True or False)","choices":[{"t":"True","correct":true},{"t":"False"}]},{"q":"A bicycle has more kinetic energy than a train if both are moving at the same speed. (True or False)","choices":[{"t":"True"},{"t":"False","correct":true}]},{"q":"The kinetic energy of an object is directly related to its mass and the square of its velocity. (True or False)","choices":[{"t":"True","correct":true},{"t":"False"}]},{"q":"What unit is used to measure kinetic energy?","choices":[{"t":"Volt"},{"t":"Joule","correct":true},{"t":"Ampere"},{"t":"Watt"}]},{"q":"A roller coaster has the greatest kinetic energy at the highest point of a hill. (True or False)","choices":[{"t":"True"},{"t":"False","correct":true}]}]}
+{
+  "questions": [
+    {
+      "q": "Kinetic energy is the energy of an object due to its:",
+      "choices": [
+        {
+          "t": "Color"
+        },
+        {
+          "t": "Shape"
+        },
+        {
+          "t": "Movement",
+          "correct": true
+        },
+        {
+          "t": "Size"
+        }
+      ]
+    },
+    {
+      "q": "A car has more kinetic energy when it's moving faster. (True or False)",
+      "choices": [
+        {
+          "t": "True",
+          "correct": true
+        },
+        {
+          "t": "False"
+        }
+      ]
+    },
+    {
+      "q": "Choose the odd one among these energy types:",
+      "choices": [
+        {
+          "t": "Potential Energy"
+        },
+        {
+          "t": "Kinetic Energy"
+        },
+        {
+          "t": "Thermal Energy"
+        },
+        {
+          "t": "Blue Energy",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "q": "If an object is at rest, it has no kinetic energy. (True or False)",
+      "choices": [
+        {
+          "t": "True",
+          "correct": true
+        },
+        {
+          "t": "False"
+        }
+      ]
+    },
+    {
+      "q": "Which of the following factors affects an object's kinetic energy?",
+      "choices": [
+        {
+          "t": "Mass",
+          "correct": true
+        },
+        {
+          "t": "Color"
+        },
+        {
+          "t": "Taste"
+        },
+        {
+          "t": "Sound"
+        }
+      ]
+    },
+    {
+      "q": "The kinetic energy of an object increases with its temperature. (True or False)",
+      "choices": [
+        {
+          "t": "True",
+          "correct": true
+        },
+        {
+          "t": "False"
+        }
+      ]
+    },
+    {
+      "q": "A bicycle has more kinetic energy than a train if both are moving at the same speed. (True or False)",
+      "choices": [
+        {
+          "t": "True"
+        },
+        {
+          "t": "False",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "q": "The kinetic energy of an object is directly related to its mass and the square of its velocity. (True or False)",
+      "choices": [
+        {
+          "t": "True",
+          "correct": true
+        },
+        {
+          "t": "False"
+        }
+      ]
+    },
+    {
+      "q": "What unit is used to measure kinetic energy?",
+      "choices": [
+        {
+          "t": "Volt"
+        },
+        {
+          "t": "Joule",
+          "correct": true
+        },
+        {
+          "t": "Ampere"
+        },
+        {
+          "t": "Watt"
+        }
+      ]
+    },
+    {
+      "q": "A roller coaster has the greatest kinetic energy at the highest point of a hill. (True or False)",
+      "choices": [
+        {
+          "t": "True"
+        },
+        {
+          "t": "False",
+          "correct": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,154 @@
-{"questions":[{"q":"What does solubility refer to?","choices":[{"t":"The amount of liquid that can be frozen"},{"t":"The amount of gas that can dissolve in a liquid"},{"t":"The ability of a solid to dissolve in a liquid","correct":true},{"t":"The ability of a liquid to evaporate"}]},{"q":"If a substance is insoluble in water, it means it cannot dissolve in water. (True or False)","choices":[{"t":"True","correct":true},{"t":"False"}]},{"q":"What is the term for a mixture in which a solid is fully dissolved in water?","choices":[{"t":"Solution","correct":true},{"t":"Suspension"},{"t":"Compound"},{"t":"Element"}]},{"q":"Increasing the temperature of water usually makes solids dissolve faster. (True or False)","choices":[{"t":"True","correct":true},{"t":"False"}]},{"q":"What do we call the substance that gets dissolved in a solution?","choices":[{"t":"Solute","correct":true},{"t":"Solvent"},{"t":"Solution"},{"t":"Suspendant"}]},{"q":"Water is called the universal solvent because it can dissolve every substance. (True or False)","choices":[{"t":"True"},{"t":"False","correct":true}]},{"q":"Which of these substances is usually soluble in water?","choices":[{"t":"Sand"},{"t":"Oil"},{"t":"Salt","correct":true},{"t":"Wax"}]},{"q":"A saturated solution means that no more solute can be dissolved at a given temperature. (True or False)","choices":[{"t":"True","correct":true},{"t":"False"}]},{"q":"Stirring a solution will decrease the rate of dissolving the solute. (True or False)","choices":[{"t":"True"},{"t":"False","correct":true}]},{"q":"Which factor does NOT affect the solubility of a solid in water?","choices":[{"t":"Temperature"},{"t":"Pressure"},{"t":"Amount of solute"},{"t":"Color of the solute","correct":true}]}]}
+{
+  "questions": [
+    {
+      "q": "What does solubility refer to?",
+      "choices": [
+        {
+          "t": "The amount of liquid that can be frozen"
+        },
+        {
+          "t": "The amount of gas that can dissolve in a liquid"
+        },
+        {
+          "t": "The ability of a solid to dissolve in a liquid",
+          "correct": true
+        },
+        {
+          "t": "The ability of a liquid to evaporate"
+        }
+      ]
+    },
+    {
+      "q": "If a substance is insoluble in water, it means it cannot dissolve in water. (True or False)",
+      "choices": [
+        {
+          "t": "True",
+          "correct": true
+        },
+        {
+          "t": "False"
+        }
+      ]
+    },
+    {
+      "q": "What is the term for a mixture in which a solid is fully dissolved in water?",
+      "choices": [
+        {
+          "t": "Solution",
+          "correct": true
+        },
+        {
+          "t": "Suspension"
+        },
+        {
+          "t": "Compound"
+        },
+        {
+          "t": "Element"
+        }
+      ]
+    },
+    {
+      "q": "Increasing the temperature of water usually makes solids dissolve faster. (True or False)",
+      "choices": [
+        {
+          "t": "True",
+          "correct": true
+        },
+        {
+          "t": "False"
+        }
+      ]
+    },
+    {
+      "q": "What do we call the substance that gets dissolved in a solution?",
+      "choices": [
+        {
+          "t": "Solute",
+          "correct": true
+        },
+        {
+          "t": "Solvent"
+        },
+        {
+          "t": "Solution"
+        },
+        {
+          "t": "Suspendant"
+        }
+      ]
+    },
+    {
+      "q": "Water is called the universal solvent because it can dissolve every substance. (True or False)",
+      "choices": [
+        {
+          "t": "True"
+        },
+        {
+          "t": "False",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "q": "Which of these substances is usually soluble in water?",
+      "choices": [
+        {
+          "t": "Sand"
+        },
+        {
+          "t": "Oil"
+        },
+        {
+          "t": "Salt",
+          "correct": true
+        },
+        {
+          "t": "Wax"
+        }
+      ]
+    },
+    {
+      "q": "A saturated solution means that no more solute can be dissolved at a given temperature. (True or False)",
+      "choices": [
+        {
+          "t": "True",
+          "correct": true
+        },
+        {
+          "t": "False"
+        }
+      ]
+    },
+    {
+      "q": "Stirring a solution will decrease the rate of dissolving the solute. (True or False)",
+      "choices": [
+        {
+          "t": "True"
+        },
+        {
+          "t": "False",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "q": "Which factor does NOT affect the solubility of a solid in water?",
+      "choices": [
+        {
+          "t": "Temperature"
+        },
+        {
+          "t": "Pressure"
+        },
+        {
+          "t": "Amount of solute"
+        },
+        {
+          "t": "Color of the solute",
+          "correct": true
+        }
+      ]
+    }
+  ]
+}
