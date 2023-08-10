@@ -16,11 +16,11 @@
       "q": "Which word has a more positive connotation?",
       "choices": [
         {
-          "t": "slender"
+          "t": "slender",
+          "correct": true
         },
         {
-          "t": "skinny",
-          "correct": true
+          "t": "skinny"
         }
       ]
     },
@@ -40,11 +40,11 @@
       "q": "Which word has a more positive connotation?",
       "choices": [
         {
-          "t": "determined"
+          "t": "determined",
+          "correct": true
         },
         {
-          "t": "stubborn",
-          "correct": true
+          "t": "stubborn"
         }
       ]
     },
@@ -88,11 +88,11 @@
       "q": "Which word has a more positive connotation?",
       "choices": [
         {
-          "t": "adventurous"
+          "t": "adventurous",
+          "correct": true
         },
         {
-          "t": "reckless",
-          "correct": true
+          "t": "reckless"
         }
       ]
     },
@@ -112,11 +112,11 @@
       "q": "Which word has a more positive connotation?",
       "choices": [
         {
-          "t": "resourceful"
+          "t": "resourceful",
+          "correct": true
         },
         {
-          "t": "scheming",
-          "correct": true
+          "t": "scheming"
         }
       ]
     }

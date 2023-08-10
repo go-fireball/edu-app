@@ -16,11 +16,11 @@
       "q": "Which phrase has a more positive connotation?",
       "choices": [
         {
-          "t": "economical with words"
+          "t": "economical with words",
+          "correct": true
         },
         {
-          "t": "terse",
-          "correct": true
+          "t": "terse"
         }
       ]
     },
@@ -40,11 +40,11 @@
       "q": "Which phrase has a more positive connotation?",
       "choices": [
         {
-          "t": "accepting constructive criticism"
+          "t": "accepting constructive criticism",
+          "correct": true
         },
         {
-          "t": "tolerating feedback",
-          "correct": true
+          "t": "tolerating feedback"
         }
       ]
     },
@@ -64,11 +64,11 @@
       "q": "Which phrase has a more positive connotation?",
       "choices": [
         {
-          "t": "engaging in dialogue"
+          "t": "engaging in dialogue",
+          "correct": true
         },
         {
-          "t": "arguing",
-          "correct": true
+          "t": "arguing"
         }
       ]
     },
@@ -88,11 +88,11 @@
       "q": "Which phrase has a more positive connotation?",
       "choices": [
         {
-          "t": "embracing change"
+          "t": "embracing change",
+          "correct": true
         },
         {
-          "t": "yielding to new ideas",
-          "correct": true
+          "t": "yielding to new ideas"
         }
       ]
     },
@@ -112,11 +112,11 @@
       "q": "Which phrase has a more positive connotation?",
       "choices": [
         {
-          "t": "experiencing growth"
+          "t": "experiencing growth",
+          "correct": true
         },
         {
-          "t": "undergoing transformation",
-          "correct": true
+          "t": "undergoing transformation"
         }
       ]
     }

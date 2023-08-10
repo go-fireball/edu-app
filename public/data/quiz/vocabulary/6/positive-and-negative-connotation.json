@@ -64,11 +64,11 @@
       "q": "Which word has a more positive connotation?",
       "choices": [
         {
-          "t": "unique"
+          "t": "unique",
+          "correct": true
         },
         {
-          "t": "odd",
-          "correct": true
+          "t": "odd"
         }
       ]
     },

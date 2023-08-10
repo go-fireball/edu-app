@@ -4,11 +4,11 @@
       "q": "Which word has a more positive connotation?",
       "choices": [
         {
-          "t": "frugal"
+          "t": "frugal",
+          "correct": true
         },
         {
-          "t": "miserly",
-          "correct": true
+          "t": "miserly"
         }
       ]
     },
@@ -52,11 +52,11 @@
       "q": "Which word has a more positive connotation?",
       "choices": [
         {
-          "t": "meticulous"
+          "t": "meticulous",
+          "correct": true
         },
         {
-          "t": "fussy",
-          "correct": true
+          "t": "fussy"
         }
       ]
     },
@@ -76,11 +76,11 @@
       "q": "Which word has a more positive connotation?",
       "choices": [
         {
-          "t": "creative"
+          "t": "creative",
+          "correct": true
         },
         {
-          "t": "impractical",
-          "correct": true
+          "t": "impractical"
         }
       ]
     },
@@ -100,11 +100,11 @@
       "q": "Which phrase has a more positive connotation?",
       "choices": [
         {
-          "t": "an interesting challenge"
+          "t": "an interesting challenge",
+          "correct": true
         },
         {
-          "t": "a frustrating problem",
-          "correct": true
+          "t": "a frustrating problem"
         }
       ]
     },
