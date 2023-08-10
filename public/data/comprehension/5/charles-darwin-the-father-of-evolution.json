@@ -1,0 +1,159 @@
+{
+  "title": "Charles Darwin: The Father of Evolution",
+  "passage": [
+    "Charles Darwin was born on February 12, 1809, in Shrewsbury, England. He was an ambitious scientist who made significant contributions to biology through his study of natural selection.",
+    "Darwin's most famous work, 'On the Origin of Species,' was published in 1859. In this groundbreaking book, he introduced the theory of evolution by natural selection. Darwin's idea was that organisms with traits that helped them survive and reproduce were more likely to pass those traits on to their offspring.",
+    "One of Darwin's most influential journeys was his voyage on the HMS Beagle, which lasted from 1831 to 1836. During this trip, Darwin visited various parts of South America, Australia, and Africa, observing different species of animals and plants. His observations on the Galapagos Islands were particularly enlightening.",
+    "On the Galapagos Islands, Darwin noticed that finches on different islands had different beak shapes. He theorized that the finches had evolved different beak shapes to adapt to the specific foods available on each island. This observation became a cornerstone of his theory of natural selection.",
+    "Darwin's ideas were highly controversial at the time, as they challenged conventional beliefs about creation. Many religious authorities and scientists opposed his theory, leading to heated debates and discussions.",
+    "Despite the opposition, Darwin continued to work and refine his ideas. He corresponded with other scientists, conducted experiments, and collected more data to support his theory. Over time, his theory gained acceptance within the scientific community.",
+    "Darwin's contributions extended beyond the theory of evolution. He also conducted research on plants, geology, and animal behavior. His works on carnivorous plants and earthworms are considered significant scientific studies.",
+    "Charles Darwin died on April 19, 1882. His revolutionary ideas continue to shape modern biology and have a profound impact on how we understand life on Earth."
+  ],
+  "questions": [
+    {
+      "q": "What was Charles Darwin's most famous book?",
+      "choices": [
+        {
+          "t": "The Descent of Man"
+        },
+        {
+          "t": "On the Origin of Species",
+          "correct": true
+        },
+        {
+          "t": "The Voyage of the Beagle"
+        },
+        {
+          "t": "The Expression of Emotions in Man and Animals"
+        }
+      ]
+    },
+    {
+      "q": "What did Darwin observe about the finches on the Galapagos Islands?",
+      "choices": [
+        {
+          "t": "They could talk"
+        },
+        {
+          "t": "They were all identical"
+        },
+        {
+          "t": "They had different beak shapes",
+          "correct": true
+        },
+        {
+          "t": "They were extinct"
+        }
+      ]
+    },
+    {
+      "q": "What was the main idea of Darwin's theory of evolution?",
+      "choices": [
+        {
+          "t": "Survival of the fittest organisms",
+          "correct": true
+        },
+        {
+          "t": "Random mutations"
+        },
+        {
+          "t": "Survival of the weakest organisms"
+        },
+        {
+          "t": "Creationism"
+        }
+      ]
+    },
+    {
+      "q": "How did many people react to Darwin's theory when it was first introduced?",
+      "choices": [
+        {
+          "t": "They quickly accepted it"
+        },
+        {
+          "t": "They ignored it"
+        },
+        {
+          "t": "They opposed it",
+          "correct": true
+        },
+        {
+          "t": "They celebrated it"
+        }
+      ]
+    },
+    {
+      "q": "What ship did Darwin travel on during his influential voyage?",
+      "choices": [
+        {
+          "t": "HMS Challenger"
+        },
+        {
+          "t": "HMS Beagle",
+          "correct": true
+        },
+        {
+          "t": "HMS Victory"
+        },
+        {
+          "t": "HMS Endeavour"
+        }
+      ]
+    },
+    {
+      "q": "In which year was 'On the Origin of Species' published?",
+      "choices": [
+        {
+          "t": "1851"
+        },
+        {
+          "t": "1859",
+          "correct": true
+        },
+        {
+          "t": "1865"
+        },
+        {
+          "t": "1872"
+        }
+      ]
+    },
+    {
+      "q": "What was one of Darwin's contributions to science other than his theory of evolution?",
+      "choices": [
+        {
+          "t": "Study of carnivorous plants",
+          "correct": true
+        },
+        {
+          "t": "Theory of relativity"
+        },
+        {
+          "t": "Discovery of penicillin"
+        },
+        {
+          "t": "Invention of the telescope"
+        }
+      ]
+    },
+    {
+      "q": "When did Charles Darwin die?",
+      "choices": [
+        {
+          "t": "April 19, 1882",
+          "correct": true
+        },
+        {
+          "t": "February 12, 1909"
+        },
+        {
+          "t": "March 31, 1879"
+        },
+        {
+          "t": "June 22, 1859"
+        }
+      ]
+    }
+  ]
+}
