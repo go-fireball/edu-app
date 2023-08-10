@@ -1,0 +1,158 @@
+{
+  "title": "Subrahmanyan Chandrasekhar: A Stellar Mind",
+  "passage": [
+    "Subrahmanyan Chandrasekhar was born on October 19, 1910, in Lahore, India (now in Pakistan). A child prodigy in mathematics and physics, he made his mark early, studying at the Presidency College in Chennai before earning a scholarship to Cambridge University.",
+    "Chandrasekhar's groundbreaking work in astrophysics began in his early twenties. His most renowned contribution was the discovery of the Chandrasekhar limit, a principle that explains how stars evolve. According to this limit, a star's mass determines its fate. If a star's mass is less than 1.4 times the mass of the Sun, it will eventually become a white dwarf. If it exceeds this limit, it may undergo more dramatic transformations into a neutron star or even a black hole.",
+    "The Chandrasekhar limit was initially met with skepticism by some leading scientists, including Sir Arthur Eddington. However, over time, Chandrasekhar's theories gained wider acceptance and fundamentally changed our understanding of stellar evolution.",
+    "In addition to his work on stellar dynamics, Chandrasekhar contributed to other areas of physics, including hydrodynamics and radiative transfer. His research in these fields led to major advancements in our understanding of various physical phenomena.",
+    "Chandrasekhar taught at the University of Chicago for nearly six decades, where he influenced generations of scientists. He authored several books and received numerous awards, including the Nobel Prize in Physics in 1983.",
+    "Subrahmanyan Chandrasekhar's life was marked by a relentless pursuit of knowledge, exceptional intelligence, and a passion for uncovering the mysteries of the universe. His contributions continue to influence modern astrophysics and are a testament to the power of curiosity and determination.",
+    "Chandrasekhar passed away on August 21, 1995, but his work continues to resonate throughout the scientific community, offering insight into the complex workings of the cosmos."
+  ],
+  "questions": [
+    {
+      "q": "What was Subrahmanyan Chandrasekhar's most famous discovery?",
+      "choices": [
+        {
+          "t": "The Chandrasekhar limit",
+          "correct": true
+        },
+        {
+          "t": "The theory of relativity"
+        },
+        {
+          "t": "The Hubble telescope"
+        },
+        {
+          "t": "The law of gravity"
+        }
+      ]
+    },
+    {
+      "q": "What does the Chandrasekhar limit describe?",
+      "choices": [
+        {
+          "t": "The speed of light"
+        },
+        {
+          "t": "The fate of stars based on their mass",
+          "correct": true
+        },
+        {
+          "t": "The limit of human intelligence"
+        },
+        {
+          "t": "The maximum height of mountains"
+        }
+      ]
+    },
+    {
+      "q": "Where did Chandrasekhar teach for nearly six decades?",
+      "choices": [
+        {
+          "t": "Harvard University"
+        },
+        {
+          "t": "Cambridge University"
+        },
+        {
+          "t": "University of Chicago",
+          "correct": true
+        },
+        {
+          "t": "Presidency College in Chennai"
+        }
+      ]
+    },
+    {
+      "q": "Which prestigious award did Chandrasekhar receive in 1983?",
+      "choices": [
+        {
+          "t": "The Pulitzer Prize"
+        },
+        {
+          "t": "The Nobel Prize in Physics",
+          "correct": true
+        },
+        {
+          "t": "The Man Booker Prize"
+        },
+        {
+          "t": "The Fields Medal"
+        }
+      ]
+    },
+    {
+      "q": "What happens to a star if its mass is less than 1.4 times the mass of the Sun, according to the Chandrasekhar limit?",
+      "choices": [
+        {
+          "t": "It becomes a black hole"
+        },
+        {
+          "t": "It becomes a neutron star"
+        },
+        {
+          "t": "It becomes a white dwarf",
+          "correct": true
+        },
+        {
+          "t": "It remains unchanged"
+        }
+      ]
+    },
+    {
+      "q": "Who was initially skeptical of the Chandrasekhar limit?",
+      "choices": [
+        {
+          "t": "Sir Isaac Newton"
+        },
+        {
+          "t": "Sir Arthur Eddington",
+          "correct": true
+        },
+        {
+          "t": "Albert Einstein"
+        },
+        {
+          "t": "Marie Curie"
+        }
+      ]
+    },
+    {
+      "q": "In what year was Chandrasekhar born?",
+      "choices": [
+        {
+          "t": "1910",
+          "correct": true
+        },
+        {
+          "t": "1925"
+        },
+        {
+          "t": "1901"
+        },
+        {
+          "t": "1895"
+        }
+      ]
+    },
+    {
+      "q": "When did Chandrasekhar pass away?",
+      "choices": [
+        {
+          "t": "August 21, 1995",
+          "correct": true
+        },
+        {
+          "t": "October 19, 2000"
+        },
+        {
+          "t": "January 1, 1990"
+        },
+        {
+          "t": "April 15, 1985"
+        }
+      ]
+    }
+  ]
+}

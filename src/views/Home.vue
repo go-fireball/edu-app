@@ -131,6 +131,22 @@
             <br/>
             <router-link to="/comprehension/5/albert-einstein-a-revolutionary-thinker">A Revolutionary Thinker</router-link>
             <br/>
+            <router-link to="/comprehension/5/nikola-tesla-a-pioneer-of-electrical-innovation">A Pioneer of Electrical Innovation</router-link>
+            <br/>
+            <router-link to="/comprehension/5/isaac-newton-a-revolutionary-mind-in-science">A Revolutionary Mind in Science</router-link>
+            <br/>
+            <router-link to="/comprehension/5/charles-darwin-the-father-of-evolution">The Father of Evolution</router-link>
+            <br/>
+            <router-link to="/comprehension/5/subrahmanyan-chandrasekhar-a-stellar-mind">A Stellar Mind</router-link>
+            <br/>
+            <router-link to="/comprehension/5/c-v-raman-a-pioneer-in-light-scattering">Pioneer in Light Scattering</router-link>
+            <br/>
+            <router-link to="/comprehension/5/satyendra-nath-bose-a-legacy-in-quantum-physics">Legacy in Quantum Physics</router-link>
+            <br/>
+            <router-link to="/comprehension/5/democracy-the-rule-of-the-people">The Rule of the People</router-link>
+            <br/>
+            <router-link to="/comprehension/5/justice-a-pillar-of-societal-harmony">Pillar of Societal Harmony</router-link>
+            <br/>
           </v-card-item>
         </v-card>
       </v-col>
