@@ -1,0 +1,159 @@
+{
+  "title": "Albert Einstein: A Revolutionary Thinker",
+  "passage": [
+    "Albert Einstein was born on March 14, 1879, in Ulm, Germany. From an early age, he showed a keen interest in mathematics and physics, even though his teachers often considered him a slow learner. Einstein's curiosity and independent thinking led him to question many established scientific theories.",
+    "In 1905, Einstein published four groundbreaking papers, a year known as his 'Annus Mirabilis' or 'miracle year'. These papers dealt with the theory of relativity, the photoelectric effect, Brownian motion, and the equivalence of mass and energy. The paper on the photoelectric effect eventually won him the Nobel Prize in Physics in 1921.",
+    "Einstein's theory of relativity revolutionized the understanding of space and time. It suggested that space and time are interwoven into a single continuum known as spacetime. This theory had profound implications on the study of the universe and laid the foundation for modern physics.",
+    "Aside from his scientific contributions, Einstein was also a passionate advocate for peace, human rights, and education. He spoke out against racial segregation and the rise of totalitarian regimes. During World War II, he played a role in the development of atomic energy, though he later expressed regret over its use in warfare.",
+    "Einstein's work in physics continued to be influential throughout his life. He was a professor at several prestigious universities, including the Swiss Federal Polytechnic and the Institute for Advanced Study in Princeton, New Jersey.",
+    "In his personal life, Einstein enjoyed playing the violin, sailing, and engaging in deep philosophical discussions. He was known for his wit, wisdom, and sometimes unconventional behavior. His unique perspective and approach to problem-solving continue to inspire scientists and thinkers around the world.",
+    "Einstein passed away on April 18, 1955, in Princeton, New Jersey. His scientific discoveries continue to shape the way we understand the universe, and his legacy as a thinker, humanist, and scientist endures to this day.",
+    "Today, Einstein's name is synonymous with genius, and his iconic equation, E=mc², is recognized by people of all ages. His life and work serve as a testament to the power of curiosity, imagination, and perseverance."
+  ],
+  "questions": [
+    {
+      "q": "What year was known as Einstein's 'miracle year'?",
+      "choices": [
+        {
+          "t": "1879"
+        },
+        {
+          "t": "1905",
+          "correct": true
+        },
+        {
+          "t": "1921"
+        },
+        {
+          "t": "1955"
+        }
+      ]
+    },
+    {
+      "q": "For what scientific discovery did Einstein win the Nobel Prize?",
+      "choices": [
+        {
+          "t": "Theory of relativity"
+        },
+        {
+          "t": "Photoelectric effect",
+          "correct": true
+        },
+        {
+          "t": "Brownian motion"
+        },
+        {
+          "t": "Equivalence of mass and energy"
+        }
+      ]
+    },
+    {
+      "q": "What instrument did Einstein enjoy playing?",
+      "choices": [
+        {
+          "t": "Piano"
+        },
+        {
+          "t": "Violin",
+          "correct": true
+        },
+        {
+          "t": "Guitar"
+        },
+        {
+          "t": "Flute"
+        }
+      ]
+    },
+    {
+      "q": "What did Einstein's theory of relativity contribute to?",
+      "choices": [
+        {
+          "t": "The study of chemical reactions"
+        },
+        {
+          "t": "The study of the universe and modern physics",
+          "correct": true
+        },
+        {
+          "t": "The development of medical technology"
+        },
+        {
+          "t": "The creation of new musical instruments"
+        }
+      ]
+    },
+    {
+      "q": "What was Einstein's stance on human rights and peace?",
+      "choices": [
+        {
+          "t": "He was indifferent"
+        },
+        {
+          "t": "He was a passionate advocate",
+          "correct": true
+        },
+        {
+          "t": "He opposed them"
+        },
+        {
+          "t": "He changed his stance frequently"
+        }
+      ]
+    },
+    {
+      "q": "Where did Einstein pass away?",
+      "choices": [
+        {
+          "t": "Ulm, Germany"
+        },
+        {
+          "t": "Zurich, Switzerland"
+        },
+        {
+          "t": "Princeton, New Jersey",
+          "correct": true
+        },
+        {
+          "t": "New York, New York"
+        }
+      ]
+    },
+    {
+      "q": "Which equation is associated with Einstein?",
+      "choices": [
+        {
+          "t": "a² + b² = c²"
+        },
+        {
+          "t": "E=mc²",
+          "correct": true
+        },
+        {
+          "t": "F=ma"
+        },
+        {
+          "t": "PV=nRT"
+        }
+      ]
+    },
+    {
+      "q": "What was Einstein's attitude towards the use of atomic energy in warfare?",
+      "choices": [
+        {
+          "t": "He fully supported it"
+        },
+        {
+          "t": "He expressed regret over its use",
+          "correct": true
+        },
+        {
+          "t": "He had no opinion on the matter"
+        },
+        {
+          "t": "He was unaware of its use"
+        }
+      ]
+    }
+  ]
+}

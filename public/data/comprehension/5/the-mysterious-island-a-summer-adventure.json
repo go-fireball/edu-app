@@ -1,0 +1,159 @@
+{
+  "title": "The Mysterious Island: A Summer Adventure",
+  "passage": [
+    "During a family vacation at the beach, siblings Sarah and Tom discovered something remarkable. While exploring the shoreline, they stumbled upon a hidden cove that housed an uninhabited island in the distance. The island was shrouded in mist and had an air of mystery that piqued their curiosity.",
+    "With permission from their parents, Sarah and Tom decided to embark on an adventure to explore the island. They packed a small boat with supplies, including a map, a compass, some food, and water. The journey across the sea was calm, and the island seemed to beckon them closer.",
+    "Upon arriving, they found that the island was full of surprises. Lush forests, meandering streams, and ancient ruins awaited their exploration. The ruins appeared to be part of an old civilization, and Sarah and Tom were excited to uncover its secrets.",
+    "In one of the ruined structures, they found a dusty, old journal. It was filled with sketches, maps, and writings from a long-lost explorer. The journal contained clues about hidden treasures and mysterious creatures that once roamed the island.",
+    "Following the clues, they ventured deeper into the forest, where they stumbled upon a hidden waterfall. Behind the waterfall, a hidden chamber revealed itself, filled with sparkling gems and gold. The siblings couldn't believe their eyes; they had found the hidden treasure!",
+    "Their adventure, however, was far from over. The island was home to exotic wildlife, including colorful birds and rare plants. They also discovered footprints of an unknown creature that added to the island's enigma.",
+    "As the sun began to set, Sarah and Tom made their way back to the boat, their hearts filled with wonder and excitement. They left the treasure where they found it, respecting the island's mysteries and the legacy of the explorer who had come before them.",
+    "The Mysterious Island, as they called it, became the highlight of their summer. It was a place of discovery, adventure, and imagination. Sarah and Tom promised to keep its secrets and vowed to return someday, knowing that the island still had many mysteries left to explore."
+  ],
+  "questions": [
+    {
+      "q": "What did Sarah and Tom find while exploring the shoreline?",
+      "choices": [
+        {
+          "t": "A hidden treasure chest"
+        },
+        {
+          "t": "A hidden cove and an uninhabited island",
+          "correct": true
+        },
+        {
+          "t": "A group of pirates"
+        },
+        {
+          "t": "A sunken ship"
+        }
+      ]
+    },
+    {
+      "q": "What did they pack for their journey to the island?",
+      "choices": [
+        {
+          "t": "A map, compass, food, and water",
+          "correct": true
+        },
+        {
+          "t": "Cell phones and laptops"
+        },
+        {
+          "t": "Fishing gear and bathing suits"
+        },
+        {
+          "t": "A tent and sleeping bags"
+        }
+      ]
+    },
+    {
+      "q": "What did they discover in the ancient ruins?",
+      "choices": [
+        {
+          "t": "A hidden trapdoor"
+        },
+        {
+          "t": "A dusty, old journal",
+          "correct": true
+        },
+        {
+          "t": "A pirate's flag"
+        },
+        {
+          "t": "A live animal"
+        }
+      ]
+    },
+    {
+      "q": "Where did they find the hidden treasure?",
+      "choices": [
+        {
+          "t": "In a cave"
+        },
+        {
+          "t": "Behind a waterfall",
+          "correct": true
+        },
+        {
+          "t": "Under a tree"
+        },
+        {
+          "t": "In the ancient ruins"
+        }
+      ]
+    },
+    {
+      "q": "What was unique about the island's wildlife?",
+      "choices": [
+        {
+          "t": "Exotic birds and rare plants",
+          "correct": true
+        },
+        {
+          "t": "Common city animals"
+        },
+        {
+          "t": "Endangered species"
+        },
+        {
+          "t": "No wildlife at all"
+        }
+      ]
+    },
+    {
+      "q": "What did Sarah and Tom decide to do with the treasure?",
+      "choices": [
+        {
+          "t": "They took it home"
+        },
+        {
+          "t": "They left it where they found it",
+          "correct": true
+        },
+        {
+          "t": "They gave it to their parents"
+        },
+        {
+          "t": "They sold it"
+        }
+      ]
+    },
+    {
+      "q": "What name did the siblings give to the island?",
+      "choices": [
+        {
+          "t": "Treasure Island"
+        },
+        {
+          "t": "The Mysterious Island",
+          "correct": true
+        },
+        {
+          "t": "The Island of Secrets"
+        },
+        {
+          "t": "The Explorer's Island"
+        }
+      ]
+    },
+    {
+      "q": "What clues about the island's mysteries were found in the journal?",
+      "choices": [
+        {
+          "t": "Hidden treasures and mysterious creatures",
+          "correct": true
+        },
+        {
+          "t": "Family recipes"
+        },
+        {
+          "t": "Scientific formulas"
+        },
+        {
+          "t": "A novel's manuscript"
+        }
+      ]
+    }
+  ]
+}

@@ -117,7 +117,20 @@
             <br/>
             <router-link to="/comprehension/5/the-solar-system-adventure">The Mystery of the Forgotten Castle</router-link>
             <br/>
-
+            <router-link to="/comprehension/5/a-journey-to-jupiter">A Journey to Jupiter</router-link>
+            <br/>
+            <router-link to="/comprehension/5/the-mysterious-island-a-summer-adventure">A Summer Adventure</router-link>
+            <br/>
+            <router-link to="/comprehension/5/the-meteorite-incident-a-scientific-exploration">A Scientific Exploration</router-link>
+            <br/>
+            <router-link to="/comprehension/5/the-lost-city-of-gold-an-archaeological-adventure">An Archaeological Adventure</router-link>
+            <br/>
+            <router-link to="/comprehension/5/the-meteor-shower-a-night-of-wonders">A Night of Wonders</router-link>
+            <br/>
+            <router-link to="/comprehension/5/the-lost-city-of-quartz-an-archaeological-discovery">The Lost City of Quartz</router-link>
+            <br/>
+            <router-link to="/comprehension/5/albert-einstein-a-revolutionary-thinker">A Revolutionary Thinker</router-link>
+            <br/>
           </v-card-item>
         </v-card>
       </v-col>
