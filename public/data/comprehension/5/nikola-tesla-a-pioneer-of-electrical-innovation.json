@@ -1,1 +1,159 @@
-{"title":"Nikola Tesla: A Pioneer of Electrical Innovation","passage":["Nikola Tesla was born on July 10, 1856, in Smiljan, Croatia. A brilliant inventor and electrical engineer, Tesla made significant contributions to the development of electrical power systems. He was known for his work on alternating current (AC) electrical systems, which eventually became the standard for transmitting electricity over long distances.","Tesla studied electrical engineering at the Austrian Polytechnic in Graz, Austria, before moving to the United States in 1884. Upon arriving, he started working with Thomas Edison, a proponent of direct current (DC). However, their philosophies differed, leading Tesla to part ways with Edison and join forces with George Westinghouse, an advocate of AC systems.","Tesla's work with Westinghouse led to the 'War of the Currents,' a public debate over the merits of AC versus DC. Tesla's AC system was ultimately victorious, as it proved more efficient and safer for transmitting electricity across vast areas. This success allowed the Niagara Falls Power Company to harness the energy of the falls using Tesla's system, providing power to Buffalo, New York.","In his lifetime, Tesla obtained more than 300 patents for his inventions and discoveries. Some of his well-known works include the Tesla coil, a device that produces high-voltage alternating currents, and the early development of wireless communication and remote control.","Tesla had a vivid imagination and was known for conducting thought experiments. He believed in a future where energy would be free and accessible to all, a vision that guided many of his projects. Despite his genius, he faced financial difficulties throughout his life, often struggling to fund his research.","In addition to his technical achievements, Tesla was a charismatic speaker and writer. He captivated audiences with his lectures and published numerous articles explaining his ideas to the public. His eccentric personality and unconventional ideas sometimes made him a controversial figure.","Nikola Tesla died on January 7, 1943, in New York City. Though he was not as widely recognized during his lifetime as some of his contemporaries, his contributions to science and technology continue to influence modern-day innovations.","Today, Tesla's name is associated with advancement and creativity. His vision of a world powered by clean and efficient energy continues to inspire scientists, engineers, and dreamers all over the globe."],"questions":[{"q":"What was Nikola Tesla's significant contribution to electrical power systems?","choices":[{"t":"Direct current (DC)"},{"t":"Alternating current (AC)","correct":true},{"t":"Solar power"},{"t":"Nuclear power"}]},{"q":"With whom did Tesla collaborate after parting ways with Thomas Edison?","choices":[{"t":"Alexander Graham Bell"},{"t":"Isaac Newton"},{"t":"George Westinghouse","correct":true},{"t":"James Watt"}]},{"q":"What invention of Tesla's produces high-voltage alternating currents?","choices":[{"t":"Edison bulb"},{"t":"Wireless remote"},{"t":"Tesla coil","correct":true},{"t":"AC motor"}]},{"q":"What was the result of the 'War of the Currents'?","choices":[{"t":"DC became the standard"},{"t":"AC became the standard","correct":true},{"t":"Both AC and DC were equally used"},{"t":"Neither AC nor DC were used"}]},{"q":"Where was Nikola Tesla born?","choices":[{"t":"Vienna, Austria"},{"t":"Smiljan, Croatia","correct":true},{"t":"New York City, USA"},{"t":"London, England"}]},{"q":"What was Tesla's vision for the future of energy?","choices":[{"t":"Energy controlled by a few corporations"},{"t":"Energy would be free and accessible to all","correct":true},{"t":"Energy derived solely from fossil fuels"},{"t":"Energy generated only by nuclear power"}]},{"q":"How many patents did Tesla obtain during his lifetime?","choices":[{"t":"Over 100"},{"t":"Over 300","correct":true},{"t":"Over 500"},{"t":"Over 700"}]},{"q":"When did Nikola Tesla die?","choices":[{"t":"July 10, 1856"},{"t":"January 7, 1943","correct":true},{"t":"December 31, 1900"},{"t":"November 18, 1929"}]}]}
+{
+  "title": "Nikola Tesla: A Pioneer of Electrical Innovation",
+  "passage": [
+    "Nikola Tesla was born on July 10, 1856, in Smiljan, Croatia. A brilliant inventor and electrical engineer, Tesla made significant contributions to the development of electrical power systems. He was known for his work on alternating current (AC) electrical systems, which eventually became the standard for transmitting electricity over long distances.",
+    "Tesla studied electrical engineering at the Austrian Polytechnic in Graz, Austria, before moving to the United States in 1884. Upon arriving, he started working with Thomas Edison, a proponent of direct current (DC). However, their philosophies differed, leading Tesla to part ways with Edison and join forces with George Westinghouse, an advocate of AC systems.",
+    "Tesla's work with Westinghouse led to the 'War of the Currents,' a public debate over the merits of AC versus DC. Tesla's AC system was ultimately victorious, as it proved more efficient and safer for transmitting electricity across vast areas. This success allowed the Niagara Falls Power Company to harness the energy of the falls using Tesla's system, providing power to Buffalo, New York.",
+    "In his lifetime, Tesla obtained more than 300 patents for his inventions and discoveries. Some of his well-known works include the Tesla coil, a device that produces high-voltage alternating currents, and the early development of wireless communication and remote control.",
+    "Tesla had a vivid imagination and was known for conducting thought experiments. He believed in a future where energy would be free and accessible to all, a vision that guided many of his projects. Despite his genius, he faced financial difficulties throughout his life, often struggling to fund his research.",
+    "In addition to his technical achievements, Tesla was a charismatic speaker and writer. He captivated audiences with his lectures and published numerous articles explaining his ideas to the public. His eccentric personality and unconventional ideas sometimes made him a controversial figure.",
+    "Nikola Tesla died on January 7, 1943, in New York City. Though he was not as widely recognized during his lifetime as some of his contemporaries, his contributions to science and technology continue to influence modern-day innovations.",
+    "Today, Tesla's name is associated with advancement and creativity. His vision of a world powered by clean and efficient energy continues to inspire scientists, engineers, and dreamers all over the globe."
+  ],
+  "questions": [
+    {
+      "q": "What was Nikola Tesla's significant contribution to electrical power systems?",
+      "choices": [
+        {
+          "t": "Direct current (DC)"
+        },
+        {
+          "t": "Alternating current (AC)",
+          "correct": true
+        },
+        {
+          "t": "Solar power"
+        },
+        {
+          "t": "Nuclear power"
+        }
+      ]
+    },
+    {
+      "q": "With whom did Tesla collaborate after parting ways with Thomas Edison?",
+      "choices": [
+        {
+          "t": "Alexander Graham Bell"
+        },
+        {
+          "t": "Isaac Newton"
+        },
+        {
+          "t": "George Westinghouse",
+          "correct": true
+        },
+        {
+          "t": "James Watt"
+        }
+      ]
+    },
+    {
+      "q": "What invention of Tesla's produces high-voltage alternating currents?",
+      "choices": [
+        {
+          "t": "Edison bulb"
+        },
+        {
+          "t": "Wireless remote"
+        },
+        {
+          "t": "Tesla coil",
+          "correct": true
+        },
+        {
+          "t": "AC motor"
+        }
+      ]
+    },
+    {
+      "q": "What was the result of the 'War of the Currents'?",
+      "choices": [
+        {
+          "t": "DC became the standard"
+        },
+        {
+          "t": "AC became the standard",
+          "correct": true
+        },
+        {
+          "t": "Both AC and DC were equally used"
+        },
+        {
+          "t": "Neither AC nor DC were used"
+        }
+      ]
+    },
+    {
+      "q": "Where was Nikola Tesla born?",
+      "choices": [
+        {
+          "t": "Vienna, Austria"
+        },
+        {
+          "t": "Smiljan, Croatia",
+          "correct": true
+        },
+        {
+          "t": "New York City, USA"
+        },
+        {
+          "t": "London, England"
+        }
+      ]
+    },
+    {
+      "q": "What was Tesla's vision for the future of energy?",
+      "choices": [
+        {
+          "t": "Energy controlled by a few corporations"
+        },
+        {
+          "t": "Energy would be free and accessible to all",
+          "correct": true
+        },
+        {
+          "t": "Energy derived solely from fossil fuels"
+        },
+        {
+          "t": "Energy generated only by nuclear power"
+        }
+      ]
+    },
+    {
+      "q": "How many patents did Tesla obtain during his lifetime?",
+      "choices": [
+        {
+          "t": "Over 100"
+        },
+        {
+          "t": "Over 300",
+          "correct": true
+        },
+        {
+          "t": "Over 500"
+        },
+        {
+          "t": "Over 700"
+        }
+      ]
+    },
+    {
+      "q": "When did Nikola Tesla die?",
+      "choices": [
+        {
+          "t": "July 10, 1856"
+        },
+        {
+          "t": "January 7, 1943",
+          "correct": true
+        },
+        {
+          "t": "December 31, 1900"
+        },
+        {
+          "t": "November 18, 1929"
+        }
+      ]
+    }
+  ]
+}

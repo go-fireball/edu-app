@@ -1,1 +1,184 @@
-{"questions":[{"q":"What does the word \"hopeful\" mean?","choices":[{"t":"Without hope"},{"t":"Full of hope","correct":true},{"t":"Sad"},{"t":"Angry"}]},{"q":"If someone is described as \"fearful,\" what might they be feeling?","choices":[{"t":"Courageous"},{"t":"Angry"},{"t":"Full of fear","correct":true},{"t":"Excited"}]},{"q":"What can a \"spoonful\" of sugar do?","choices":[{"t":"Make you laugh"},{"t":"Make something sweeter","correct":true},{"t":"Make something salty"},{"t":"Make you dance"}]},{"q":"If someone is \"successful,\" what have they likely done?","choices":[{"t":"Failed"},{"t":"Accomplished what they set out to do","correct":true},{"t":"Given up"},{"t":"Lost something"}]},{"q":"What does \"graceful\" describe?","choices":[{"t":"Clumsy movement"},{"t":"Elegant movement","correct":true},{"t":"Loud noise"},{"t":"Bitter taste"}]},{"q":"What might a \"disrespectful\" child do?","choices":[{"t":"Follow the rules"},{"t":"Show lack of respect","correct":true},{"t":"Act kindly"},{"t":"Help others"}]},{"q":"How would you describe a \"beautiful\" landscape?","choices":[{"t":"Ugly"},{"t":"Pleasing to the eye","correct":true},{"t":"Boring"},{"t":"Common"}]},{"q":"If you are \"thankful\" for something, how do you feel?","choices":[{"t":"Unhappy"},{"t":"Appreciative","correct":true},{"t":"Angry"},{"t":"Bored"}]},{"q":"What might a \"playful\" puppy want to do?","choices":[{"t":"Sleep"},{"t":"Eat"},{"t":"Play","correct":true},{"t":"Run away"}]},{"q":"How would you describe a \"powerful\" engine?","choices":[{"t":"Weak"},{"t":"Tiny"},{"t":"Having great power or strength","correct":true},{"t":"Slow"}]}]}
+{
+  "questions": [
+    {
+      "q": "What does the word \"hopeful\" mean?",
+      "choices": [
+        {
+          "t": "Without hope"
+        },
+        {
+          "t": "Full of hope",
+          "correct": true
+        },
+        {
+          "t": "Sad"
+        },
+        {
+          "t": "Angry"
+        }
+      ]
+    },
+    {
+      "q": "If someone is described as \"fearful,\" what might they be feeling?",
+      "choices": [
+        {
+          "t": "Courageous"
+        },
+        {
+          "t": "Angry"
+        },
+        {
+          "t": "Full of fear",
+          "correct": true
+        },
+        {
+          "t": "Excited"
+        }
+      ]
+    },
+    {
+      "q": "What can a \"spoonful\" of sugar do?",
+      "choices": [
+        {
+          "t": "Make you laugh"
+        },
+        {
+          "t": "Make something sweeter",
+          "correct": true
+        },
+        {
+          "t": "Make something salty"
+        },
+        {
+          "t": "Make you dance"
+        }
+      ]
+    },
+    {
+      "q": "If someone is \"successful,\" what have they likely done?",
+      "choices": [
+        {
+          "t": "Failed"
+        },
+        {
+          "t": "Accomplished what they set out to do",
+          "correct": true
+        },
+        {
+          "t": "Given up"
+        },
+        {
+          "t": "Lost something"
+        }
+      ]
+    },
+    {
+      "q": "What does \"graceful\" describe?",
+      "choices": [
+        {
+          "t": "Clumsy movement"
+        },
+        {
+          "t": "Elegant movement",
+          "correct": true
+        },
+        {
+          "t": "Loud noise"
+        },
+        {
+          "t": "Bitter taste"
+        }
+      ]
+    },
+    {
+      "q": "What might a \"disrespectful\" child do?",
+      "choices": [
+        {
+          "t": "Follow the rules"
+        },
+        {
+          "t": "Show lack of respect",
+          "correct": true
+        },
+        {
+          "t": "Act kindly"
+        },
+        {
+          "t": "Help others"
+        }
+      ]
+    },
+    {
+      "q": "How would you describe a \"beautiful\" landscape?",
+      "choices": [
+        {
+          "t": "Ugly"
+        },
+        {
+          "t": "Pleasing to the eye",
+          "correct": true
+        },
+        {
+          "t": "Boring"
+        },
+        {
+          "t": "Common"
+        }
+      ]
+    },
+    {
+      "q": "If you are \"thankful\" for something, how do you feel?",
+      "choices": [
+        {
+          "t": "Unhappy"
+        },
+        {
+          "t": "Appreciative",
+          "correct": true
+        },
+        {
+          "t": "Angry"
+        },
+        {
+          "t": "Bored"
+        }
+      ]
+    },
+    {
+      "q": "What might a \"playful\" puppy want to do?",
+      "choices": [
+        {
+          "t": "Sleep"
+        },
+        {
+          "t": "Eat"
+        },
+        {
+          "t": "Play",
+          "correct": true
+        },
+        {
+          "t": "Run away"
+        }
+      ]
+    },
+    {
+      "q": "How would you describe a \"powerful\" engine?",
+      "choices": [
+        {
+          "t": "Weak"
+        },
+        {
+          "t": "Tiny"
+        },
+        {
+          "t": "Having great power or strength",
+          "correct": true
+        },
+        {
+          "t": "Slow"
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,160 @@
-{"questions":[{"q":"Which is the largest continent on Earth?","choices":[{"t":"Africa"},{"t":"Asia","correct":true},{"t":"North America"},{"t":"Europe"}]},{"q":"The Earth rotates on its axis from west to east. (True or False)","choices":[{"t":"True","correct":true},{"t":"False"}]},{"q":"Choose the odd one among these layers of the Earth:","choices":[{"t":"Crust"},{"t":"Mantle"},{"t":"Core"},{"t":"Cloud","correct":true}]},{"q":"The Southern Hemisphere experiences winter when the Northern Hemisphere experiences summer. (True or False)","choices":[{"t":"True","correct":true},{"t":"False"}]},{"q":"What percentage of the Earth's surface is covered by water?","choices":[{"t":"30%"},{"t":"50%"},{"t":"70%","correct":true},{"t":"90%"}]},{"q":"Mount Everest is the highest mountain in the world. (True or False)","choices":[{"t":"True","correct":true},{"t":"False"}]},{"q":"The Equator is an imaginary line that divides the Earth into:","choices":[{"t":"Four parts"},{"t":"Two equal parts","correct":true},{"t":"Three parts"},{"t":"Five parts"}]},{"q":"Greenland is the largest island on Earth. (True or False)","choices":[{"t":"True","correct":true},{"t":"False"}]},{"q":"What is the smallest ocean on Earth?","choices":[{"t":"Atlantic Ocean"},{"t":"Indian Ocean"},{"t":"Pacific Ocean"},{"t":"Arctic Ocean","correct":true}]},{"q":"Which of the following is not a natural disaster?","choices":[{"t":"Earthquake"},{"t":"Tornado"},{"t":"Hurricane"},{"t":"Factory Pollution","correct":true}]}]}
+{
+  "questions": [
+    {
+      "q": "Which is the largest continent on Earth?",
+      "choices": [
+        {
+          "t": "Africa"
+        },
+        {
+          "t": "Asia",
+          "correct": true
+        },
+        {
+          "t": "North America"
+        },
+        {
+          "t": "Europe"
+        }
+      ]
+    },
+    {
+      "q": "The Earth rotates on its axis from west to east. (True or False)",
+      "choices": [
+        {
+          "t": "True",
+          "correct": true
+        },
+        {
+          "t": "False"
+        }
+      ]
+    },
+    {
+      "q": "Choose the odd one among these layers of the Earth:",
+      "choices": [
+        {
+          "t": "Crust"
+        },
+        {
+          "t": "Mantle"
+        },
+        {
+          "t": "Core"
+        },
+        {
+          "t": "Cloud",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "q": "The Southern Hemisphere experiences winter when the Northern Hemisphere experiences summer. (True or False)",
+      "choices": [
+        {
+          "t": "True",
+          "correct": true
+        },
+        {
+          "t": "False"
+        }
+      ]
+    },
+    {
+      "q": "What percentage of the Earth's surface is covered by water?",
+      "choices": [
+        {
+          "t": "30%"
+        },
+        {
+          "t": "50%"
+        },
+        {
+          "t": "70%",
+          "correct": true
+        },
+        {
+          "t": "90%"
+        }
+      ]
+    },
+    {
+      "q": "Mount Everest is the highest mountain in the world. (True or False)",
+      "choices": [
+        {
+          "t": "True",
+          "correct": true
+        },
+        {
+          "t": "False"
+        }
+      ]
+    },
+    {
+      "q": "The Equator is an imaginary line that divides the Earth into:",
+      "choices": [
+        {
+          "t": "Four parts"
+        },
+        {
+          "t": "Two equal parts",
+          "correct": true
+        },
+        {
+          "t": "Three parts"
+        },
+        {
+          "t": "Five parts"
+        }
+      ]
+    },
+    {
+      "q": "Greenland is the largest island on Earth. (True or False)",
+      "choices": [
+        {
+          "t": "True",
+          "correct": true
+        },
+        {
+          "t": "False"
+        }
+      ]
+    },
+    {
+      "q": "What is the smallest ocean on Earth?",
+      "choices": [
+        {
+          "t": "Atlantic Ocean"
+        },
+        {
+          "t": "Indian Ocean"
+        },
+        {
+          "t": "Pacific Ocean"
+        },
+        {
+          "t": "Arctic Ocean",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "q": "Which of the following is not a natural disaster?",
+      "choices": [
+        {
+          "t": "Earthquake"
+        },
+        {
+          "t": "Tornado"
+        },
+        {
+          "t": "Hurricane"
+        },
+        {
+          "t": "Factory Pollution",
+          "correct": true
+        }
+      ]
+    }
+  ]
+}

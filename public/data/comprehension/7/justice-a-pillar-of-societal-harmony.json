@@ -1,1 +1,153 @@
-{"title":"Justice: A Pillar of Societal Harmony","passage":["Justice is a concept that resonates deeply with human societies across cultures and civilizations. It represents fairness, equality, and the unbiased treatment of individuals. Justice seeks to ensure that all people are treated with dignity and respect, regardless of their background or status.","In legal terms, justice refers to the fair and equal application of laws. This includes providing an impartial hearing, ensuring that laws are applied consistently, and recognizing the rights of both the victim and the accused.","Justice is often symbolized by scales, representing the careful weighing of evidence and the balance of rights and responsibilities. The blindfold worn by the symbol of justice, Lady Justice, illustrates that justice should be blind to outside influences and personal biases.","Social justice extends the concept of justice to societal structures and institutions. It seeks to eliminate inequalities, promote access to opportunities, and ensure that all members of society can participate fully in the community. Social justice encompasses issues such as poverty, education, health care, and discrimination.","Environmental justice focuses on the fair treatment of all people in environmental laws and policies. It recognizes that marginalized communities often bear the brunt of environmental damage and seeks to ensure that they have a voice in decisions that affect their lives.","However, achieving justice is often complex and fraught with challenges. Conflicting interests, cultural differences, and the interpretation of laws can lead to disputes and divergent views on what constitutes justice. Efforts to achieve justice may also be hindered by corruption, bias, or inadequate resources.","Organizations like the United Nations, human rights groups, and local community organizations work tirelessly to promote justice worldwide. They advocate for legal reforms, educate the public, and provide support to those who are marginalized or oppressed.","Justice remains a dynamic and evolving concept, reflecting the changing values, beliefs, and needs of societies. Its pursuit is a testament to human aspiration for fairness, integrity, and harmony in relationships with one another."],"questions":[{"q":"What does justice represent?","choices":[{"t":"Bias and inequality"},{"t":"Fairness, equality, and unbiased treatment","correct":true},{"t":"Control and dominance"},{"t":"Wealth and prosperity"}]},{"q":"What is symbolized by the scales in the representation of justice?","choices":[{"t":"Wealth and poverty"},{"t":"The weighing of evidence and balance of rights","correct":true},{"t":"Environmental protection"},{"t":"Cultural differences"}]},{"q":"What does social justice encompass?","choices":[{"t":"Promoting business interests"},{"t":"Issues such as poverty, education, and discrimination","correct":true},{"t":"Only legal matters"},{"t":"Only environmental protection"}]},{"q":"What is the focus of environmental justice?","choices":[{"t":"Fair treatment in environmental laws and policies","correct":true},{"t":"Promoting industrial growth"},{"t":"Building more parks"},{"t":"Preventing education reform"}]},{"q":"What challenges the achievement of justice?","choices":[{"t":"Conflicting interests, cultural differences, corruption","correct":true},{"t":"Promotion of equality"},{"t":"Fair treatment"},{"t":"Environmental protection"}]},{"q":"Who works to promote justice worldwide?","choices":[{"t":"United Nations, human rights groups, community organizations","correct":true},{"t":"Multinational corporations"},{"t":"Only government officials"},{"t":"Only environmentalists"}]},{"q":"What does the blindfold worn by Lady Justice symbolize?","choices":[{"t":"The inability to see truth"},{"t":"The ignorance of law"},{"t":"Justice should be blind to biases and influences","correct":true},{"t":"The complexity of legal systems"}]},{"q":"Is justice a static or evolving concept?","choices":[{"t":"Static"},{"t":"Evolving","correct":true}]}]}
+{
+  "title": "Justice: A Pillar of Societal Harmony",
+  "passage": [
+    "Justice is a concept that resonates deeply with human societies across cultures and civilizations. It represents fairness, equality, and the unbiased treatment of individuals. Justice seeks to ensure that all people are treated with dignity and respect, regardless of their background or status.",
+    "In legal terms, justice refers to the fair and equal application of laws. This includes providing an impartial hearing, ensuring that laws are applied consistently, and recognizing the rights of both the victim and the accused.",
+    "Justice is often symbolized by scales, representing the careful weighing of evidence and the balance of rights and responsibilities. The blindfold worn by the symbol of justice, Lady Justice, illustrates that justice should be blind to outside influences and personal biases.",
+    "Social justice extends the concept of justice to societal structures and institutions. It seeks to eliminate inequalities, promote access to opportunities, and ensure that all members of society can participate fully in the community. Social justice encompasses issues such as poverty, education, health care, and discrimination.",
+    "Environmental justice focuses on the fair treatment of all people in environmental laws and policies. It recognizes that marginalized communities often bear the brunt of environmental damage and seeks to ensure that they have a voice in decisions that affect their lives.",
+    "However, achieving justice is often complex and fraught with challenges. Conflicting interests, cultural differences, and the interpretation of laws can lead to disputes and divergent views on what constitutes justice. Efforts to achieve justice may also be hindered by corruption, bias, or inadequate resources.",
+    "Organizations like the United Nations, human rights groups, and local community organizations work tirelessly to promote justice worldwide. They advocate for legal reforms, educate the public, and provide support to those who are marginalized or oppressed.",
+    "Justice remains a dynamic and evolving concept, reflecting the changing values, beliefs, and needs of societies. Its pursuit is a testament to human aspiration for fairness, integrity, and harmony in relationships with one another."
+  ],
+  "questions": [
+    {
+      "q": "What does justice represent?",
+      "choices": [
+        {
+          "t": "Bias and inequality"
+        },
+        {
+          "t": "Fairness, equality, and unbiased treatment",
+          "correct": true
+        },
+        {
+          "t": "Control and dominance"
+        },
+        {
+          "t": "Wealth and prosperity"
+        }
+      ]
+    },
+    {
+      "q": "What is symbolized by the scales in the representation of justice?",
+      "choices": [
+        {
+          "t": "Wealth and poverty"
+        },
+        {
+          "t": "The weighing of evidence and balance of rights",
+          "correct": true
+        },
+        {
+          "t": "Environmental protection"
+        },
+        {
+          "t": "Cultural differences"
+        }
+      ]
+    },
+    {
+      "q": "What does social justice encompass?",
+      "choices": [
+        {
+          "t": "Promoting business interests"
+        },
+        {
+          "t": "Issues such as poverty, education, and discrimination",
+          "correct": true
+        },
+        {
+          "t": "Only legal matters"
+        },
+        {
+          "t": "Only environmental protection"
+        }
+      ]
+    },
+    {
+      "q": "What is the focus of environmental justice?",
+      "choices": [
+        {
+          "t": "Fair treatment in environmental laws and policies",
+          "correct": true
+        },
+        {
+          "t": "Promoting industrial growth"
+        },
+        {
+          "t": "Building more parks"
+        },
+        {
+          "t": "Preventing education reform"
+        }
+      ]
+    },
+    {
+      "q": "What challenges the achievement of justice?",
+      "choices": [
+        {
+          "t": "Conflicting interests, cultural differences, corruption",
+          "correct": true
+        },
+        {
+          "t": "Promotion of equality"
+        },
+        {
+          "t": "Fair treatment"
+        },
+        {
+          "t": "Environmental protection"
+        }
+      ]
+    },
+    {
+      "q": "Who works to promote justice worldwide?",
+      "choices": [
+        {
+          "t": "United Nations, human rights groups, community organizations",
+          "correct": true
+        },
+        {
+          "t": "Multinational corporations"
+        },
+        {
+          "t": "Only government officials"
+        },
+        {
+          "t": "Only environmentalists"
+        }
+      ]
+    },
+    {
+      "q": "What does the blindfold worn by Lady Justice symbolize?",
+      "choices": [
+        {
+          "t": "The inability to see truth"
+        },
+        {
+          "t": "The ignorance of law"
+        },
+        {
+          "t": "Justice should be blind to biases and influences",
+          "correct": true
+        },
+        {
+          "t": "The complexity of legal systems"
+        }
+      ]
+    },
+    {
+      "q": "Is justice a static or evolving concept?",
+      "choices": [
+        {
+          "t": "Static"
+        },
+        {
+          "t": "Evolving",
+          "correct": true
+        }
+      ]
+    }
+  ]
+}

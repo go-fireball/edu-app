@@ -1,1 +1,159 @@
-{"title":"The Lost City of Gold: An Archaeological Adventure","passage":["In the heart of the dense Amazon rainforest lay a mystery that had baffled explorers for centuries: the fabled Lost City of Gold. Many had tried and failed to uncover its secrets, but that didn't deter Dr. Isabel Ramirez, a courageous archaeologist.","Determined to unravel the truth, Dr. Ramirez embarked on a daring expedition, guided by ancient manuscripts and local legends. She was joined by her trusted assistant, Javier, an expert botanist, and Eduardo, a skilled navigator.","Their journey was filled with challenges as they navigated treacherous terrain, crossed wild rivers, and faced the unpredictable weather. Along the way, they discovered unique plants and animals, and encountered indigenous tribes who shared their wisdom and traditions.","The team eventually stumbled upon an entrance hidden behind thick foliage. It led to a complex labyrinth of tunnels and chambers, filled with intricate carvings and symbols. Each puzzle they solved brought them closer to the heart of the city.","Within the city's core, they discovered artifacts of unimaginable value, including golden statues, precious gemstones, and ancient scrolls. These relics told the story of a highly advanced civilization that had thrived before vanishing without a trace.","Dr. Ramirez's findings were not only a treasure trove for historians but also a significant contribution to understanding the indigenous cultures of the region. The city's advanced knowledge of astronomy, agriculture, and engineering was a testament to human ingenuity and creativity.","The expedition's success was celebrated worldwide, and the Lost City of Gold became a symbol of human discovery and perseverance. Dr. Ramirez's work inspired a new generation of explorers, academics, and dreamers.","The city remained a protected site, its secrets preserved for future generations. As for Dr. Ramirez and her team, they continued their pursuit of knowledge, forever changed by the adventure that had brought history and legend to life."],"questions":[{"q":"Who led the expedition to the Lost City of Gold?","choices":[{"t":"Javier"},{"t":"Eduardo"},{"t":"Dr. Isabel Ramirez","correct":true},{"t":"A local tribe leader"}]},{"q":"What challenges did the team face during their journey?","choices":[{"t":"Treacherous terrain, wild rivers, and unpredictable weather","correct":true},{"t":"Lack of food and water"},{"t":"Language barriers"},{"t":"Mechanical failures"}]},{"q":"What did the team discover inside the city's core?","choices":[{"t":"Golden statues, precious gemstones, and ancient scrolls","correct":true},{"t":"Modern technology"},{"t":"A hidden tribe"},{"t":"A treasure map"}]},{"q":"What was the significance of Dr. Ramirez's findings?","choices":[{"t":"They led to new laws and regulations"},{"t":"They contributed to understanding indigenous cultures and human ingenuity","correct":true},{"t":"They sparked political debates"},{"t":"They caused economic growth"}]},{"q":"How did the Lost City of Gold affect future generations?","choices":[{"t":"It became a popular tourist destination"},{"t":"It became a symbol of human discovery and perseverance","correct":true},{"t":"It was destroyed"},{"t":"It became a military base"}]},{"q":"Who accompanied Dr. Ramirez on the expedition?","choices":[{"t":"Javier, an expert botanist, and Eduardo, a skilled navigator","correct":true},{"t":"Her family"},{"t":"A film crew"},{"t":"A group of tourists"}]},{"q":"What did the ancient scrolls and relics inside the city tell about?","choices":[{"t":"A prophecy about the future"},{"t":"A highly advanced civilization that had thrived and vanished","correct":true},{"t":"The location of other lost cities"},{"t":"A secret recipe"}]},{"q":"How did the Lost City of Gold expedition affect Dr. Ramirez and her team?","choices":[{"t":"They became wealthy from selling the artifacts"},{"t":"They were forever changed by the adventure","correct":true},{"t":"They retired from exploring"},{"t":"They became celebrities"}]}]}
+{
+  "title": "The Lost City of Gold: An Archaeological Adventure",
+  "passage": [
+    "In the heart of the dense Amazon rainforest lay a mystery that had baffled explorers for centuries: the fabled Lost City of Gold. Many had tried and failed to uncover its secrets, but that didn't deter Dr. Isabel Ramirez, a courageous archaeologist.",
+    "Determined to unravel the truth, Dr. Ramirez embarked on a daring expedition, guided by ancient manuscripts and local legends. She was joined by her trusted assistant, Javier, an expert botanist, and Eduardo, a skilled navigator.",
+    "Their journey was filled with challenges as they navigated treacherous terrain, crossed wild rivers, and faced the unpredictable weather. Along the way, they discovered unique plants and animals, and encountered indigenous tribes who shared their wisdom and traditions.",
+    "The team eventually stumbled upon an entrance hidden behind thick foliage. It led to a complex labyrinth of tunnels and chambers, filled with intricate carvings and symbols. Each puzzle they solved brought them closer to the heart of the city.",
+    "Within the city's core, they discovered artifacts of unimaginable value, including golden statues, precious gemstones, and ancient scrolls. These relics told the story of a highly advanced civilization that had thrived before vanishing without a trace.",
+    "Dr. Ramirez's findings were not only a treasure trove for historians but also a significant contribution to understanding the indigenous cultures of the region. The city's advanced knowledge of astronomy, agriculture, and engineering was a testament to human ingenuity and creativity.",
+    "The expedition's success was celebrated worldwide, and the Lost City of Gold became a symbol of human discovery and perseverance. Dr. Ramirez's work inspired a new generation of explorers, academics, and dreamers.",
+    "The city remained a protected site, its secrets preserved for future generations. As for Dr. Ramirez and her team, they continued their pursuit of knowledge, forever changed by the adventure that had brought history and legend to life."
+  ],
+  "questions": [
+    {
+      "q": "Who led the expedition to the Lost City of Gold?",
+      "choices": [
+        {
+          "t": "Javier"
+        },
+        {
+          "t": "Eduardo"
+        },
+        {
+          "t": "Dr. Isabel Ramirez",
+          "correct": true
+        },
+        {
+          "t": "A local tribe leader"
+        }
+      ]
+    },
+    {
+      "q": "What challenges did the team face during their journey?",
+      "choices": [
+        {
+          "t": "Treacherous terrain, wild rivers, and unpredictable weather",
+          "correct": true
+        },
+        {
+          "t": "Lack of food and water"
+        },
+        {
+          "t": "Language barriers"
+        },
+        {
+          "t": "Mechanical failures"
+        }
+      ]
+    },
+    {
+      "q": "What did the team discover inside the city's core?",
+      "choices": [
+        {
+          "t": "Golden statues, precious gemstones, and ancient scrolls",
+          "correct": true
+        },
+        {
+          "t": "Modern technology"
+        },
+        {
+          "t": "A hidden tribe"
+        },
+        {
+          "t": "A treasure map"
+        }
+      ]
+    },
+    {
+      "q": "What was the significance of Dr. Ramirez's findings?",
+      "choices": [
+        {
+          "t": "They led to new laws and regulations"
+        },
+        {
+          "t": "They contributed to understanding indigenous cultures and human ingenuity",
+          "correct": true
+        },
+        {
+          "t": "They sparked political debates"
+        },
+        {
+          "t": "They caused economic growth"
+        }
+      ]
+    },
+    {
+      "q": "How did the Lost City of Gold affect future generations?",
+      "choices": [
+        {
+          "t": "It became a popular tourist destination"
+        },
+        {
+          "t": "It became a symbol of human discovery and perseverance",
+          "correct": true
+        },
+        {
+          "t": "It was destroyed"
+        },
+        {
+          "t": "It became a military base"
+        }
+      ]
+    },
+    {
+      "q": "Who accompanied Dr. Ramirez on the expedition?",
+      "choices": [
+        {
+          "t": "Javier, an expert botanist, and Eduardo, a skilled navigator",
+          "correct": true
+        },
+        {
+          "t": "Her family"
+        },
+        {
+          "t": "A film crew"
+        },
+        {
+          "t": "A group of tourists"
+        }
+      ]
+    },
+    {
+      "q": "What did the ancient scrolls and relics inside the city tell about?",
+      "choices": [
+        {
+          "t": "A prophecy about the future"
+        },
+        {
+          "t": "A highly advanced civilization that had thrived and vanished",
+          "correct": true
+        },
+        {
+          "t": "The location of other lost cities"
+        },
+        {
+          "t": "A secret recipe"
+        }
+      ]
+    },
+    {
+      "q": "How did the Lost City of Gold expedition affect Dr. Ramirez and her team?",
+      "choices": [
+        {
+          "t": "They became wealthy from selling the artifacts"
+        },
+        {
+          "t": "They were forever changed by the adventure",
+          "correct": true
+        },
+        {
+          "t": "They retired from exploring"
+        },
+        {
+          "t": "They became celebrities"
+        }
+      ]
+    }
+  ]
+}

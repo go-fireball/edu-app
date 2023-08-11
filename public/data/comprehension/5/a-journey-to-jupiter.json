@@ -1,1 +1,159 @@
-{"title":"The Solar System's Newest Explorer: A Journey to Jupiter","passage":["In the bustling space agency of CosmoTech, scientists and engineers were preparing for an extraordinary mission. The target was Jupiter, the largest planet in our solar system. The goal was to send an unmanned spacecraft, named Juno II, to explore its mysterious atmosphere and gigantic storms.","Dr. Maria Gonzales, the lead scientist, was filled with anticipation and excitement. The Juno II mission was not only an opportunity to advance our understanding of Jupiter but also a chance to inspire young minds about the wonders of space.","Juno II was equipped with state-of-the-art instruments to study Jupiter's magnetic field, weather patterns, and moons. It would take the spacecraft five years to reach its destination, covering a distance of over 365 million miles.","The launch day was filled with both joy and tension. As Juno II soared into the sky, Dr. Gonzales watched with a hopeful smile, aware of the challenges and risks ahead. The mission was a huge responsibility, but she knew her team was prepared.","Throughout the five-year journey, Juno II sent back fascinating data. It captured images of asteroids, solar storms, and even distant galaxies. Scientists and students around the world were captivated by the insights and discoveries.","Finally, Juno II reached Jupiter. Its cameras sent back breathtaking images of the planet's swirling clouds and immense storms. The spacecraft's instruments analyzed the composition of the atmosphere, providing clues about the planet's formation and evolution.","The mission was hailed as a success, contributing valuable information to our understanding of the solar system. Dr. Gonzales was proud of her team's achievement and thrilled to have played a part in such an important exploration.","Juno II's journey to Jupiter was a symbol of human curiosity and innovation. It not only advanced scientific knowledge but also inspired a new generation of explorers, eager to unlock the secrets of the universe."],"questions":[{"q":"What was the goal of the Juno II mission?","choices":[{"t":"To explore the Moon"},{"t":"To explore Jupiter","correct":true},{"t":"To explore Mars"},{"t":"To explore Earth"}]},{"q":"Who was the lead scientist for the Juno II mission?","choices":[{"t":"Dr. Maria Gonzales","correct":true},{"t":"Dr. John Smith"},{"t":"Dr. Emily Davis"},{"t":"Dr. Michael Johnson"}]},{"q":"How long did it take for Juno II to reach Jupiter?","choices":[{"t":"One year"},{"t":"Two years"},{"t":"Three years"},{"t":"Five years","correct":true}]},{"q":"What did Juno II study on Jupiter?","choices":[{"t":"Magnetic field, weather patterns, and moons","correct":true},{"t":"Oceans and rivers"},{"t":"Plants and animals"},{"t":"Cities and civilization"}]},{"q":"What emotions did Dr. Gonzales feel on launch day?","choices":[{"t":"Joy and tension","correct":true},{"t":"Fear and sadness"},{"t":"Boredom and apathy"},{"t":"Anger and frustration"}]},{"q":"What did Juno II send back during its journey to Jupiter?","choices":[{"t":"Images of asteroids, solar storms, and distant galaxies","correct":true},{"t":"Samples of alien life"},{"t":"Images of other spacecraft"},{"t":"Live video feed of the Earth"}]},{"q":"What was the significance of Juno II's journey?","choices":[{"t":"It advanced scientific knowledge and inspired a new generation","correct":true},{"t":"It discovered a new planet"},{"t":"It established communication with aliens"},{"t":"It found gold on Jupiter"}]},{"q":"What was Juno II's distance to cover to reach Jupiter?","choices":[{"t":"Over 365 million miles","correct":true},{"t":"Exactly 100 million miles"},{"t":"Around 50 million miles"},{"t":"Less than 10 million miles"}]}]}
+{
+  "title": "The Solar System's Newest Explorer: A Journey to Jupiter",
+  "passage": [
+    "In the bustling space agency of CosmoTech, scientists and engineers were preparing for an extraordinary mission. The target was Jupiter, the largest planet in our solar system. The goal was to send an unmanned spacecraft, named Juno II, to explore its mysterious atmosphere and gigantic storms.",
+    "Dr. Maria Gonzales, the lead scientist, was filled with anticipation and excitement. The Juno II mission was not only an opportunity to advance our understanding of Jupiter but also a chance to inspire young minds about the wonders of space.",
+    "Juno II was equipped with state-of-the-art instruments to study Jupiter's magnetic field, weather patterns, and moons. It would take the spacecraft five years to reach its destination, covering a distance of over 365 million miles.",
+    "The launch day was filled with both joy and tension. As Juno II soared into the sky, Dr. Gonzales watched with a hopeful smile, aware of the challenges and risks ahead. The mission was a huge responsibility, but she knew her team was prepared.",
+    "Throughout the five-year journey, Juno II sent back fascinating data. It captured images of asteroids, solar storms, and even distant galaxies. Scientists and students around the world were captivated by the insights and discoveries.",
+    "Finally, Juno II reached Jupiter. Its cameras sent back breathtaking images of the planet's swirling clouds and immense storms. The spacecraft's instruments analyzed the composition of the atmosphere, providing clues about the planet's formation and evolution.",
+    "The mission was hailed as a success, contributing valuable information to our understanding of the solar system. Dr. Gonzales was proud of her team's achievement and thrilled to have played a part in such an important exploration.",
+    "Juno II's journey to Jupiter was a symbol of human curiosity and innovation. It not only advanced scientific knowledge but also inspired a new generation of explorers, eager to unlock the secrets of the universe."
+  ],
+  "questions": [
+    {
+      "q": "What was the goal of the Juno II mission?",
+      "choices": [
+        {
+          "t": "To explore the Moon"
+        },
+        {
+          "t": "To explore Jupiter",
+          "correct": true
+        },
+        {
+          "t": "To explore Mars"
+        },
+        {
+          "t": "To explore Earth"
+        }
+      ]
+    },
+    {
+      "q": "Who was the lead scientist for the Juno II mission?",
+      "choices": [
+        {
+          "t": "Dr. Maria Gonzales",
+          "correct": true
+        },
+        {
+          "t": "Dr. John Smith"
+        },
+        {
+          "t": "Dr. Emily Davis"
+        },
+        {
+          "t": "Dr. Michael Johnson"
+        }
+      ]
+    },
+    {
+      "q": "How long did it take for Juno II to reach Jupiter?",
+      "choices": [
+        {
+          "t": "One year"
+        },
+        {
+          "t": "Two years"
+        },
+        {
+          "t": "Three years"
+        },
+        {
+          "t": "Five years",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "q": "What did Juno II study on Jupiter?",
+      "choices": [
+        {
+          "t": "Magnetic field, weather patterns, and moons",
+          "correct": true
+        },
+        {
+          "t": "Oceans and rivers"
+        },
+        {
+          "t": "Plants and animals"
+        },
+        {
+          "t": "Cities and civilization"
+        }
+      ]
+    },
+    {
+      "q": "What emotions did Dr. Gonzales feel on launch day?",
+      "choices": [
+        {
+          "t": "Joy and tension",
+          "correct": true
+        },
+        {
+          "t": "Fear and sadness"
+        },
+        {
+          "t": "Boredom and apathy"
+        },
+        {
+          "t": "Anger and frustration"
+        }
+      ]
+    },
+    {
+      "q": "What did Juno II send back during its journey to Jupiter?",
+      "choices": [
+        {
+          "t": "Images of asteroids, solar storms, and distant galaxies",
+          "correct": true
+        },
+        {
+          "t": "Samples of alien life"
+        },
+        {
+          "t": "Images of other spacecraft"
+        },
+        {
+          "t": "Live video feed of the Earth"
+        }
+      ]
+    },
+    {
+      "q": "What was the significance of Juno II's journey?",
+      "choices": [
+        {
+          "t": "It advanced scientific knowledge and inspired a new generation",
+          "correct": true
+        },
+        {
+          "t": "It discovered a new planet"
+        },
+        {
+          "t": "It established communication with aliens"
+        },
+        {
+          "t": "It found gold on Jupiter"
+        }
+      ]
+    },
+    {
+      "q": "What was Juno II's distance to cover to reach Jupiter?",
+      "choices": [
+        {
+          "t": "Over 365 million miles",
+          "correct": true
+        },
+        {
+          "t": "Exactly 100 million miles"
+        },
+        {
+          "t": "Around 50 million miles"
+        },
+        {
+          "t": "Less than 10 million miles"
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,153 @@
-{"title":"Satyendra Nath Bose: A Legacy in Quantum Physics","passage":["Satyendra Nath Bose was born on January 1, 1894, in Calcutta, India. A prodigious mathematician and physicist, Bose made remarkable contributions to the field of quantum mechanics, particularly in the area of statistical mechanics.","Bose's most significant work came in the form of a groundbreaking paper that he sent to Albert Einstein in 1924. In this paper, Bose applied statistical methods to photons, the particles that make up light, and derived what became known as Planck's radiation law. His innovative approach led to the development of Bose-Einstein statistics, a new way to describe the behavior of particles at the quantum level.","Einstein recognized the significance of Bose's ideas and extended them to atoms. The collaboration between Einstein and Bose led to the prediction of a new state of matter known as the Bose-Einstein Condensate (BEC). BEC is a state in which particles at extremely low temperatures behave as a single quantum entity.","Bose's work had a profound impact on the world of physics, inspiring further research in quantum mechanics and paving the way for technological advancements in areas such as superconductivity and nanotechnology.","In recognition of his contributions, particles that obey Bose-Einstein statistics are named 'bosons' in his honor. The Higgs boson, a particle central to the understanding of the universe's structure, is a well-known example of a boson.","Satyendra Nath Bose never received a Nobel Prize for his work, a fact that many in the scientific community consider an oversight. However, his legacy in the field of physics is celebrated globally, and his contributions continue to influence modern scientific thought.","Bose was also an inspiring educator and worked at various institutions in India, including the University of Calcutta and the University of Dhaka. His passion for education and scientific research left a lasting impact on generations of scientists in India and around the world.","Satyendra Nath Bose died on February 4, 1974, but his pioneering work continues to resonate in the field of physics, symbolizing the potential of innovative thinking and collaboration in scientific discovery."],"questions":[{"q":"What major contribution did Bose make to the field of quantum mechanics?","choices":[{"t":"He discovered the Higgs boson"},{"t":"He developed Bose-Einstein statistics","correct":true},{"t":"He invented the laser"},{"t":"He wrote the theory of relativity"}]},{"q":"What is the Bose-Einstein Condensate (BEC)?","choices":[{"t":"A type of chemical compound"},{"t":"A state of matter where particles behave as a single quantum entity","correct":true},{"t":"A statistical method for analyzing data"},{"t":"A theory of gravity"}]},{"q":"Why are particles that obey Bose-Einstein statistics called 'bosons'?","choices":[{"t":"They were discovered in Bosnia"},{"t":"They are named in honor of Satyendra Nath Bose","correct":true},{"t":"They are the building blocks of bones"},{"t":"They were first studied by botanists"}]},{"q":"What famous scientist did Bose collaborate with?","choices":[{"t":"Isaac Newton"},{"t":"Niels Bohr"},{"t":"Marie Curie"},{"t":"Albert Einstein","correct":true}]},{"q":"Where was Satyendra Nath Bose born?","choices":[{"t":"Mumbai, India"},{"t":"Calcutta, India","correct":true},{"t":"Delhi, India"},{"t":"Dhaka, Bangladesh"}]},{"q":"What is the impact of Bose's work on modern technology?","choices":[{"t":"It has paved the way for advancements in superconductivity and nanotechnology","correct":true},{"t":"It has led to the creation of the internet"},{"t":"It has revolutionized transportation"},{"t":"It has no impact on modern technology"}]},{"q":"Did Satyendra Nath Bose receive a Nobel Prize for his work?","choices":[{"t":"Yes"},{"t":"No","correct":true}]},{"q":"When did Satyendra Nath Bose pass away?","choices":[{"t":"February 4, 1974","correct":true},{"t":"January 1, 1984"},{"t":"March 15, 1965"},{"t":"December 25, 1979"}]}]}
+{
+  "title": "Satyendra Nath Bose: A Legacy in Quantum Physics",
+  "passage": [
+    "Satyendra Nath Bose was born on January 1, 1894, in Calcutta, India. A prodigious mathematician and physicist, Bose made remarkable contributions to the field of quantum mechanics, particularly in the area of statistical mechanics.",
+    "Bose's most significant work came in the form of a groundbreaking paper that he sent to Albert Einstein in 1924. In this paper, Bose applied statistical methods to photons, the particles that make up light, and derived what became known as Planck's radiation law. His innovative approach led to the development of Bose-Einstein statistics, a new way to describe the behavior of particles at the quantum level.",
+    "Einstein recognized the significance of Bose's ideas and extended them to atoms. The collaboration between Einstein and Bose led to the prediction of a new state of matter known as the Bose-Einstein Condensate (BEC). BEC is a state in which particles at extremely low temperatures behave as a single quantum entity.",
+    "Bose's work had a profound impact on the world of physics, inspiring further research in quantum mechanics and paving the way for technological advancements in areas such as superconductivity and nanotechnology.",
+    "In recognition of his contributions, particles that obey Bose-Einstein statistics are named 'bosons' in his honor. The Higgs boson, a particle central to the understanding of the universe's structure, is a well-known example of a boson.",
+    "Satyendra Nath Bose never received a Nobel Prize for his work, a fact that many in the scientific community consider an oversight. However, his legacy in the field of physics is celebrated globally, and his contributions continue to influence modern scientific thought.",
+    "Bose was also an inspiring educator and worked at various institutions in India, including the University of Calcutta and the University of Dhaka. His passion for education and scientific research left a lasting impact on generations of scientists in India and around the world.",
+    "Satyendra Nath Bose died on February 4, 1974, but his pioneering work continues to resonate in the field of physics, symbolizing the potential of innovative thinking and collaboration in scientific discovery."
+  ],
+  "questions": [
+    {
+      "q": "What major contribution did Bose make to the field of quantum mechanics?",
+      "choices": [
+        {
+          "t": "He discovered the Higgs boson"
+        },
+        {
+          "t": "He developed Bose-Einstein statistics",
+          "correct": true
+        },
+        {
+          "t": "He invented the laser"
+        },
+        {
+          "t": "He wrote the theory of relativity"
+        }
+      ]
+    },
+    {
+      "q": "What is the Bose-Einstein Condensate (BEC)?",
+      "choices": [
+        {
+          "t": "A type of chemical compound"
+        },
+        {
+          "t": "A state of matter where particles behave as a single quantum entity",
+          "correct": true
+        },
+        {
+          "t": "A statistical method for analyzing data"
+        },
+        {
+          "t": "A theory of gravity"
+        }
+      ]
+    },
+    {
+      "q": "Why are particles that obey Bose-Einstein statistics called 'bosons'?",
+      "choices": [
+        {
+          "t": "They were discovered in Bosnia"
+        },
+        {
+          "t": "They are named in honor of Satyendra Nath Bose",
+          "correct": true
+        },
+        {
+          "t": "They are the building blocks of bones"
+        },
+        {
+          "t": "They were first studied by botanists"
+        }
+      ]
+    },
+    {
+      "q": "What famous scientist did Bose collaborate with?",
+      "choices": [
+        {
+          "t": "Isaac Newton"
+        },
+        {
+          "t": "Niels Bohr"
+        },
+        {
+          "t": "Marie Curie"
+        },
+        {
+          "t": "Albert Einstein",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "q": "Where was Satyendra Nath Bose born?",
+      "choices": [
+        {
+          "t": "Mumbai, India"
+        },
+        {
+          "t": "Calcutta, India",
+          "correct": true
+        },
+        {
+          "t": "Delhi, India"
+        },
+        {
+          "t": "Dhaka, Bangladesh"
+        }
+      ]
+    },
+    {
+      "q": "What is the impact of Bose's work on modern technology?",
+      "choices": [
+        {
+          "t": "It has paved the way for advancements in superconductivity and nanotechnology",
+          "correct": true
+        },
+        {
+          "t": "It has led to the creation of the internet"
+        },
+        {
+          "t": "It has revolutionized transportation"
+        },
+        {
+          "t": "It has no impact on modern technology"
+        }
+      ]
+    },
+    {
+      "q": "Did Satyendra Nath Bose receive a Nobel Prize for his work?",
+      "choices": [
+        {
+          "t": "Yes"
+        },
+        {
+          "t": "No",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "q": "When did Satyendra Nath Bose pass away?",
+      "choices": [
+        {
+          "t": "February 4, 1974",
+          "correct": true
+        },
+        {
+          "t": "January 1, 1984"
+        },
+        {
+          "t": "March 15, 1965"
+        },
+        {
+          "t": "December 25, 1979"
+        }
+      ]
+    }
+  ]
+}

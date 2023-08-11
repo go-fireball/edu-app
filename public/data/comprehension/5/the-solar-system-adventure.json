@@ -1,1 +1,157 @@
-{"title":"The Solar System Adventure","passage":["The Solar System is a vast and mysterious place, full of planets, moons, asteroids, and comets. At the center of it all is the Sun, a gigantic star that provides energy and warmth to everything around it.","The first planet from the Sun is Mercury, a small, rocky planet that has extreme temperatures. Next is Venus, known for its thick, toxic atmosphere and intense heat. Earth, our home, is the third planet and is unique for having life.","Mars, the fourth planet, is known as the Red Planet because of its reddish appearance. It's famous for having the tallest volcano and the deepest canyon in the Solar System. Jupiter, the largest planet, has dozens of moons and a massive storm known as the Great Red Spot.","Saturn, with its spectacular rings, is the sixth planet from the Sun. Uranus, an ice giant, is tilted on its side, and Neptune, the eighth and final planet, has strong winds and dark storms.","Between Mars and Jupiter lies the asteroid belt, a region filled with countless small objects. Beyond Neptune, we find the Kuiper Belt, home to dwarf planets like Pluto.","Scientists continue to explore and learn more about the Solar System through telescopes, space probes, and rovers. The more they discover, the more they realize how much there is still to learn about this fascinating part of the universe."],"questions":[{"q":"What provides energy and warmth to the Solar System?","choices":[{"t":"Earth"},{"t":"The Sun","correct":true},{"t":"Jupiter"},{"t":"The Moon"}]},{"q":"Which planet is known for having the tallest volcano in the Solar System?","choices":[{"t":"Venus"},{"t":"Mars","correct":true},{"t":"Earth"},{"t":"Jupiter"}]},{"q":"What is the name of the sixth planet from the Sun?","choices":[{"t":"Uranus"},{"t":"Saturn","correct":true},{"t":"Neptune"},{"t":"Venus"}]},{"q":"Where is the asteroid belt located?","choices":[{"t":"Between Venus and Earth"},{"t":"Between Earth and Mars"},{"t":"Between Mars and Jupiter","correct":true},{"t":"Between Jupiter and Saturn"}]},{"q":"What makes Earth unique among the planets in the Solar System?","choices":[{"t":"It has the largest moon"},{"t":"It has the Great Red Spot"},{"t":"It has life","correct":true},{"t":"It has rings like Saturn"}]},{"q":"What is found beyond Neptune?","choices":[{"t":"The asteroid belt"},{"t":"The Great Red Spot"},{"t":"The Kuiper Belt","correct":true},{"t":"The tallest volcano"}]},{"q":"Which planet is known for its thick, toxic atmosphere?","choices":[{"t":"Mars"},{"t":"Venus","correct":true},{"t":"Uranus"},{"t":"Neptune"}]},{"q":"How do scientists explore and learn about the Solar System?","choices":[{"t":"Through books and internet research"},{"t":"Through telescopes, space probes, and rovers","correct":true},{"t":"Through diving into oceans"},{"t":"Through mountain climbing"}]}]}
+{
+  "title": "The Solar System Adventure",
+  "passage": [
+    "The Solar System is a vast and mysterious place, full of planets, moons, asteroids, and comets. At the center of it all is the Sun, a gigantic star that provides energy and warmth to everything around it.",
+    "The first planet from the Sun is Mercury, a small, rocky planet that has extreme temperatures. Next is Venus, known for its thick, toxic atmosphere and intense heat. Earth, our home, is the third planet and is unique for having life.",
+    "Mars, the fourth planet, is known as the Red Planet because of its reddish appearance. It's famous for having the tallest volcano and the deepest canyon in the Solar System. Jupiter, the largest planet, has dozens of moons and a massive storm known as the Great Red Spot.",
+    "Saturn, with its spectacular rings, is the sixth planet from the Sun. Uranus, an ice giant, is tilted on its side, and Neptune, the eighth and final planet, has strong winds and dark storms.",
+    "Between Mars and Jupiter lies the asteroid belt, a region filled with countless small objects. Beyond Neptune, we find the Kuiper Belt, home to dwarf planets like Pluto.",
+    "Scientists continue to explore and learn more about the Solar System through telescopes, space probes, and rovers. The more they discover, the more they realize how much there is still to learn about this fascinating part of the universe."
+  ],
+  "questions": [
+    {
+      "q": "What provides energy and warmth to the Solar System?",
+      "choices": [
+        {
+          "t": "Earth"
+        },
+        {
+          "t": "The Sun",
+          "correct": true
+        },
+        {
+          "t": "Jupiter"
+        },
+        {
+          "t": "The Moon"
+        }
+      ]
+    },
+    {
+      "q": "Which planet is known for having the tallest volcano in the Solar System?",
+      "choices": [
+        {
+          "t": "Venus"
+        },
+        {
+          "t": "Mars",
+          "correct": true
+        },
+        {
+          "t": "Earth"
+        },
+        {
+          "t": "Jupiter"
+        }
+      ]
+    },
+    {
+      "q": "What is the name of the sixth planet from the Sun?",
+      "choices": [
+        {
+          "t": "Uranus"
+        },
+        {
+          "t": "Saturn",
+          "correct": true
+        },
+        {
+          "t": "Neptune"
+        },
+        {
+          "t": "Venus"
+        }
+      ]
+    },
+    {
+      "q": "Where is the asteroid belt located?",
+      "choices": [
+        {
+          "t": "Between Venus and Earth"
+        },
+        {
+          "t": "Between Earth and Mars"
+        },
+        {
+          "t": "Between Mars and Jupiter",
+          "correct": true
+        },
+        {
+          "t": "Between Jupiter and Saturn"
+        }
+      ]
+    },
+    {
+      "q": "What makes Earth unique among the planets in the Solar System?",
+      "choices": [
+        {
+          "t": "It has the largest moon"
+        },
+        {
+          "t": "It has the Great Red Spot"
+        },
+        {
+          "t": "It has life",
+          "correct": true
+        },
+        {
+          "t": "It has rings like Saturn"
+        }
+      ]
+    },
+    {
+      "q": "What is found beyond Neptune?",
+      "choices": [
+        {
+          "t": "The asteroid belt"
+        },
+        {
+          "t": "The Great Red Spot"
+        },
+        {
+          "t": "The Kuiper Belt",
+          "correct": true
+        },
+        {
+          "t": "The tallest volcano"
+        }
+      ]
+    },
+    {
+      "q": "Which planet is known for its thick, toxic atmosphere?",
+      "choices": [
+        {
+          "t": "Mars"
+        },
+        {
+          "t": "Venus",
+          "correct": true
+        },
+        {
+          "t": "Uranus"
+        },
+        {
+          "t": "Neptune"
+        }
+      ]
+    },
+    {
+      "q": "How do scientists explore and learn about the Solar System?",
+      "choices": [
+        {
+          "t": "Through books and internet research"
+        },
+        {
+          "t": "Through telescopes, space probes, and rovers",
+          "correct": true
+        },
+        {
+          "t": "Through diving into oceans"
+        },
+        {
+          "t": "Through mountain climbing"
+        }
+      ]
+    }
+  ]
+}

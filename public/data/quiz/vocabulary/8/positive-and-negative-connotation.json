@@ -1,1 +1,124 @@
-{"questions":[{"q":"Which word has a more negative connotation?","choices":[{"t":"thrifty"},{"t":"stingy","correct":true}]},{"q":"Which word has a more positive connotation?","choices":[{"t":"slender","correct":true},{"t":"skinny"}]},{"q":"Which phrase has a more negative connotation?","choices":[{"t":"independent thinker"},{"t":"lone wolf","correct":true}]},{"q":"Which word has a more positive connotation?","choices":[{"t":"determined","correct":true},{"t":"stubborn"}]},{"q":"Which word has a more negative connotation?","choices":[{"t":"confident"},{"t":"arrogant","correct":true}]},{"q":"Which phrase has a more positive connotation?","choices":[{"t":"making a mistake"},{"t":"learning a lesson","correct":true}]},{"q":"Which word has a more negative connotation?","choices":[{"t":"vintage"},{"t":"old-fashioned","correct":true}]},{"q":"Which word has a more positive connotation?","choices":[{"t":"adventurous","correct":true},{"t":"reckless"}]},{"q":"Which phrase has a more negative connotation?","choices":[{"t":"passionate about a cause"},{"t":"obsessed with a cause","correct":true}]},{"q":"Which word has a more positive connotation?","choices":[{"t":"resourceful","correct":true},{"t":"scheming"}]}]}
+{
+  "questions": [
+    {
+      "q": "Which word has a more negative connotation?",
+      "choices": [
+        {
+          "t": "thrifty"
+        },
+        {
+          "t": "stingy",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "q": "Which word has a more positive connotation?",
+      "choices": [
+        {
+          "t": "slender",
+          "correct": true
+        },
+        {
+          "t": "skinny"
+        }
+      ]
+    },
+    {
+      "q": "Which phrase has a more negative connotation?",
+      "choices": [
+        {
+          "t": "independent thinker"
+        },
+        {
+          "t": "lone wolf",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "q": "Which word has a more positive connotation?",
+      "choices": [
+        {
+          "t": "determined",
+          "correct": true
+        },
+        {
+          "t": "stubborn"
+        }
+      ]
+    },
+    {
+      "q": "Which word has a more negative connotation?",
+      "choices": [
+        {
+          "t": "confident"
+        },
+        {
+          "t": "arrogant",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "q": "Which phrase has a more positive connotation?",
+      "choices": [
+        {
+          "t": "making a mistake"
+        },
+        {
+          "t": "learning a lesson",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "q": "Which word has a more negative connotation?",
+      "choices": [
+        {
+          "t": "vintage"
+        },
+        {
+          "t": "old-fashioned",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "q": "Which word has a more positive connotation?",
+      "choices": [
+        {
+          "t": "adventurous",
+          "correct": true
+        },
+        {
+          "t": "reckless"
+        }
+      ]
+    },
+    {
+      "q": "Which phrase has a more negative connotation?",
+      "choices": [
+        {
+          "t": "passionate about a cause"
+        },
+        {
+          "t": "obsessed with a cause",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "q": "Which word has a more positive connotation?",
+      "choices": [
+        {
+          "t": "resourceful",
+          "correct": true
+        },
+        {
+          "t": "scheming"
+        }
+      ]
+    }
+  ]
+}

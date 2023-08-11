@@ -3,91 +3,181 @@
     {
       "q": "Which of the following is an inherited trait?",
       "choices": [
-        { "t": "Eye color", "correct": true },
-        { "t": "Muscle strength" },
-        { "t": "Reading ability" },
-        { "t": "Knowledge of a language" }
+        {
+          "t": "Eye color",
+          "correct": true
+        },
+        {
+          "t": "Muscle strength"
+        },
+        {
+          "t": "Reading ability"
+        },
+        {
+          "t": "Knowledge of a language"
+        }
       ]
     },
     {
       "q": "Which of the following is an acquired trait?",
       "choices": [
-        { "t": "Skin color" },
-        { "t": "Height" },
-        { "t": "Playing a musical instrument", "correct": true },
-        { "t": "Blood type" }
+        {
+          "t": "Skin color"
+        },
+        {
+          "t": "Height"
+        },
+        {
+          "t": "Playing a musical instrument",
+          "correct": true
+        },
+        {
+          "t": "Blood type"
+        }
       ]
     },
     {
       "q": "Which trait is passed down from parents to their children?",
       "choices": [
-        { "t": "Hair color", "correct": true },
-        { "t": "Driving skills" },
-        { "t": "Favorite book" },
-        { "t": "Cooking ability" }
+        {
+          "t": "Hair color",
+          "correct": true
+        },
+        {
+          "t": "Driving skills"
+        },
+        {
+          "t": "Favorite book"
+        },
+        {
+          "t": "Cooking ability"
+        }
       ]
     },
     {
       "q": "What can influence an acquired trait?",
       "choices": [
-        { "t": "Environment and experience", "correct": true },
-        { "t": "Genes only" },
-        { "t": "Parents' height" },
-        { "t": "Number of siblings" }
+        {
+          "t": "Environment and experience",
+          "correct": true
+        },
+        {
+          "t": "Genes only"
+        },
+        {
+          "t": "Parents' height"
+        },
+        {
+          "t": "Number of siblings"
+        }
       ]
     },
     {
       "q": "What is the main difference between inherited and acquired traits?",
       "choices": [
-        { "t": "Inherited are temporary, acquired are permanent" },
-        { "t": "Inherited are from genes, acquired are learned or developed", "correct": true },
-        { "t": "Inherited are learned, acquired are from genes" },
-        { "t": "There is no difference" }
+        {
+          "t": "Inherited are temporary, acquired are permanent"
+        },
+        {
+          "t": "Inherited are from genes, acquired are learned or developed",
+          "correct": true
+        },
+        {
+          "t": "Inherited are learned, acquired are from genes"
+        },
+        {
+          "t": "There is no difference"
+        }
       ]
     },
     {
       "q": "Which of the following traits is acquired?",
       "choices": [
-        { "t": "Ability to swim", "correct": true },
-        { "t": "Eye color" },
-        { "t": "Nose shape" },
-        { "t": "Fingerprint pattern" }
+        {
+          "t": "Ability to swim",
+          "correct": true
+        },
+        {
+          "t": "Eye color"
+        },
+        {
+          "t": "Nose shape"
+        },
+        {
+          "t": "Fingerprint pattern"
+        }
       ]
     },
     {
       "q": "If a person's parents are tall, what trait might the person inherit?",
       "choices": [
-        { "t": "Tall height", "correct": true },
-        { "t": "Good at basketball" },
-        { "t": "Wealth" },
-        { "t": "Educational degree" }
+        {
+          "t": "Tall height",
+          "correct": true
+        },
+        {
+          "t": "Good at basketball"
+        },
+        {
+          "t": "Wealth"
+        },
+        {
+          "t": "Educational degree"
+        }
       ]
     },
     {
       "q": "Which of the following is NOT an inherited trait?",
       "choices": [
-        { "t": "Writing skill", "correct": true },
-        { "t": "Eye color" },
-        { "t": "Earlobe attachment" },
-        { "t": "Natural hair texture" }
+        {
+          "t": "Writing skill",
+          "correct": true
+        },
+        {
+          "t": "Eye color"
+        },
+        {
+          "t": "Earlobe attachment"
+        },
+        {
+          "t": "Natural hair texture"
+        }
       ]
     },
     {
       "q": "What type of trait is determined by both genetics and environment?",
       "choices": [
-        { "t": "Height", "correct": true },
-        { "t": "Fingerprint pattern" },
-        { "t": "Blood type" },
-        { "t": "Ability to roll the tongue" }
+        {
+          "t": "Height",
+          "correct": true
+        },
+        {
+          "t": "Fingerprint pattern"
+        },
+        {
+          "t": "Blood type"
+        },
+        {
+          "t": "Ability to roll the tongue"
+        }
       ]
     },
     {
       "q": "Which trait is influenced by lifestyle and choices, rather than genetics?",
       "choices": [
-        { "t": "Eye color" },
-        { "t": "Tattoos", "correct": true },
-        { "t": "Natural hair color" },
-        { "t": "Shape of the nose" }
+        {
+          "t": "Eye color"
+        },
+        {
+          "t": "Tattoos",
+          "correct": true
+        },
+        {
+          "t": "Natural hair color"
+        },
+        {
+          "t": "Shape of the nose"
+        }
       ]
     }
   ]

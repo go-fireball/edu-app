@@ -1,1 +1,184 @@
-{"questions":[{"q":"What does the word \"fearless\" mean?","choices":[{"t":"Full of fear"},{"t":"Without fear","correct":true},{"t":"Afraid of everything"},{"t":"Scary"}]},{"q":"If someone is \"penniless,\" what do they not have?","choices":[{"t":"Pens"},{"t":"Friends"},{"t":"Money","correct":true},{"t":"Wishes"}]},{"q":"What might a \"tireless\" worker continue to do?","choices":[{"t":"Sleep"},{"t":"Complain"},{"t":"Work without getting tired","correct":true},{"t":"Eat"}]},{"q":"What can you call a person who shows no mercy?","choices":[{"t":"Hopeful"},{"t":"Merciless","correct":true},{"t":"Thoughtful"},{"t":"Fearful"}]},{"q":"If something is \"flawless,\" what is it?","choices":[{"t":"Full of mistakes"},{"t":"Perfect without any flaws","correct":true},{"t":"Broken"},{"t":"Dirty"}]},{"q":"What does it mean to be \"speechless\"?","choices":[{"t":"Talkative"},{"t":"Without speech or words","correct":true},{"t":"Loud"},{"t":"Funny"}]},{"q":"How would you describe something that is \"endless\"?","choices":[{"t":"Short"},{"t":"Limited"},{"t":"Never-ending","correct":true},{"t":"Boring"}]},{"q":"If someone is \"clueless\" about a subject, what are they?","choices":[{"t":"Expert"},{"t":"Confused"},{"t":"Without knowledge or understanding","correct":true},{"t":"Happy"}]},{"q":"What might a \"careless\" mistake lead to?","choices":[{"t":"Success"},{"t":"A possible error due to lack of care","correct":true},{"t":"Perfection"},{"t":"Understanding"}]},{"q":"If you are \"hopeless\" at a task, what do you feel?","choices":[{"t":"Excited"},{"t":"Without hope or expectation of success","correct":true},{"t":"Proud"},{"t":"Angry"}]}]}
+{
+  "questions": [
+    {
+      "q": "What does the word \"fearless\" mean?",
+      "choices": [
+        {
+          "t": "Full of fear"
+        },
+        {
+          "t": "Without fear",
+          "correct": true
+        },
+        {
+          "t": "Afraid of everything"
+        },
+        {
+          "t": "Scary"
+        }
+      ]
+    },
+    {
+      "q": "If someone is \"penniless,\" what do they not have?",
+      "choices": [
+        {
+          "t": "Pens"
+        },
+        {
+          "t": "Friends"
+        },
+        {
+          "t": "Money",
+          "correct": true
+        },
+        {
+          "t": "Wishes"
+        }
+      ]
+    },
+    {
+      "q": "What might a \"tireless\" worker continue to do?",
+      "choices": [
+        {
+          "t": "Sleep"
+        },
+        {
+          "t": "Complain"
+        },
+        {
+          "t": "Work without getting tired",
+          "correct": true
+        },
+        {
+          "t": "Eat"
+        }
+      ]
+    },
+    {
+      "q": "What can you call a person who shows no mercy?",
+      "choices": [
+        {
+          "t": "Hopeful"
+        },
+        {
+          "t": "Merciless",
+          "correct": true
+        },
+        {
+          "t": "Thoughtful"
+        },
+        {
+          "t": "Fearful"
+        }
+      ]
+    },
+    {
+      "q": "If something is \"flawless,\" what is it?",
+      "choices": [
+        {
+          "t": "Full of mistakes"
+        },
+        {
+          "t": "Perfect without any flaws",
+          "correct": true
+        },
+        {
+          "t": "Broken"
+        },
+        {
+          "t": "Dirty"
+        }
+      ]
+    },
+    {
+      "q": "What does it mean to be \"speechless\"?",
+      "choices": [
+        {
+          "t": "Talkative"
+        },
+        {
+          "t": "Without speech or words",
+          "correct": true
+        },
+        {
+          "t": "Loud"
+        },
+        {
+          "t": "Funny"
+        }
+      ]
+    },
+    {
+      "q": "How would you describe something that is \"endless\"?",
+      "choices": [
+        {
+          "t": "Short"
+        },
+        {
+          "t": "Limited"
+        },
+        {
+          "t": "Never-ending",
+          "correct": true
+        },
+        {
+          "t": "Boring"
+        }
+      ]
+    },
+    {
+      "q": "If someone is \"clueless\" about a subject, what are they?",
+      "choices": [
+        {
+          "t": "Expert"
+        },
+        {
+          "t": "Confused"
+        },
+        {
+          "t": "Without knowledge or understanding",
+          "correct": true
+        },
+        {
+          "t": "Happy"
+        }
+      ]
+    },
+    {
+      "q": "What might a \"careless\" mistake lead to?",
+      "choices": [
+        {
+          "t": "Success"
+        },
+        {
+          "t": "A possible error due to lack of care",
+          "correct": true
+        },
+        {
+          "t": "Perfection"
+        },
+        {
+          "t": "Understanding"
+        }
+      ]
+    },
+    {
+      "q": "If you are \"hopeless\" at a task, what do you feel?",
+      "choices": [
+        {
+          "t": "Excited"
+        },
+        {
+          "t": "Without hope or expectation of success",
+          "correct": true
+        },
+        {
+          "t": "Proud"
+        },
+        {
+          "t": "Angry"
+        }
+      ]
+    }
+  ]
+}

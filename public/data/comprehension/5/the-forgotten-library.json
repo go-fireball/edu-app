@@ -1,1 +1,158 @@
-{"title":"The Forgotten Library: A Mystery Unveiled","passage":["In the heart of the bustling city of Eldridge lay a forgotten library, hidden away behind towering buildings and winding alleys. This library, known as the Eldridge Archives, was filled with ancient books, maps, and mysterious artifacts.","Charlotte Adams, a young historian, stumbled upon the library while researching her city's past. The library's caretaker, an old man named Mr. Wren, was happy to share his knowledge and welcomed her into this world of secrets.","Charlotte discovered that the library contained records of an uncharted island, hidden away in unexplored oceans. She was drawn to a particular map, adorned with strange symbols and markings. Her curiosity piqued, she decided to investigate further.","With the guidance of Mr. Wren, she began to decipher the map's symbols, uncovering clues that pointed to a hidden treasure. The more she delved into the library's resources, the more she realized that the island was not merely a myth.","After months of meticulous research and planning, Charlotte embarked on an expedition to find the island. Accompanied by a skilled team of explorers, she navigated treacherous waters and faced numerous challenges.","Finally, they reached the uncharted island and discovered the hidden treasure: a chest filled with ancient gold coins and priceless artifacts. Charlotte's discovery not only brought her fame but also shed new light on her city's rich history.","The Eldridge Archives were no longer forgotten. People from all over came to explore its contents, and the library became a symbol of knowledge and discovery. Charlotte continued her work as a historian, forever inspired by the mystery she had unveiled."],"questions":[{"q":"Where is the Eldridge Archives located?","choices":[{"t":"In a small village"},{"t":"In the city of Eldridge","correct":true},{"t":"On an uncharted island"},{"t":"In a remote forest"}]},{"q":"What was Charlotte Adams' profession?","choices":[{"t":"A librarian"},{"t":"A historian","correct":true},{"t":"An explorer"},{"t":"An artist"}]},{"q":"Who helped Charlotte in her research?","choices":[{"t":"Her team of explorers"},{"t":"Mr. Wren, the library's caretaker","correct":true},{"t":"The Mayor of Eldridge"},{"t":"A fellow historian"}]},{"q":"What did Charlotte find in the library that intrigued her?","choices":[{"t":"A diary"},{"t":"An old photograph"},{"t":"A map of an uncharted island","correct":true},{"t":"A collection of ancient artifacts"}]},{"q":"What was hidden on the uncharted island?","choices":[{"t":"A forgotten civilization"},{"t":"A chest filled with ancient gold coins and priceless artifacts","correct":true},{"t":"A rare species of animals"},{"t":"A hidden library"}]},{"q":"How did the discovery affect the Eldridge Archives?","choices":[{"t":"It was closed down"},{"t":"People came to explore its contents","correct":true},{"t":"It was moved to a new location"},{"t":"It was destroyed"}]},{"q":"What challenges did Charlotte face during her expedition?","choices":[{"t":"She faced no challenges"},{"t":"She navigated treacherous waters and faced numerous challenges","correct":true},{"t":"She had disagreements with her team"},{"t":"She ran out of resources"}]},{"q":"What effect did the discovery have on Charlotte's career?","choices":[{"t":"It ended her career"},{"t":"It brought her fame and inspiration","correct":true},{"t":"It had no effect"},{"t":"It led to her retirement"}]}]}
+{
+  "title": "The Forgotten Library: A Mystery Unveiled",
+  "passage": [
+    "In the heart of the bustling city of Eldridge lay a forgotten library, hidden away behind towering buildings and winding alleys. This library, known as the Eldridge Archives, was filled with ancient books, maps, and mysterious artifacts.",
+    "Charlotte Adams, a young historian, stumbled upon the library while researching her city's past. The library's caretaker, an old man named Mr. Wren, was happy to share his knowledge and welcomed her into this world of secrets.",
+    "Charlotte discovered that the library contained records of an uncharted island, hidden away in unexplored oceans. She was drawn to a particular map, adorned with strange symbols and markings. Her curiosity piqued, she decided to investigate further.",
+    "With the guidance of Mr. Wren, she began to decipher the map's symbols, uncovering clues that pointed to a hidden treasure. The more she delved into the library's resources, the more she realized that the island was not merely a myth.",
+    "After months of meticulous research and planning, Charlotte embarked on an expedition to find the island. Accompanied by a skilled team of explorers, she navigated treacherous waters and faced numerous challenges.",
+    "Finally, they reached the uncharted island and discovered the hidden treasure: a chest filled with ancient gold coins and priceless artifacts. Charlotte's discovery not only brought her fame but also shed new light on her city's rich history.",
+    "The Eldridge Archives were no longer forgotten. People from all over came to explore its contents, and the library became a symbol of knowledge and discovery. Charlotte continued her work as a historian, forever inspired by the mystery she had unveiled."
+  ],
+  "questions": [
+    {
+      "q": "Where is the Eldridge Archives located?",
+      "choices": [
+        {
+          "t": "In a small village"
+        },
+        {
+          "t": "In the city of Eldridge",
+          "correct": true
+        },
+        {
+          "t": "On an uncharted island"
+        },
+        {
+          "t": "In a remote forest"
+        }
+      ]
+    },
+    {
+      "q": "What was Charlotte Adams' profession?",
+      "choices": [
+        {
+          "t": "A librarian"
+        },
+        {
+          "t": "A historian",
+          "correct": true
+        },
+        {
+          "t": "An explorer"
+        },
+        {
+          "t": "An artist"
+        }
+      ]
+    },
+    {
+      "q": "Who helped Charlotte in her research?",
+      "choices": [
+        {
+          "t": "Her team of explorers"
+        },
+        {
+          "t": "Mr. Wren, the library's caretaker",
+          "correct": true
+        },
+        {
+          "t": "The Mayor of Eldridge"
+        },
+        {
+          "t": "A fellow historian"
+        }
+      ]
+    },
+    {
+      "q": "What did Charlotte find in the library that intrigued her?",
+      "choices": [
+        {
+          "t": "A diary"
+        },
+        {
+          "t": "An old photograph"
+        },
+        {
+          "t": "A map of an uncharted island",
+          "correct": true
+        },
+        {
+          "t": "A collection of ancient artifacts"
+        }
+      ]
+    },
+    {
+      "q": "What was hidden on the uncharted island?",
+      "choices": [
+        {
+          "t": "A forgotten civilization"
+        },
+        {
+          "t": "A chest filled with ancient gold coins and priceless artifacts",
+          "correct": true
+        },
+        {
+          "t": "A rare species of animals"
+        },
+        {
+          "t": "A hidden library"
+        }
+      ]
+    },
+    {
+      "q": "How did the discovery affect the Eldridge Archives?",
+      "choices": [
+        {
+          "t": "It was closed down"
+        },
+        {
+          "t": "People came to explore its contents",
+          "correct": true
+        },
+        {
+          "t": "It was moved to a new location"
+        },
+        {
+          "t": "It was destroyed"
+        }
+      ]
+    },
+    {
+      "q": "What challenges did Charlotte face during her expedition?",
+      "choices": [
+        {
+          "t": "She faced no challenges"
+        },
+        {
+          "t": "She navigated treacherous waters and faced numerous challenges",
+          "correct": true
+        },
+        {
+          "t": "She had disagreements with her team"
+        },
+        {
+          "t": "She ran out of resources"
+        }
+      ]
+    },
+    {
+      "q": "What effect did the discovery have on Charlotte's career?",
+      "choices": [
+        {
+          "t": "It ended her career"
+        },
+        {
+          "t": "It brought her fame and inspiration",
+          "correct": true
+        },
+        {
+          "t": "It had no effect"
+        },
+        {
+          "t": "It led to her retirement"
+        }
+      ]
+    }
+  ]
+}

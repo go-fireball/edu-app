@@ -1,1 +1,124 @@
-{"questions":[{"q":"Which word has a more positive connotation?","choices":[{"t":"frugal","correct":true},{"t":"miserly"}]},{"q":"Which word has a more negative connotation?","choices":[{"t":"eccentric"},{"t":"weird","correct":true}]},{"q":"Which phrase has a more positive connotation?","choices":[{"t":"fired from a job"},{"t":"between opportunities","correct":true}]},{"q":"Which word has a more negative connotation?","choices":[{"t":"svelte"},{"t":"gaunt","correct":true}]},{"q":"Which word has a more positive connotation?","choices":[{"t":"meticulous","correct":true},{"t":"fussy"}]},{"q":"Which phrase has a more negative connotation?","choices":[{"t":"has strong opinions"},{"t":"is opinionated","correct":true}]},{"q":"Which word has a more positive connotation?","choices":[{"t":"creative","correct":true},{"t":"impractical"}]},{"q":"Which word has a more negative connotation?","choices":[{"t":"ambitious"},{"t":"power-hungry","correct":true}]},{"q":"Which phrase has a more positive connotation?","choices":[{"t":"an interesting challenge","correct":true},{"t":"a frustrating problem"}]},{"q":"Which word has a more negative connotation?","choices":[{"t":"persistent"},{"t":"obstinate","correct":true}]}]}
+{
+  "questions": [
+    {
+      "q": "Which word has a more positive connotation?",
+      "choices": [
+        {
+          "t": "frugal",
+          "correct": true
+        },
+        {
+          "t": "miserly"
+        }
+      ]
+    },
+    {
+      "q": "Which word has a more negative connotation?",
+      "choices": [
+        {
+          "t": "eccentric"
+        },
+        {
+          "t": "weird",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "q": "Which phrase has a more positive connotation?",
+      "choices": [
+        {
+          "t": "fired from a job"
+        },
+        {
+          "t": "between opportunities",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "q": "Which word has a more negative connotation?",
+      "choices": [
+        {
+          "t": "svelte"
+        },
+        {
+          "t": "gaunt",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "q": "Which word has a more positive connotation?",
+      "choices": [
+        {
+          "t": "meticulous",
+          "correct": true
+        },
+        {
+          "t": "fussy"
+        }
+      ]
+    },
+    {
+      "q": "Which phrase has a more negative connotation?",
+      "choices": [
+        {
+          "t": "has strong opinions"
+        },
+        {
+          "t": "is opinionated",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "q": "Which word has a more positive connotation?",
+      "choices": [
+        {
+          "t": "creative",
+          "correct": true
+        },
+        {
+          "t": "impractical"
+        }
+      ]
+    },
+    {
+      "q": "Which word has a more negative connotation?",
+      "choices": [
+        {
+          "t": "ambitious"
+        },
+        {
+          "t": "power-hungry",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "q": "Which phrase has a more positive connotation?",
+      "choices": [
+        {
+          "t": "an interesting challenge",
+          "correct": true
+        },
+        {
+          "t": "a frustrating problem"
+        }
+      ]
+    },
+    {
+      "q": "Which word has a more negative connotation?",
+      "choices": [
+        {
+          "t": "persistent"
+        },
+        {
+          "t": "obstinate",
+          "correct": true
+        }
+      ]
+    }
+  ]
+}
