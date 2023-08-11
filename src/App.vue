@@ -34,7 +34,7 @@
           <router-view></router-view>
         </v-main>
         <v-footer
-          class="text-center d-flex flex-column"
+          class="my-footer text-center d-flex flex-column"
           color="primary" app
         >
           <div>
@@ -83,3 +83,9 @@ function toggleTheme() {
 }
 
 </script>
+
+<style scoped>
+.my-footer {
+  padding: 2px 8px;
+}
+</style>
