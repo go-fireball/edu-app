@@ -60,7 +60,8 @@
 
 <script setup lang="ts">
 import {useTheme} from "vuetify";
-import {ref} from "vue";
+import {ref, watch} from "vue";
+import {useRoute} from "vue-router";
 
 const icons = [
     'mdi-facebook',
@@ -71,6 +72,11 @@ const icons = [
 
 const drawer = ref<boolean>(false);
 const theme = useTheme()
+const route = useRoute()
+
+watch(() => route.params, () => {
+  window.scrollTo(0, 0)
+})
 
 function toggleTheme() {
   theme.global.name.value = theme.global.current.value.dark ? 'light' : 'dark'
