@@ -1,0 +1,94 @@
+{
+  "questions": [
+    {
+      "q": "Which type of food is primarily consumed during the festival of Pongal?",
+      "choices": [
+        { "t": "Biryani" },
+        { "t": "Pongal dish", "correct": true },
+        { "t": "Samosa" },
+        { "t": "Burger" }
+      ]
+    },
+    {
+      "q": "What is the main ingredient in a traditional Italian pizza base?",
+      "choices": [
+        { "t": "Cornflour" },
+        { "t": "Wheat Flour", "correct": true },
+        { "t": "Rice Flour" },
+        { "t": "Oats Flour" }
+      ]
+    },
+    {
+      "q": "Which fruit is considered the 'King of Fruits' in India?",
+      "choices": [
+        { "t": "Apple" },
+        { "t": "Mango", "correct": true },
+        { "t": "Banana" },
+        { "t": "Grapes" }
+      ]
+    },
+    {
+      "q": "What is the primary ingredient in Sushi?",
+      "choices": [
+        { "t": "Noodles" },
+        { "t": "Rice", "correct": true },
+        { "t": "Bread" },
+        { "t": "Beans" }
+      ]
+    },
+    {
+      "q": "Which type of food is a staple in the Japanese diet?",
+      "choices": [
+        { "t": "Rice", "correct": true },
+        { "t": "Pasta" },
+        { "t": "Bread" },
+        { "t": "Tortilla" }
+      ]
+    },
+    {
+      "q": "What is the main ingredient in French fries?",
+      "choices": [
+        { "t": "Potatoes", "correct": true },
+        { "t": "Carrots" },
+        { "t": "Tomatoes" },
+        { "t": "Cucumbers" }
+      ]
+    },
+    {
+      "q": "Which cuisine is known for its use of spices and herbs?",
+      "choices": [
+        { "t": "Indian", "correct": true },
+        { "t": "French" },
+        { "t": "Italian" },
+        { "t": "Japanese" }
+      ]
+    },
+    {
+      "q": "What type of bread is typically used in a sandwich?",
+      "choices": [
+        { "t": "Naan" },
+        { "t": "Pita" },
+        { "t": "Sliced Bread", "correct": true },
+        { "t": "Baguette" }
+      ]
+    },
+    {
+      "q": "What is the main ingredient of a traditional chocolate cake?",
+      "choices": [
+        { "t": "Vanilla Extract" },
+        { "t": "Cocoa Powder", "correct": true },
+        { "t": "Strawberries" },
+        { "t": "Lemons" }
+      ]
+    },
+    {
+      "q": "Which of the following is a popular Mexican dish?",
+      "choices": [
+        { "t": "Tacos", "correct": true },
+        { "t": "Sushi" },
+        { "t": "Pizza" },
+        { "t": "Burgers" }
+      ]
+    }
+  ]
+}

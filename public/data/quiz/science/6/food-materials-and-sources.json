@@ -1,0 +1,94 @@
+{
+  "questions": [
+    {
+      "q": "Which food source is rich in protein?",
+      "choices": [
+        { "t": "Bread" },
+        { "t": "Fish", "correct": true },
+        { "t": "Apple" },
+        { "t": "Rice" }
+      ]
+    },
+    {
+      "q": "What is the main source of energy in our diet?",
+      "choices": [
+        { "t": "Carbohydrates", "correct": true },
+        { "t": "Vitamins" },
+        { "t": "Minerals" },
+        { "t": "Water" }
+      ]
+    },
+    {
+      "q": "Where does milk come from?",
+      "choices": [
+        { "t": "Plants" },
+        { "t": "Animals", "correct": true },
+        { "t": "Minerals" },
+        { "t": "Water" }
+      ]
+    },
+    {
+      "q": "Which vitamin is abundant in citrus fruits like oranges?",
+      "choices": [
+        { "t": "Vitamin A" },
+        { "t": "Vitamin C", "correct": true },
+        { "t": "Vitamin D" },
+        { "t": "Vitamin B" }
+      ]
+    },
+    {
+      "q": "What is a primary source of dietary fiber?",
+      "choices": [
+        { "t": "Whole grains", "correct": true },
+        { "t": "Meat" },
+        { "t": "Milk" },
+        { "t": "Fish" }
+      ]
+    },
+    {
+      "q": "Which food item helps in the formation of strong bones and teeth?",
+      "choices": [
+        { "t": "Milk", "correct": true },
+        { "t": "Bread" },
+        { "t": "Orange" },
+        { "t": "Apple" }
+      ]
+    },
+    {
+      "q": "What is the main component of table sugar?",
+      "choices": [
+        { "t": "Glucose" },
+        { "t": "Fructose" },
+        { "t": "Sucrose", "correct": true },
+        { "t": "Starch" }
+      ]
+    },
+    {
+      "q": "Which type of food is considered good for heart health?",
+      "choices": [
+        { "t": "Oily fish", "correct": true },
+        { "t": "Soda" },
+        { "t": "Candy" },
+        { "t": "Fried chicken" }
+      ]
+    },
+    {
+      "q": "What is the main nutrient in rice?",
+      "choices": [
+        { "t": "Protein" },
+        { "t": "Vitamin C" },
+        { "t": "Fats" },
+        { "t": "Carbohydrates", "correct": true }
+      ]
+    },
+    {
+      "q": "Which mineral is essential for carrying oxygen in the blood?",
+      "choices": [
+        { "t": "Zinc" },
+        { "t": "Calcium" },
+        { "t": "Iron", "correct": true },
+        { "t": "Potassium" }
+      ]
+    }
+  ]
+}

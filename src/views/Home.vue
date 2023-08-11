@@ -48,6 +48,10 @@
             <br/>
             <router-link to="/quiz/science/5/kinetic-energy">Kinetic Energy</router-link>
             <br/>
+            <router-link to="/quiz/science/6/food-materials-and-sources">Food Materials and Sources</router-link>
+            <br/>
+            <router-link to="/quiz/science/6/food-variety">food Variety</router-link>
+            <br/>
           </v-card-item>
         </v-card>
       </v-col>
