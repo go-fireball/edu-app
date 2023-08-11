@@ -3,181 +3,91 @@
     {
       "q": "Select the word that doesn't belong.",
       "choices": [
-        {
-          "t": "Navigate",
-          "correct": true
-        },
-        {
-          "t": "Steer"
-        },
-        {
-          "t": "Direct"
-        },
-        {
-          "t": "Guide"
-        }
+        { "t": "Navigate", "correct": true },
+        { "t": "Steer", "correct": false },
+        { "t": "Direct", "correct": false },
+        { "t": "Guide", "correct": false }
       ]
     },
     {
       "q": "Select the term that doesn't belong.",
       "choices": [
-        {
-          "t": "Equator"
-        },
-        {
-          "t": "Hemisphere"
-        },
-        {
-          "t": "Continent",
-          "correct": true
-        },
-        {
-          "t": "Latitude"
-        }
+        { "t": "Equator", "correct": false },
+        { "t": "Hemisphere", "correct": false },
+        { "t": "Continent", "correct": true },
+        { "t": "Latitude", "correct": false }
       ]
     },
     {
       "q": "Select the item that doesn't belong.",
       "choices": [
-        {
-          "t": "Proton"
-        },
-        {
-          "t": "Electron"
-        },
-        {
-          "t": "Neutron"
-        },
-        {
-          "t": "Triangle",
-          "correct": true
-        }
+        { "t": "Proton", "correct": false },
+        { "t": "Electron", "correct": false },
+        { "t": "Neutron", "correct": false },
+        { "t": "Triangle", "correct": true }
       ]
     },
     {
       "q": "Select the word that doesn't belong.",
       "choices": [
-        {
-          "t": "Metamorphosis"
-        },
-        {
-          "t": "Larva"
-        },
-        {
-          "t": "Pupa"
-        },
-        {
-          "t": "Comet",
-          "correct": true
-        }
+        { "t": "Metamorphosis", "correct": false },
+        { "t": "Larva", "correct": false },
+        { "t": "Pupa", "correct": false },
+        { "t": "Comet", "correct": true }
       ]
     },
     {
       "q": "Select the word that doesn't belong.",
       "choices": [
-        {
-          "t": "Agriculture"
-        },
-        {
-          "t": "Horticulture"
-        },
-        {
-          "t": "Aquaculture"
-        },
-        {
-          "t": "Architecture",
-          "correct": true
-        }
+        { "t": "Agriculture", "correct": false },
+        { "t": "Horticulture", "correct": false },
+        { "t": "Aquaculture", "correct": false },
+        { "t": "Architecture", "correct": true }
       ]
     },
     {
       "q": "Select the word that doesn't belong.",
       "choices": [
-        {
-          "t": "Marsupial"
-        },
-        {
-          "t": "Reptile"
-        },
-        {
-          "t": "Amphibian"
-        },
-        {
-          "t": "Triangle",
-          "correct": true
-        }
+        { "t": "Marsupial", "correct": false },
+        { "t": "Reptile", "correct": false },
+        { "t": "Amphibian", "correct": false },
+        { "t": "Triangle", "correct": true }
       ]
     },
     {
       "q": "Select the word that doesn't belong.",
       "choices": [
-        {
-          "t": "Biography"
-        },
-        {
-          "t": "Autobiography"
-        },
-        {
-          "t": "Bibliography",
-          "correct": true
-        },
-        {
-          "t": "Memoir"
-        }
+        { "t": "Biography", "correct": false },
+        { "t": "Autobiography", "correct": false },
+        { "t": "Bibliography", "correct": true },
+        { "t": "Memoir", "correct": false }
       ]
     },
     {
       "q": "Select the word that doesn't belong.",
       "choices": [
-        {
-          "t": "Pentagon"
-        },
-        {
-          "t": "Hexagon"
-        },
-        {
-          "t": "Octagon"
-        },
-        {
-          "t": "Pentameter",
-          "correct": true
-        }
+        { "t": "Pentagon", "correct": false },
+        { "t": "Hexagon", "correct": false },
+        { "t": "Octagon", "correct": false },
+        { "t": "Pentameter", "correct": true }
       ]
     },
     {
       "q": "Select the word that doesn't belong.",
       "choices": [
-        {
-          "t": "Omnivore"
-        },
-        {
-          "t": "Carnivore"
-        },
-        {
-          "t": "Herbivore"
-        },
-        {
-          "t": "Folklore",
-          "correct": true
-        }
+        { "t": "Omnivore", "correct": false },
+        { "t": "Carnivore", "correct": false },
+        { "t": "Herbivore", "correct": false },
+        { "t": "Folklore", "correct": true }
       ]
     },
     {
       "q": "Select the word that doesn't belong.",
       "choices": [
-        {
-          "t": "Tsunami"
-        },
-        {
-          "t": "Hurricane"
-        },
-        {
-          "t": "Earthquake"
-        },
-        {
-          "t": "Ecosystem",
-          "correct": true
-        }
+        { "t": "Tsunami", "correct": false },
+        { "t": "Hurricane", "correct": false },
+        { "t": "Earthquake", "correct": false },
+        { "t": "Ecosystem", "correct": true }
       ]
     }
   ]
