@@ -58,6 +58,10 @@
             <br/>
             <router-link to="/quiz/synonyms/1/2">Synonyms Set 2</router-link>
             <br/>
+            <router-link to="/quiz/prefixes-and-suffixes/5/words-with-less">Words with -less</router-link>
+            <br/>
+            <router-link to="/quiz/prefixes-and-suffixes/5/words-with-less">Words with -ful</router-link>
+            <br/>
             <router-link to="/quiz/prefixes-and-suffixes/5/words-with-pre">Words with pre- (Set 1)</router-link>
             <br/>
             <router-link to="/quiz/prefixes-and-suffixes/6/words-with-pre">Words with pre- (Set 2)</router-link>
