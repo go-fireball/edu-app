@@ -1,0 +1,424 @@
+{
+  "questions": [
+    {
+      "q": "Solve the equation 2x - 3 = 5 for x.",
+      "choices": [
+        {
+          "t": "1",
+          "correct": false
+        },
+        {
+          "t": "4",
+          "correct": true
+        },
+        {
+          "t": "3",
+          "correct": false
+        },
+        {
+          "t": "-2",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "q": "If a = 3 and b = 2, what is the value of 2a + b?",
+      "choices": [
+        {
+          "t": "8",
+          "correct": true
+        },
+        {
+          "t": "7",
+          "correct": false
+        },
+        {
+          "t": "5",
+          "correct": false
+        },
+        {
+          "t": "10",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "q": "Simplify the expression: 3(x + 2) - 4.",
+      "choices": [
+        {
+          "t": "3x + 2",
+          "correct": false
+        },
+        {
+          "t": "3x + 6",
+          "correct": false
+        },
+        {
+          "t": "3x + 2",
+          "correct": false
+        },
+        {
+          "t": "3x",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "q": "What is the value of y in the equation 5y - 10 = 0?",
+      "choices": [
+        {
+          "t": "5",
+          "correct": false
+        },
+        {
+          "t": "2",
+          "correct": true
+        },
+        {
+          "t": "-2",
+          "correct": false
+        },
+        {
+          "t": "0",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "q": "Which of the following expressions is equivalent to 4x - 2y?",
+      "choices": [
+        {
+          "t": "2(2x - y)",
+          "correct": true
+        },
+        {
+          "t": "2(2x + y)",
+          "correct": false
+        },
+        {
+          "t": "4(x - y)",
+          "correct": false
+        },
+        {
+          "t": "2(x - 2y)",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "q": "If f(x) = 2x + 3, what is f(4)?",
+      "choices": [
+        {
+          "t": "11",
+          "correct": true
+        },
+        {
+          "t": "13",
+          "correct": false
+        },
+        {
+          "t": "9",
+          "correct": false
+        },
+        {
+          "t": "8",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "q": "Solve the inequality: 3x + 2 < 11",
+      "choices": [
+        {
+          "t": "x < 3",
+          "correct": true
+        },
+        {
+          "t": "x > 3",
+          "correct": false
+        },
+        {
+          "t": "x < 2",
+          "correct": false
+        },
+        {
+          "t": "x > 2",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "q": "Which of the following is the correct factoring of x^2 - 5x + 6?",
+      "choices": [
+        {
+          "t": "(x - 2)(x - 3)",
+          "correct": true
+        },
+        {
+          "t": "(x + 2)(x - 3)",
+          "correct": false
+        },
+        {
+          "t": "(x - 2)(x + 3)",
+          "correct": false
+        },
+        {
+          "t": "(x + 2)(x + 3)",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "q": "What is the slope of the line represented by the equation y = -2x + 3?",
+      "choices": [
+        {
+          "t": "-2",
+          "correct": true
+        },
+        {
+          "t": "2",
+          "correct": false
+        },
+        {
+          "t": "-3",
+          "correct": false
+        },
+        {
+          "t": "3",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "q": "If a linear equation has no solution, what can be said about the lines represented by the equation?",
+      "choices": [
+        {
+          "t": "They are parallel",
+          "correct": true
+        },
+        {
+          "t": "They intersect",
+          "correct": false
+        },
+        {
+          "t": "They are the same line",
+          "correct": false
+        },
+        {
+          "t": "They are perpendicular",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "q": "What is the solution to the equation 4x + 7 = 15?",
+      "choices": [
+        {
+          "t": "3",
+          "correct": false
+        },
+        {
+          "t": "2",
+          "correct": true
+        },
+        {
+          "t": "4",
+          "correct": false
+        },
+        {
+          "t": "5",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "q": "If h(x) = 2x^2 - 3x + 4, what is h(2)?",
+      "choices": [
+        {
+          "t": "6",
+          "correct": true
+        },
+        {
+          "t": "8",
+          "correct": false
+        },
+        {
+          "t": "10",
+          "correct": false
+        },
+        {
+          "t": "4",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "q": "Which of the following is the correct factoring of x^2 + 6x + 9?",
+      "choices": [
+        {
+          "t": "(x + 3)(x + 3)",
+          "correct": true
+        },
+        {
+          "t": "(x - 3)(x - 3)",
+          "correct": false
+        },
+        {
+          "t": "(x + 3)(x - 3)",
+          "correct": false
+        },
+        {
+          "t": "(x - 3)(x + 3)",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "q": "Find the x-intercept of the line represented by the equation y = -2x + 6.",
+      "choices": [
+        {
+          "t": "3",
+          "correct": true
+        },
+        {
+          "t": "-3",
+          "correct": false
+        },
+        {
+          "t": "2",
+          "correct": false
+        },
+        {
+          "t": "-2",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "q": "What is the y-intercept of the line represented by the equation y = 5x - 3?",
+      "choices": [
+        {
+          "t": "5",
+          "correct": false
+        },
+        {
+          "t": "3",
+          "correct": false
+        },
+        {
+          "t": "-5",
+          "correct": false
+        },
+        {
+          "t": "-3",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "q": "Solve the system of equations: 2x + y = 6 and x - y = 4.",
+      "choices": [
+        {
+          "t": "x = 2, y = -2",
+          "correct": true
+        },
+        {
+          "t": "x = 1, y = 4",
+          "correct": false
+        },
+        {
+          "t": "x = -2, y = 2",
+          "correct": false
+        },
+        {
+          "t": "x = 4, y = 1",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "q": "What is the solution to the inequality 5x - 10 \u2265 15?",
+      "choices": [
+        {
+          "t": "x \u2265 5",
+          "correct": true
+        },
+        {
+          "t": "x \u2264 5",
+          "correct": false
+        },
+        {
+          "t": "x > 5",
+          "correct": false
+        },
+        {
+          "t": "x < 5",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "q": "Which expression is equivalent to 3(4x - 5) - 2?",
+      "choices": [
+        {
+          "t": "12x - 17",
+          "correct": true
+        },
+        {
+          "t": "12x + 17",
+          "correct": false
+        },
+        {
+          "t": "12x - 13",
+          "correct": false
+        },
+        {
+          "t": "12x + 13",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "q": "If a straight line has an equation of y = 4, what can be said about the line?",
+      "choices": [
+        {
+          "t": "It is vertical",
+          "correct": false
+        },
+        {
+          "t": "It is horizontal",
+          "correct": true
+        },
+        {
+          "t": "It has a positive slope",
+          "correct": false
+        },
+        {
+          "t": "It has a negative slope",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "q": "What is the vertex of the parabola represented by the equation y = -(x + 2)^2 - 1?",
+      "choices": [
+        {
+          "t": "(-2, -1)",
+          "correct": true
+        },
+        {
+          "t": "(2, 1)",
+          "correct": false
+        },
+        {
+          "t": "(-2, 1)",
+          "correct": false
+        },
+        {
+          "t": "(2, -1)",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}

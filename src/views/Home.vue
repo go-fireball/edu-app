@@ -156,6 +156,10 @@
             <br/>
             <router-link to="/quiz/math/1/additions-2">Additions Set 2</router-link>
             <br/>
+            <router-link to="/quiz/math/7/algebra-1-set-1">Algebra 1</router-link>
+            <br/>
+            <router-link to="/quiz/math/7/algebra-1-set-2">Algebra 1</router-link>
+            <br/>
           </v-card-item>
         </v-card>
       </v-col>
