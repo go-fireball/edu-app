@@ -17,12 +17,11 @@ const state = reactive({comprehension: null as Comprehension | null})
 const route = useRoute();
 
 onMounted(async () => {
-  const context = route.params.context;
   const grade = route.params.grade;
   const id = route.params.id;
   const response = await axios.get(`/data/comprehension/${grade}/${id}.json`); //
   state.comprehension = response.data;
-  setMetaTags(`${context} quiz for grade ${grade}`, `${id}`, '')
+  setMetaTags(`Comprehension Grade ${grade}`, `${id}`, '')
 })
 
 </script>
