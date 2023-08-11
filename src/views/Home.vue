@@ -13,6 +13,8 @@
             <br/>
             <router-link to="/quiz/science/5/identify-facts-and-opinions">Identify facts and opinions</router-link>
             <br/>
+            <router-link to="/quiz/science/5/identify-inherited-and-acquired-traits">Identify inherited and acquired traits</router-link>
+            <br/>
             <!-----  -->
             <router-link to="/quiz/science/5/organ-systems">Organ Systems</router-link>
             <br/>
