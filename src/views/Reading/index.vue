@@ -56,8 +56,7 @@
           <br/><h1>Vocabulary Skills</h1>
           <br/><h2>Synonyms & Antonyms</h2>
           <br/><br/><router-link to="/quiz/synonyms/5/exploring-synonyms-antonyms">Exploring Synonyms & Antonyms</router-link>
-          <br/><b>Antonyms Adventure</b>
-          <br/><b>Synonyms and Antonyms in Context</b>
+          <br/><br/><router-link to="/quiz/synonyms/5/synonyms-and-antonyms-in-context">Synonyms and Antonyms in Context</router-link>
           <br/><b>Creative Synonym Pairing</b>
           <br/><b>Antonym Challenge</b>
           <br/>

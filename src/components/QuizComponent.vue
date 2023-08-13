@@ -2,10 +2,18 @@
   <v-container>
     <v-row>
       <v-col cols="12" sm="10">
-        <question-component
-          :question="props.quiz.questions[currentQuestionIndex]"
-          :on-next-question="nextQuestion"
-        ></question-component>
+        <div v-if="props.quiz.type === 'word-select-quiz'">
+          <word-select-question-component
+            :question="props.quiz.questions[currentQuestionIndex]"
+            :on-next-question="nextQuestion"
+          ></word-select-question-component>
+        </div>
+        <div v-else>
+          <question-component
+            :question="props.quiz.questions[currentQuestionIndex]"
+            :on-next-question="nextQuestion"
+          ></question-component>
+        </div>
       </v-col>
       <v-col cols="12" sm="2">
         <questions-answered :questions-answered="currentQuestionIndex" :totalNumberOfQuestions="props.quiz.questions.length"></questions-answered>
@@ -19,6 +27,7 @@
 <script setup lang="ts">
 import {ref, watchEffect} from "vue";
 import QuestionComponent from "@/components/QuestionComponent.vue";
+import WordSelectQuestionComponent from "@/components/WordSelectQuestionComponent.vue";
 import QuestionsAnswered from "@/components/QuestionsAnswered.vue";
 import TimeTracker from "@/components/TimeTrackerComponent.vue";
 import {useRouter} from "vue-router";
@@ -42,7 +51,10 @@ const shuffleArray = (array: any[]) => {
 
 watchEffect(() => {
   props.quiz.questions.forEach((question: Question) => {
-    question.choices = shuffleArray(question.choices);
+    if(props.quiz.type != null && props.quiz.type === 'regular-quiz'){
+      question.choices = shuffleArray(question.choices);
+    }
+
   });
 });
 

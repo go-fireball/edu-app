@@ -49,6 +49,7 @@
 <script setup lang="ts">
 import {ref} from 'vue';
 import {Question} from "@/models/Question";
+import {correctAnswerMessage, getRandomAppreciation} from "@/correctAnswerMessage";
 
 const props = defineProps<{
   question: Question;
@@ -59,33 +60,6 @@ const selectedAnswer = ref<number>(-1);
 const showDialog = ref(false);
 
 const message = ref<string>('');
-const correctAnswerMessage = [
-  'Correct',
-  'Brilliant!',
-  'Well Done!',
-  'Fantastic!',
-  'Outstanding!',
-  'Excellent!',
-  'Great Job!',
-  'Superb!',
-  'Impressive!',
-  'Amazing!',
-  'Incredible!',
-  'Splendid!',
-  'Remarkable!',
-  'Stunning!',
-  'Marvelous!',
-  'Exceptional!',
-  'Fabulous!',
-  'Wonderful!',
-  'Magnificent!',
-  'Awesome!'
-];
-
-function getRandomAppreciation(): string {
-  const index = Math.floor(Math.random() * correctAnswerMessage.length);
-  return correctAnswerMessage[index];
-}
 
 
 const getCorrectAnswer = (): { t: string, correct: boolean } | undefined => {
