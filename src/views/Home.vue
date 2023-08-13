@@ -13,7 +13,9 @@
             <br/>
             <router-link to="/quiz/science/5/identify-facts-and-opinions">Identify facts and opinions</router-link>
             <br/>
-            <router-link to="/quiz/science/5/identify-inherited-and-acquired-traits">Identify inherited and acquired traits</router-link>
+            <router-link to="/quiz/science/5/identify-inherited-and-acquired-traits">Identify inherited and acquired
+              traits
+            </router-link>
             <br/>
             <!-----  -->
             <router-link to="/quiz/science/5/organ-systems">Organ Systems</router-link>
@@ -76,78 +78,128 @@
             <br/>
             <router-link to="/quiz/prefixes-and-suffixes/7/words-with-re">Words with re- (Set 2)</router-link>
             <br/>
-            <router-link to="/quiz/literary-devices/5/identify-similes-and-metaphors">Identify Similes and Metaphors</router-link>
+            <router-link to="/quiz/literary-devices/5/identify-similes-and-metaphors">Identify Similes and Metaphors
+            </router-link>
             <br/>
-            <router-link to="/quiz/literary-devices/5/determine-similes-and-metaphors">Determine the meanings of similes and metaphors</router-link>
+            <router-link to="/quiz/literary-devices/5/determine-similes-and-metaphors">Determine the meanings of similes
+              and metaphors
+            </router-link>
             <br/>
-            <router-link to="/quiz/literary-devices/5/determine-the-meanings-of-idioms-from-context">Determine the meanings of idioms from context</router-link>
+            <router-link to="/quiz/literary-devices/5/determine-the-meanings-of-idioms-from-context">Determine the
+              meanings of idioms from context
+            </router-link>
             <br/>
-            <router-link to="/quiz/literary-devices/5/determine-the-meanings-of-idioms-from-context-2">Determine the meanings of idioms from context</router-link>
+            <router-link to="/quiz/literary-devices/5/determine-the-meanings-of-idioms-from-context-2">Determine the
+              meanings of idioms from context
+            </router-link>
             <br/>
-            <router-link to="/quiz/vocabulary/5/select-the-words-that-dont-belong">Select the words that don't belong - Easy</router-link>
+            <router-link to="/quiz/vocabulary/5/select-the-words-that-dont-belong">Select the words that don't belong -
+              Easy
+            </router-link>
             <br/>
-            <router-link to="/quiz/vocabulary/5/select-the-words-that-dont-belong-2">Select the words that don't belong - Medium</router-link>
+            <router-link to="/quiz/vocabulary/5/select-the-words-that-dont-belong-2">Select the words that don't belong
+              - Medium
+            </router-link>
             <br/>
-            <router-link to="/quiz/vocabulary/5/positive-and-negative-connotation">Positive and negative connotation (5th Grade)</router-link>
+            <router-link to="/quiz/vocabulary/5/positive-and-negative-connotation">Positive and negative connotation
+              (5th Grade)
+            </router-link>
             <br/>
-            <router-link to="/quiz/vocabulary/6/positive-and-negative-connotation">Positive and negative connotation (6th Grade)</router-link>
+            <router-link to="/quiz/vocabulary/6/positive-and-negative-connotation">Positive and negative connotation
+              (6th Grade)
+            </router-link>
             <br/>
-            <router-link to="/quiz/vocabulary/7/positive-and-negative-connotation">Positive and negative connotation (7th Grade)</router-link>
+            <router-link to="/quiz/vocabulary/7/positive-and-negative-connotation">Positive and negative connotation
+              (7th Grade)
+            </router-link>
             <br/>
-            <router-link to="/quiz/vocabulary/8/positive-and-negative-connotation">Positive and negative connotation (8th Grade)</router-link>
+            <router-link to="/quiz/vocabulary/8/positive-and-negative-connotation">Positive and negative connotation
+              (8th Grade)
+            </router-link>
             <br/>
-            <router-link to="/quiz/vocabulary/9/positive-and-negative-connotation">Positive and negative connotation (9th Grade)</router-link>
+            <router-link to="/quiz/vocabulary/9/positive-and-negative-connotation">Positive and negative connotation
+              (9th Grade)
+            </router-link>
             <br/>
-            <router-link to="/quiz/vocabulary/10/positive-and-negative-connotation">Positive and negative connotation (10th Grade)</router-link>
+            <router-link to="/quiz/vocabulary/10/positive-and-negative-connotation">Positive and negative connotation
+              (10th Grade)
+            </router-link>
             <br/>
-            <router-link to="/quiz/vocabulary/5/describe-the-difference-between-related-words">Describe the difference between related words</router-link>
+            <router-link to="/quiz/vocabulary/5/describe-the-difference-between-related-words">Describe the difference
+              between related words
+            </router-link>
+            <br/>
+            <router-link to="/quiz/synonyms/5/exploring-synonyms-antonyms">Exploring Synonyms & Antonyms</router-link>
+            <br/>
+            <router-link to="/quiz/synonyms/5/synonyms-and-antonyms-in-context">Synonyms and Antonyms in Context
+            </router-link>
           </v-card-item>
         </v-card>
       </v-col>
       <v-col cols="12" sm="4">
         <v-card title="Comprehension">
           <v-card-item>
-            <router-link to="/comprehension/5/a-tale-of-community-and-achievement">A Tale of Community and Achievement</router-link>
+            <router-link to="/comprehension/5/a-tale-of-community-and-achievement">A Tale of Community and Achievement
+            </router-link>
             <br/>
-            <router-link to="/comprehension/5/the-great-telescope-of-bellevue">The Great Telescope of Bellevue</router-link>
+            <router-link to="/comprehension/5/the-great-telescope-of-bellevue">The Great Telescope of Bellevue
+            </router-link>
             <br/>
             <router-link to="/comprehension/5/the-forgotten-library">The Forgotten Library</router-link>
             <br/>
             <router-link to="/comprehension/5/the-solar-system-adventure">The Solar System Adventure</router-link>
             <br/>
-            <router-link to="/comprehension/5/the-solar-system-adventure">The Mystery of the Forgotten Castle</router-link>
+            <router-link to="/comprehension/5/the-solar-system-adventure">The Mystery of the Forgotten Castle
+            </router-link>
             <br/>
             <router-link to="/comprehension/5/a-journey-to-jupiter">A Journey to Jupiter</router-link>
             <br/>
             <router-link to="/comprehension/5/the-mysterious-island-a-summer-adventure">A Summer Adventure</router-link>
             <br/>
-            <router-link to="/comprehension/5/the-meteorite-incident-a-scientific-exploration">A Scientific Exploration</router-link>
+            <router-link to="/comprehension/5/the-meteorite-incident-a-scientific-exploration">A Scientific
+              Exploration
+            </router-link>
             <br/>
-            <router-link to="/comprehension/5/the-lost-city-of-gold-an-archaeological-adventure">An Archaeological Adventure</router-link>
+            <router-link to="/comprehension/5/the-lost-city-of-gold-an-archaeological-adventure">An Archaeological
+              Adventure
+            </router-link>
             <br/>
             <router-link to="/comprehension/5/the-meteor-shower-a-night-of-wonders">A Night of Wonders</router-link>
             <br/>
-            <router-link to="/comprehension/5/the-lost-city-of-quartz-an-archaeological-discovery">The Lost City of Quartz</router-link>
+            <router-link to="/comprehension/5/the-lost-city-of-quartz-an-archaeological-discovery">The Lost City of
+              Quartz
+            </router-link>
             <br/>
-            <router-link to="/comprehension/5/albert-einstein-a-revolutionary-thinker">A Revolutionary Thinker</router-link>
+            <router-link to="/comprehension/5/albert-einstein-a-revolutionary-thinker">A Revolutionary Thinker
+            </router-link>
             <br/>
-            <router-link to="/comprehension/5/nikola-tesla-a-pioneer-of-electrical-innovation">A Pioneer of Electrical Innovation</router-link>
+            <router-link to="/comprehension/5/nikola-tesla-a-pioneer-of-electrical-innovation">A Pioneer of Electrical
+              Innovation
+            </router-link>
             <br/>
-            <router-link to="/comprehension/5/isaac-newton-a-revolutionary-mind-in-science">A Revolutionary Mind in Science</router-link>
+            <router-link to="/comprehension/5/isaac-newton-a-revolutionary-mind-in-science">A Revolutionary Mind in
+              Science
+            </router-link>
             <br/>
-            <router-link to="/comprehension/5/charles-darwin-the-father-of-evolution">The Father of Evolution</router-link>
+            <router-link to="/comprehension/5/charles-darwin-the-father-of-evolution">The Father of Evolution
+            </router-link>
             <br/>
             <router-link to="/comprehension/5/subrahmanyan-chandrasekhar-a-stellar-mind">A Stellar Mind</router-link>
             <br/>
-            <router-link to="/comprehension/5/c-v-raman-a-pioneer-in-light-scattering">Pioneer in Light Scattering</router-link>
+            <router-link to="/comprehension/5/c-v-raman-a-pioneer-in-light-scattering">Pioneer in Light Scattering
+            </router-link>
             <br/>
-            <router-link to="/comprehension/5/satyendra-nath-bose-a-legacy-in-quantum-physics">Legacy in Quantum Physics</router-link>
+            <router-link to="/comprehension/5/satyendra-nath-bose-a-legacy-in-quantum-physics">Legacy in Quantum
+              Physics
+            </router-link>
             <br/>
             <router-link to="/comprehension/5/democracy-the-rule-of-the-people">The Rule of the People</router-link>
             <br/>
-            <router-link to="/comprehension/7/justice-a-pillar-of-societal-harmony">Pillar of Societal Harmony</router-link>
+            <router-link to="/comprehension/7/justice-a-pillar-of-societal-harmony">Pillar of Societal Harmony
+            </router-link>
             <br/>
-            <router-link to="/comprehension/7/freedom-the-essence-of-human-dignity">The Essence of Human Dignity</router-link>
+            <router-link to="/comprehension/7/freedom-the-essence-of-human-dignity">The Essence of Human Dignity
+            </router-link>
             <br/>
           </v-card-item>
         </v-card>
