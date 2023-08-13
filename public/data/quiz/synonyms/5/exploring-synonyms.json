@@ -1,0 +1,1746 @@
+{
+  "grade": 5,
+  "category": "Vocabulary Skills",
+  "concept": "Synonyms & Antonyms",
+  "topic": "Exploring Synonyms & Antonyms",
+  "id": "5-VS-SA-ES",
+  "questions": [
+    {
+      "q": "Which word is a synonym for 'abolish'?",
+      "choices": [
+        {
+          "t": "create"
+        },
+        {
+          "t": "announce"
+        },
+        {
+          "t": "eliminate",
+          "correct": true
+        },
+        {
+          "t": "adapt"
+        }
+      ]
+    },
+    {
+      "q": "Which word is more similar to 'abundant'?",
+      "choices": [
+        {
+          "t": "scarce"
+        },
+        {
+          "t": "plentiful",
+          "correct": true
+        },
+        {
+          "t": "adjacent"
+        },
+        {
+          "t": "accurate"
+        }
+      ]
+    },
+    {
+      "q": "Which word best describes the opposite of 'accomplish'?",
+      "choices": [
+        {
+          "t": "fail",
+          "correct": true
+        },
+        {
+          "t": "achieve"
+        },
+        {
+          "t": "admire"
+        },
+        {
+          "t": "anxious"
+        }
+      ]
+    },
+    {
+      "q": "Which word is an antonym for 'accurate'?",
+      "choices": [
+        {
+          "t": "incorrect",
+          "correct": true
+        },
+        {
+          "t": "adjacent"
+        },
+        {
+          "t": "approach"
+        },
+        {
+          "t": "abolish"
+        }
+      ]
+    },
+    {
+      "q": "Which word is a synonym for 'adapt'?",
+      "choices": [
+        {
+          "t": "resist"
+        },
+        {
+          "t": "adjust",
+          "correct": true
+        },
+        {
+          "t": "abundant"
+        },
+        {
+          "t": "abolish"
+        }
+      ]
+    },
+    {
+      "q": "Which word is more similar to 'adjacent'?",
+      "choices": [
+        {
+          "t": "distant"
+        },
+        {
+          "t": "nearby",
+          "correct": true
+        },
+        {
+          "t": "abundant"
+        },
+        {
+          "t": "accomplish"
+        }
+      ]
+    },
+    {
+      "q": "Which word is a synonym for 'admire'?",
+      "choices": [
+        {
+          "t": "dislike"
+        },
+        {
+          "t": "respect",
+          "correct": true
+        },
+        {
+          "t": "abolish"
+        },
+        {
+          "t": "abundant"
+        }
+      ]
+    },
+    {
+      "q": "Which word best describes the opposite of 'announce'?",
+      "choices": [
+        {
+          "t": "withdraw",
+          "correct": true
+        },
+        {
+          "t": "accomplish"
+        },
+        {
+          "t": "abundant"
+        },
+        {
+          "t": "adapt"
+        }
+      ]
+    },
+    {
+      "q": "Which word is a synonym for 'anxious'?",
+      "choices": [
+        {
+          "t": "calm"
+        },
+        {
+          "t": "nervous",
+          "correct": true
+        },
+        {
+          "t": "accomplish"
+        },
+        {
+          "t": "abolish"
+        }
+      ]
+    },
+    {
+      "q": "Which word is more similar to 'approach'?",
+      "choices": [
+        {
+          "t": "retreat"
+        },
+        {
+          "t": "advance",
+          "correct": true
+        },
+        {
+          "t": "abolish"
+        },
+        {
+          "t": "abundant"
+        }
+      ]
+    },
+    {
+      "q": "Which word is a synonym for 'approval'?",
+      "choices": [
+        {
+          "t": "disapproval"
+        },
+        {
+          "t": "consent",
+          "correct": true
+        },
+        {
+          "t": "argument"
+        },
+        {
+          "t": "avoid"
+        }
+      ]
+    },
+    {
+      "q": "Which is a synonym for 'approximate'?",
+      "choices": [
+        {
+          "t": "exact"
+        },
+        {
+          "t": "close",
+          "correct": true
+        },
+        {
+          "t": "far"
+        },
+        {
+          "t": "distant"
+        }
+      ]
+    },
+    {
+      "q": "Which word is a synonym for 'argument'?",
+      "choices": [
+        {
+          "t": "agreement"
+        },
+        {
+          "t": "debate",
+          "correct": true
+        },
+        {
+          "t": "approval"
+        },
+        {
+          "t": "calculate"
+        }
+      ]
+    },
+    {
+      "q": "Which word is an antonym for 'avoid'?",
+      "choices": [
+        {
+          "t": "confront",
+          "correct": true
+        },
+        {
+          "t": "category"
+        },
+        {
+          "t": "cause"
+        },
+        {
+          "t": "capacity"
+        }
+      ]
+    },
+    {
+      "q": "Which word is more similar to 'benefit'?",
+      "choices": [
+        {
+          "t": "loss"
+        },
+        {
+          "t": "advantage",
+          "correct": true
+        },
+        {
+          "t": "calculate"
+        },
+        {
+          "t": "argument"
+        }
+      ]
+    },
+    {
+      "q": "Which word is more similar to 'briskly'?",
+      "choices": [
+        {
+          "t": "slowly"
+        },
+        {
+          "t": "quickly",
+          "correct": true
+        },
+        {
+          "t": "approval"
+        },
+        {
+          "t": "avoid"
+        }
+      ]
+    },
+    {
+      "q": "Which word is a synonym for 'calculate'?",
+      "choices": [
+        {
+          "t": "ignore"
+        },
+        {
+          "t": "estimate",
+          "correct": true
+        },
+        {
+          "t": "category"
+        },
+        {
+          "t": "approval"
+        }
+      ]
+    },
+    {
+      "q": "Which word is more similar to 'capacity'?",
+      "choices": [
+        {
+          "t": "inability"
+        },
+        {
+          "t": "capability",
+          "correct": true
+        },
+        {
+          "t": "avoid"
+        },
+        {
+          "t": "cause"
+        }
+      ]
+    },
+    {
+      "q": "Which word is a synonym for 'category'?",
+      "choices": [
+        {
+          "t": "difference"
+        },
+        {
+          "t": "class",
+          "correct": true
+        },
+        {
+          "t": "calculate"
+        },
+        {
+          "t": "briskly"
+        }
+      ]
+    },
+    {
+      "q": "Which word is a synonym for 'cause'?",
+      "choices": [
+        {
+          "t": "effect"
+        },
+        {
+          "t": "reason",
+          "correct": true
+        },
+        {
+          "t": "category"
+        },
+        {
+          "t": "avoid"
+        }
+      ]
+    },
+    {
+      "q": "Which word is a synonym for 'cease'?",
+      "choices": [
+        {
+          "t": "begin"
+        },
+        {
+          "t": "stop",
+          "correct": true
+        },
+        {
+          "t": "compare"
+        },
+        {
+          "t": "compose"
+        }
+      ]
+    },
+    {
+      "q": "Which word best describes a 'characteristic'?",
+      "choices": [
+        {
+          "t": "trait",
+          "correct": true
+        },
+        {
+          "t": "claim"
+        },
+        {
+          "t": "condemn"
+        },
+        {
+          "t": "confirm"
+        }
+      ]
+    },
+    {
+      "q": "Which word is an antonym for 'claim'?",
+      "choices": [
+        {
+          "t": "deny",
+          "correct": true
+        },
+        {
+          "t": "conclude"
+        },
+        {
+          "t": "compose"
+        },
+        {
+          "t": "compare"
+        }
+      ]
+    },
+    {
+      "q": "Which word is a synonym for 'collaborate'?",
+      "choices": [
+        {
+          "t": "compete"
+        },
+        {
+          "t": "work together",
+          "correct": true
+        },
+        {
+          "t": "condemn"
+        },
+        {
+          "t": "characteristic"
+        }
+      ]
+    },
+    {
+      "q": "Which word is more similar to 'compare'?",
+      "choices": [
+        {
+          "t": "contrast",
+          "correct": true
+        },
+        {
+          "t": "compose"
+        },
+        {
+          "t": "claim"
+        },
+        {
+          "t": "cease"
+        }
+      ]
+    },
+    {
+      "q": "Which word is a synonym for 'compile'?",
+      "choices": [
+        {
+          "t": "scatter"
+        },
+        {
+          "t": "assemble",
+          "correct": true
+        },
+        {
+          "t": "compare"
+        },
+        {
+          "t": "cease"
+        }
+      ]
+    },
+    {
+      "q": "Which word best describes the opposite of 'compose'?",
+      "choices": [
+        {
+          "t": "destroy",
+          "correct": true
+        },
+        {
+          "t": "confirm"
+        },
+        {
+          "t": "compile"
+        },
+        {
+          "t": "compare"
+        }
+      ]
+    },
+    {
+      "q": "Which word is a synonym for 'conclude'?",
+      "choices": [
+        {
+          "t": "begin"
+        },
+        {
+          "t": "finish",
+          "correct": true
+        },
+        {
+          "t": "claim"
+        },
+        {
+          "t": "compose"
+        }
+      ]
+    },
+    {
+      "q": "Which word is an antonym for 'condemn'?",
+      "choices": [
+        {
+          "t": "approve",
+          "correct": true
+        },
+        {
+          "t": "compile"
+        },
+        {
+          "t": "compare"
+        },
+        {
+          "t": "collaborate"
+        }
+      ]
+    },
+    {
+      "q": "Which word is a synonym for 'confirm'?",
+      "choices": [
+        {
+          "t": "deny"
+        },
+        {
+          "t": "verify",
+          "correct": true
+        },
+        {
+          "t": "compare"
+        },
+        {
+          "t": "compose"
+        }
+      ]
+    },
+    {
+      "q": "Which word best describes a 'conflict'?",
+      "choices": [
+        {
+          "t": "agreement"
+        },
+        {
+          "t": "clash",
+          "correct": true
+        },
+        {
+          "t": "contribute"
+        },
+        {
+          "t": "consistent"
+        }
+      ]
+    },
+    {
+      "q": "Which word is a synonym for 'consequence'?",
+      "choices": [
+        {
+          "t": "cause"
+        },
+        {
+          "t": "result",
+          "correct": true
+        },
+        {
+          "t": "contrast"
+        },
+        {
+          "t": "context"
+        }
+      ]
+    },
+    {
+      "q": "Which word best describes the opposite of 'consistent'?",
+      "choices": [
+        {
+          "t": "inconsistent",
+          "correct": true
+        },
+        {
+          "t": "crucial"
+        },
+        {
+          "t": "contribute"
+        },
+        {
+          "t": "convince"
+        }
+      ]
+    },
+    {
+      "q": "Which word is more similar to 'context'?",
+      "choices": [
+        {
+          "t": "meaning",
+          "correct": true
+        },
+        {
+          "t": "contrast"
+        },
+        {
+          "t": "convince"
+        },
+        {
+          "t": "criteria"
+        }
+      ]
+    },
+    {
+      "q": "Which word is an antonym for 'contrast'?",
+      "choices": [
+        {
+          "t": "compare",
+          "correct": true
+        },
+        {
+          "t": "contribute"
+        },
+        {
+          "t": "convince"
+        },
+        {
+          "t": "consistent"
+        }
+      ]
+    },
+    {
+      "q": "Which word is a synonym for 'contribute'?",
+      "choices": [
+        {
+          "t": "withhold"
+        },
+        {
+          "t": "add",
+          "correct": true
+        },
+        {
+          "t": "conflict"
+        },
+        {
+          "t": "contrast"
+        }
+      ]
+    },
+    {
+      "q": "Which word best describes the act of 'convince'?",
+      "choices": [
+        {
+          "t": "doubt"
+        },
+        {
+          "t": "persuade",
+          "correct": true
+        },
+        {
+          "t": "conflict"
+        },
+        {
+          "t": "contrast"
+        }
+      ]
+    },
+    {
+      "q": "Which word is a synonym for 'criteria'?",
+      "choices": [
+        {
+          "t": "inconsistent"
+        },
+        {
+          "t": "standards",
+          "correct": true
+        },
+        {
+          "t": "contribute"
+        },
+        {
+          "t": "context"
+        }
+      ]
+    },
+    {
+      "q": "Which word is an antonym for 'crucial'?",
+      "choices": [
+        {
+          "t": "unimportant",
+          "correct": true
+        },
+        {
+          "t": "consistent"
+        },
+        {
+          "t": "conflict"
+        },
+        {
+          "t": "consequence"
+        }
+      ]
+    },
+    {
+      "q": "Which word is a synonym for 'culture'?",
+      "choices": [
+        {
+          "t": "ignorance"
+        },
+        {
+          "t": "civilization",
+          "correct": true
+        },
+        {
+          "t": "decline"
+        },
+        {
+          "t": "display"
+        }
+      ]
+    },
+    {
+      "q": "Which word best describes a 'decade'?",
+      "choices": [
+        {
+          "t": "century"
+        },
+        {
+          "t": "year"
+        },
+        {
+          "t": "day"
+        },
+        {
+          "t": "10 years",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "q": "Which word best describes the opposite of 'decline'?",
+      "choices": [
+        {
+          "t": "increase",
+          "correct": true
+        },
+        {
+          "t": "depict"
+        },
+        {
+          "t": "diminish"
+        },
+        {
+          "t": "discreet"
+        }
+      ]
+    },
+    {
+      "q": "Which word is more similar to 'define'?",
+      "choices": [
+        {
+          "t": "confuse"
+        },
+        {
+          "t": "explain",
+          "correct": true
+        },
+        {
+          "t": "display"
+        },
+        {
+          "t": "dissatisfied"
+        }
+      ]
+    },
+    {
+      "q": "Which word is a synonym for 'depict'?",
+      "choices": [
+        {
+          "t": "hide"
+        },
+        {
+          "t": "represent",
+          "correct": true
+        },
+        {
+          "t": "decline"
+        },
+        {
+          "t": "describe"
+        }
+      ]
+    },
+    {
+      "q": "Which word is a synonym for 'describe'?",
+      "choices": [
+        {
+          "t": "confuse"
+        },
+        {
+          "t": "explain",
+          "correct": true
+        },
+        {
+          "t": "diminish"
+        },
+        {
+          "t": "decade"
+        }
+      ]
+    },
+    {
+      "q": "Which word best describes the act of 'diminish'?",
+      "choices": [
+        {
+          "t": "increase"
+        },
+        {
+          "t": "reduce",
+          "correct": true
+        },
+        {
+          "t": "display"
+        },
+        {
+          "t": "define"
+        }
+      ]
+    },
+    {
+      "q": "Which word is an antonym for 'discreet'?",
+      "choices": [
+        {
+          "t": "careful"
+        },
+        {
+          "t": "obvious",
+          "correct": true
+        },
+        {
+          "t": "display"
+        },
+        {
+          "t": "decade"
+        }
+      ]
+    },
+    {
+      "q": "Which word is a synonym for 'display'?",
+      "choices": [
+        {
+          "t": "hide"
+        },
+        {
+          "t": "show",
+          "correct": true
+        },
+        {
+          "t": "diminish"
+        },
+        {
+          "t": "decade"
+        }
+      ]
+    },
+    {
+      "q": "Which word best describes someone who is 'dissatisfied'?",
+      "choices": [
+        {
+          "t": "happy"
+        },
+        {
+          "t": "unhappy",
+          "correct": true
+        },
+        {
+          "t": "content"
+        },
+        {
+          "t": "excited"
+        }
+      ]
+    },
+    {
+      "q": "Which word is a synonym for 'diverse'?",
+      "choices": [
+        {
+          "t": "similar"
+        },
+        {
+          "t": "varied",
+          "correct": true
+        },
+        {
+          "t": "uniform"
+        },
+        {
+          "t": "identical"
+        }
+      ]
+    },
+    {
+      "q": "Which word best describes the act of 'dominate'?",
+      "choices": [
+        {
+          "t": "yield"
+        },
+        {
+          "t": "control",
+          "correct": true
+        },
+        {
+          "t": "follow"
+        },
+        {
+          "t": "submit"
+        }
+      ]
+    },
+    {
+      "q": "Which word best describes the opposite of 'drowsy'?",
+      "choices": [
+        {
+          "t": "awake",
+          "correct": true
+        },
+        {
+          "t": "tired"
+        },
+        {
+          "t": "sleepy"
+        },
+        {
+          "t": "unconscious"
+        }
+      ]
+    },
+    {
+      "q": "Which word is more similar to 'edible'?",
+      "choices": [
+        {
+          "t": "inedible"
+        },
+        {
+          "t": "eatable",
+          "correct": true
+        },
+        {
+          "t": "undrinkable"
+        },
+        {
+          "t": "invisible"
+        }
+      ]
+    },
+    {
+      "q": "Which word is more similar to 'effortless'?",
+      "choices": [
+        {
+          "t": "difficult"
+        },
+        {
+          "t": "easy",
+          "correct": true
+        },
+        {
+          "t": "complicated"
+        },
+        {
+          "t": "hard"
+        }
+      ]
+    },
+    {
+      "q": "Which word best describes the act of 'endure'?",
+      "choices": [
+        {
+          "t": "quit"
+        },
+        {
+          "t": "withstand",
+          "correct": true
+        },
+        {
+          "t": "surrender"
+        },
+        {
+          "t": "give up"
+        }
+      ]
+    },
+    {
+      "q": "Which word is a synonym for 'enhance'?",
+      "choices": [
+        {
+          "t": "diminish"
+        },
+        {
+          "t": "improve",
+          "correct": true
+        },
+        {
+          "t": "reduce"
+        },
+        {
+          "t": "degrade"
+        }
+      ]
+    },
+    {
+      "q": "Which word is a synonym for 'ensure'?",
+      "choices": [
+        {
+          "t": "endanger"
+        },
+        {
+          "t": "guarantee",
+          "correct": true
+        },
+        {
+          "t": "risk"
+        },
+        {
+          "t": "doubt"
+        }
+      ]
+    },
+    {
+      "q": "Which word best describes the 'entire'?",
+      "choices": [
+        {
+          "t": "partial"
+        },
+        {
+          "t": "whole",
+          "correct": true
+        },
+        {
+          "t": "fragmented"
+        },
+        {
+          "t": "divided"
+        }
+      ]
+    },
+    {
+      "q": "Which word is a synonym for 'environment'?",
+      "choices": [
+        {
+          "t": "inhabitant"
+        },
+        {
+          "t": "surroundings",
+          "correct": true
+        },
+        {
+          "t": "interior"
+        },
+        {
+          "t": "building"
+        }
+      ]
+    },
+    {
+      "q": "Which word is a synonym for 'equivalent'?",
+      "choices": [
+        {
+          "t": "different"
+        },
+        {
+          "t": "equal",
+          "correct": true
+        },
+        {
+          "t": "unique"
+        },
+        {
+          "t": "opposite"
+        }
+      ]
+    },
+    {
+      "q": "Which word best describes the act of 'escalate'?",
+      "choices": [
+        {
+          "t": "reduce"
+        },
+        {
+          "t": "increase",
+          "correct": true
+        },
+        {
+          "t": "maintain"
+        },
+        {
+          "t": "decrease"
+        }
+      ]
+    },
+    {
+      "q": "Which word is a synonym for 'establish'?",
+      "choices": [
+        {
+          "t": "destroy"
+        },
+        {
+          "t": "create",
+          "correct": true
+        },
+        {
+          "t": "ruin"
+        },
+        {
+          "t": "neglect"
+        }
+      ]
+    },
+    {
+      "q": "Which word best describes the act of 'evaluate'?",
+      "choices": [
+        {
+          "t": "ignore"
+        },
+        {
+          "t": "assess",
+          "correct": true
+        },
+        {
+          "t": "neglect"
+        },
+        {
+          "t": "forget"
+        }
+      ]
+    },
+    {
+      "q": "Which word is more similar to 'evidence'?",
+      "choices": [
+        {
+          "t": "opinion"
+        },
+        {
+          "t": "proof",
+          "correct": true
+        },
+        {
+          "t": "guess"
+        },
+        {
+          "t": "assumption"
+        }
+      ]
+    },
+    {
+      "q": "Which word best describes the act of 'exceed'?",
+      "choices": [
+        {
+          "t": "fall short"
+        },
+        {
+          "t": "surpass",
+          "correct": true
+        },
+        {
+          "t": "fail"
+        },
+        {
+          "t": "meet"
+        }
+      ]
+    },
+    {
+      "q": "Which word is a synonym for 'exclude'?",
+      "choices": [
+        {
+          "t": "include"
+        },
+        {
+          "t": "omit",
+          "correct": true
+        },
+        {
+          "t": "accept"
+        },
+        {
+          "t": "invite"
+        }
+      ]
+    },
+    {
+      "q": "Which word best describes the act of 'execute'?",
+      "choices": [
+        {
+          "t": "abort"
+        },
+        {
+          "t": "perform",
+          "correct": true
+        },
+        {
+          "t": "halt"
+        },
+        {
+          "t": "pause"
+        }
+      ]
+    },
+    {
+      "q": "Which word is a synonym for 'exhaust'?",
+      "choices": [
+        {
+          "t": "energize"
+        },
+        {
+          "t": "deplete",
+          "correct": true
+        },
+        {
+          "t": "refresh"
+        },
+        {
+          "t": "invigorate"
+        }
+      ]
+    },
+    {
+      "q": "Which word is a synonym for 'exhibit'?",
+      "choices": [
+        {
+          "t": "hide"
+        },
+        {
+          "t": "display",
+          "correct": true
+        },
+        {
+          "t": "conceal"
+        },
+        {
+          "t": "cover"
+        }
+      ]
+    },
+    {
+      "q": "Which word best describes the act of 'expand'?",
+      "choices": [
+        {"t": "shrink"},
+        {"t": "enlarge", "correct": true},
+        {"t": "reduce"},
+        {"t": "narrow"}
+      ]
+    },
+    {
+      "q": "Which word is a synonym for 'expansion'?",
+      "choices": [
+        {"t": "contraction"},
+        {"t": "growth", "correct": true},
+        {"t": "reduction"},
+        {"t": "shrinking"}
+      ]
+    },
+    {
+      "q": "Which word is more similar to 'expectation'?",
+      "choices": [
+        {"t": "disbelief"},
+        {"t": "anticipation", "correct": true},
+        {"t": "distrust"},
+        {"t": "skepticism"}
+      ]
+    },
+    {
+      "q": "Which word is a synonym for 'explain'?",
+      "choices": [
+        {"t": "confuse"},
+        {"t": "clarify", "correct": true},
+        {"t": "complicate"},
+        {"t": "obfuscate"}
+      ]
+    },
+    {
+      "q": "Which word best describes the opposite of 'explicit'?",
+      "choices": [
+        {"t": "clear"},
+        {"t": "ambiguous", "correct": true},
+        {"t": "defined"},
+        {"t": "obvious"}
+      ]
+    },
+    {
+      "q": "Which word is a synonym for 'express'?",
+      "choices": [
+        {"t": "suppress"},
+        {"t": "articulate", "correct": true},
+        {"t": "conceal"},
+        {"t": "hide"}
+      ]
+    },
+    {
+      "q": "Which word best describes the act of 'extend'?",
+      "choices": [
+        {"t": "shorten"},
+        {"t": "lengthen", "correct": true},
+        {"t": "diminish"},
+        {"t": "reduce"}
+      ]
+    },
+    {
+      "q": "Which word is a synonym for 'extract'?",
+      "choices": [
+        {"t": "insert"},
+        {"t": "remove", "correct": true},
+        {"t": "place"},
+        {"t": "put"}
+      ]
+    },
+    {
+      "q": "Which word best describes the opposite of 'fabricate'?",
+      "choices": [
+        {"t": "construct"},
+        {"t": "destroy"},
+        {"t": "invent"},
+        {"t": "authentic", "correct": true}
+      ]
+    },
+    {
+      "q": "Which word is more similar to 'familiar'?",
+      "choices": [
+        {"t": "strange"},
+        {"t": "known", "correct": true},
+        {"t": "unfamiliar"},
+        {"t": "foreign"}
+      ]
+    },
+    {
+      "q": "Which word is a synonym for 'flourish'?",
+      "choices": [
+        {"t": "thrive", "correct": true},
+        {"t": "wither"},
+        {"t": "fail"},
+        {"t": "diminish"}
+      ]
+    },
+    {
+      "q": "Which word best describes the opposite of 'forbid'?",
+      "choices": [
+        {"t": "allow", "correct": true},
+        {"t": "prohibit"},
+        {"t": "ban"},
+        {"t": "restrict"}
+      ]
+    },
+    {
+      "q": "Which word is more similar to 'frequent'?",
+      "choices": [
+        {"t": "rare"},
+        {"t": "common", "correct": true},
+        {"t": "scarce"},
+        {"t": "sporadic"}
+      ]
+    },
+    {
+      "q": "Which word is a synonym for 'generate'?",
+      "choices": [
+        {"t": "destroy"},
+        {"t": "produce", "correct": true},
+        {"t": "consume"},
+        {"t": "waste"}
+      ]
+    },
+    {
+      "q": "Which word best describes the opposite of 'gigantic'?",
+      "choices": [
+        {"t": "tiny", "correct": true},
+        {"t": "massive"},
+        {"t": "huge"},
+        {"t": "enormous"}
+      ]
+    },
+    {
+      "q": "Which word is a synonym for 'gist'?",
+      "choices": [
+        {"t": "detail"},
+        {"t": "essence", "correct": true},
+        {"t": "example"},
+        {"t": "complication"}
+      ]
+    },
+    {
+      "q": "Which word is a synonym for 'glare'?",
+      "choices": [
+        {"t": "dim"},
+        {"t": "shine", "correct": true},
+        {"t": "fade"},
+        {"t": "dull"}
+      ]
+    },
+    {
+      "q": "Which word best describes the opposite of 'gradual'?",
+      "choices": [
+        {"t": "sudden", "correct": true},
+        {"t": "steady"},
+        {"t": "slow"},
+        {"t": "measured"}
+      ]
+    },
+    {
+      "q": "Which word is a synonym for 'grateful'?",
+      "choices": [
+        {"t": "unthankful"},
+        {"t": "thankful", "correct": true},
+        {"t": "unappreciative"},
+        {"t": "discontented"}
+      ]
+    },
+    {
+      "q": "Which word best describes the opposite of 'harsh'?",
+      "choices": [
+        {"t": "soft", "correct": true},
+        {"t": "rough"},
+        {"t": "abrasive"},
+        {"t": "severe"}
+      ]
+    },
+    {
+      "q": "Which word is a synonym for 'heroic'?",
+      "choices": [
+        {"t": "cowardly"},
+        {"t": "brave", "correct": true},
+        {"t": "fearful"},
+        {"t": "timid"}
+      ]
+    },
+    {
+      "q": "Which word best describes the opposite of 'hesitate'?",
+      "choices": [
+        {"t": "pause"},
+        {"t": "doubt"},
+        {"t": "proceed", "correct": true},
+        {"t": "delay"}
+      ]
+    },
+    {
+      "q": "Which word is a synonym for 'hilarious'?",
+      "choices": [
+        {"t": "sad"},
+        {"t": "funny", "correct": true},
+        {"t": "serious"},
+        {"t": "sober"}
+      ]
+    },
+    {
+      "q": "Which word best describes the opposite of 'hinder'?",
+      "choices": [
+        {"t": "block"},
+        {"t": "assist", "correct": true},
+        {"t": "stop"},
+        {"t": "obstruct"}
+      ]
+    },
+    {
+      "q": "Which word is more similar to 'historic'?",
+      "choices": [
+        {"t": "modern"},
+        {"t": "ancient", "correct": true},
+        {"t": "new"},
+        {"t": "recent"}
+      ]
+    },
+    {
+      "q": "Which word is a synonym for 'horizontal'?",
+      "choices": [
+        {"t": "vertical"},
+        {"t": "parallel", "correct": true},
+        {"t": "perpendicular"},
+        {"t": "upright"}
+      ]
+    },
+    {
+      "q": "Which word is an antonym for 'hostile'?",
+      "choices": [
+        {"t": "friendly", "correct": true},
+        {"t": "aggressive"},
+        {"t": "mean"},
+        {"t": "belligerent"}
+      ]
+    },
+    {
+      "q": "Which word is more similar to 'huddle'?",
+      "choices": [
+        {"t": "scatter"},
+        {"t": "gather", "correct": true},
+        {"t": "separate"},
+        {"t": "divide"}
+      ]
+    },
+    {
+      "q": "Which word is a synonym for 'identify'?",
+      "choices": [
+        {"t": "confuse"},
+        {"t": "recognize", "correct": true},
+        {"t": "misunderstand"},
+        {"t": "forget"}
+      ]
+    },
+    {
+      "q": "Which word best describes the opposite of 'illegible'?",
+      "choices": [
+        {"t": "unreadable"},
+        {"t": "readable", "correct": true},
+        {"t": "invisible"},
+        {"t": "obscured"}
+      ]
+    },
+    {
+      "q": "Which word is a synonym for 'illustrate'?",
+      "choices": [
+        {"t": "confuse"},
+        {"t": "depict", "correct": true},
+        {"t": "hide"},
+        {"t": "obscure"}
+      ]
+    },
+    {
+      "q": "Which word best describes the action of 'immigrate'?",
+      "choices": [
+        {"t": "depart"},
+        {"t": "stay"},
+        {"t": "arrive", "correct": true},
+        {"t": "visit"}
+      ]
+    },
+    {
+      "q": "Which word is a synonym for 'influence'?",
+      "choices": [
+        {"t": "repel"},
+        {"t": "affect", "correct": true},
+        {"t": "avoid"},
+        {"t": "ignore"}
+      ]
+    },
+    {
+      "q": "Which word best describes the action of 'investigate'?",
+      "choices": [
+        {"t": "ignore"},
+        {"t": "examine", "correct": true},
+        {"t": "overlook"},
+        {"t": "reject"}
+      ]
+    },
+    {
+      "q": "Which word is more similar to 'navigate'?",
+      "choices": [
+        {"t": "lose"},
+        {"t": "steer", "correct": true},
+        {"t": "stop"},
+        {"t": "halt"}
+      ]
+    },
+    {
+      "q": "Which word is an antonym for 'opposed'?",
+      "choices": [
+        {"t": "against"},
+        {"t": "favorable", "correct": true},
+        {"t": "resistant"},
+        {"t": "contrary"}
+      ]
+    },
+    {
+      "q": "Which word is a synonym for 'ordinary'?",
+      "choices": [
+        {"t": "extraordinary"},
+        {"t": "common", "correct": true},
+        {"t": "rare"},
+        {"t": "unique"}
+      ]
+    },
+    {
+      "q": "Which word is more similar to 'passage'?",
+      "choices": [
+        {"t": "blockage"},
+        {"t": "corridor", "correct": true},
+        {"t": "wall"},
+        {"t": "barrier"}
+      ]
+    },
+    {
+      "q": "Which word is a synonym for 'persuade'?",
+      "choices": [
+        {"t": "dissuade"},
+        {"t": "convince", "correct": true},
+        {"t": "discourage"},
+        {"t": "prevent"}
+      ]
+    },
+    {
+      "q": "Which word best describes the meaning of 'primary'?",
+      "choices": [
+        {"t": "secondary"},
+        {"t": "first", "correct": true},
+        {"t": "last"},
+        {"t": "final"}
+      ]
+    },
+    {
+      "q": "Which word is more similar to 'recently'?",
+      "choices": [
+        {"t": "formerly"},
+        {"t": "lately", "correct": true},
+        {"t": "always"},
+        {"t": "never"}
+      ]
+    },
+    {
+      "q": "Which word is a synonym for 'reference'?",
+      "choices": [
+        {"t": "ignore"},
+        {"t": "mention", "correct": true},
+        {"t": "conceal"},
+        {"t": "forget"}
+      ]
+    },
+    {
+      "q": "Which word best describes the action of 'review'?",
+      "choices": [
+        {"t": "ignore"},
+        {"t": "examine", "correct": true},
+        {"t": "discard"},
+        {"t": "create"}
+      ]
+    },
+    {
+      "q": "Which word is a synonym for 'revolt'?",
+      "choices": [
+        {"t": "agree"},
+        {"t": "rebel", "correct": true},
+        {"t": "accept"},
+        {"t": "conform"}
+      ]
+    },
+    {
+      "q": "Which word is more similar to 'scarce'?",
+      "choices": [
+        {"t": "abundant"},
+        {"t": "limited", "correct": true},
+        {"t": "plentiful"},
+        {"t": "overflowing"}
+      ]
+    },
+    {
+      "q": "Which word is a synonym for 'significant'?",
+      "choices": [
+        {"t": "trivial"},
+        {"t": "important", "correct": true},
+        {"t": "minor"},
+        {"t": "insignificant"}
+      ]
+    },
+    {
+      "q": "Which word best describes the meaning of 'source'?",
+      "choices": [
+        {"t": "end"},
+        {"t": "origin", "correct": true},
+        {"t": "exit"},
+        {"t": "conclusion"}
+      ]
+    },
+    {
+      "q": "Which word is a synonym for 'summarize'?",
+      "choices": [
+        {"t": "expand"},
+        {"t": "condense", "correct": true},
+        {"t": "lengthen"},
+        {"t": "detail"}
+      ]
+    },
+    {
+      "q": "Which word is an antonym for 'superior'?",
+      "choices": [
+        {"t": "better"},
+        {"t": "inferior", "correct": true},
+        {"t": "greater"},
+        {"t": "elite"}
+      ]
+    },
+    {
+      "q": "Which word is a synonym for 'tension'?",
+      "choices": [
+        {"t": "calm"},
+        {"t": "stress", "correct": true},
+        {"t": "ease"},
+        {"t": "peace"}
+      ]
+    },
+    {
+      "q": "Which word is a synonym for 'tolerate'?",
+      "choices": [
+        {"t": "reject"},
+        {"t": "endure", "correct": true},
+        {"t": "deny"},
+        {"t": "refuse"}
+      ]
+    },
+    {
+      "q": "Which word is a synonym for 'tremble'?",
+      "choices": [
+        {"t": "stand"},
+        {"t": "shake", "correct": true},
+        {"t": "halt"},
+        {"t": "stop"}
+      ]
+    },
+    {
+      "q": "Which word is a synonym for 'unexpected'?",
+      "choices": [
+        {"t": "predicted"},
+        {"t": "surprising", "correct": true},
+        {"t": "expected"},
+        {"t": "usual"}
+      ]
+    },
+    {
+      "q": "Which word is more similar to 'unfamiliar'?",
+      "choices": [
+        {"t": "known"},
+        {"t": "strange", "correct": true},
+        {"t": "recognizable"},
+        {"t": "familiar"}
+      ]
+    },
+    {
+      "q": "Which word is an antonym for 'vertical'?",
+      "choices": [
+        {"t": "slanted"},
+        {"t": "horizontal", "correct": true},
+        {"t": "tilted"},
+        {"t": "leaning"}
+      ]
+    }
+  ]
+}
